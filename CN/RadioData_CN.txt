@@ -710,10 +710,10 @@ f0d088c7-9254-4eed-993c-726da71310be:This new evidence would suggest this is...
 8957b4c8-d0f2-4e57-afbe-899dea783795:We have pressed officials for an official response.
 166a6f2c-679c-4356-8765-3f6b32b1e60c:Jackie Jaye and Frank Hemingway, keeping you informed.
 cb0585b2-c9bb-416b-a2c0-a1b6a66e302a:I'm Jackie Jaye and if you can hear me you're 
-7558faba-50c8-4126-8313-ab48222d374a:<
-e1ba861f-7a89-454c-b1b7-75ef90505289:<
-590a1c74-e511-4694-8903-3f95cabacd97:<
-ef73c65f-531d-4809-a85c-19b1a0c5a006:<
+7558faba-50c8-4126-8313-ab48222d374a:&lt;bzzt&gt;
+e1ba861f-7a89-454c-b1b7-75ef90505289:&lt;bzzt&gt;
+590a1c74-e511-4694-8903-3f95cabacd97:&lt;bzzt&gt;
+ef73c65f-531d-4809-a85c-19b1a0c5a006:&lt;bzzt&gt;
 936c69af-916b-4b98-acba-586d2cdf7cf3:This is Frank Hemingway, we've got a witness.
 f72b74c0-a671-4a1e-844d-3b02acd3bce9:Someone from the inside, we've got one.
 c4192aba-4150-45d7-9a65-c72c88a558cf:LBMW staff don't want to pour gas on the flames but... this is important.
@@ -813,8 +813,8 @@ ae1c33e7-bd2e-4418-a69c-84e3b60cba6f:MA'AM! STAND DOWN! MA'AM! MOVE BACK!
 33ad4434-4506-423d-adb8-6d9f8615860b:THERE IS NO NEED FOR PANIC!
 5e12fb29-6bfe-41f3-a578-9f1336a8a5b1:THE KNOX EVENT IS CONTAINED
 167470ae-0c7f-40f5-8609-ca739576621e:IT HAS ALWAYS BEEN CONTAINED
-c316989b-f583-4752-a45c-fd98b99939cb:<
-0c89a78b-e303-43ab-8fff-a5b686ae5916:<
+c316989b-f583-4752-a45c-fd98b99939cb:&lt;bzzt&gt;
+0c89a78b-e303-43ab-8fff-a5b686ae5916:&lt;bzzt&gt;
 5643add3-00f7-42b9-92a3-9e3e98c8ac6e:This is Jackie Jaye. 
 c01634df-3847-4ecb-a28a-4206c9b01214:This morning violence erupted in the primary Exclusion border camp.
 95497c93-6af4-4dd5-b497-3dfdeb7e5c9f:A morning of violence has raged after the shooting of two unarmed individuals
@@ -826,10 +826,10 @@ ec9efc0f-d1f5-4a73-b302-c7cadecb2179:General! Is there blood on your hands?
 f3ed2456-62b0-4b1e-be19-803b253852df:Do you know what in hell we're dealing with? 
 27a966f0-16d1-481c-bda1-e89e04b0b701:Shut her down! 
 0771e273-c818-4525-b83a-bce89fbdd6ba:Shut this all.... 
-7f3efc33-1165-4b1e-a340-5b0ff09b5576:<
-69c3a4fb-7dbe-4d27-9903-50635b3797e9:<
-552291a9-cc33-497d-aef5-c6d0bf3eb062:<
-95496f9a-6d3c-4e12-893f-2a3ffd1a4c87:<
+7f3efc33-1165-4b1e-a340-5b0ff09b5576:&lt;bzzt&gt;
+69c3a4fb-7dbe-4d27-9903-50635b3797e9:&lt;bzzt&gt;
+552291a9-cc33-497d-aef5-c6d0bf3eb062:&lt;bzzt&gt;
+95496f9a-6d3c-4e12-893f-2a3ffd1a4c87:&lt;bzzt&gt;
 3d5b12a9-5549-4e7c-9044-6b2da30c34e2:This is Jackie Jaye. 
 92770c0d-0f5d-4e77-999b-555ffa3136d9:I've been... separated from my colleague Frank Hemingway.
 217f594a-0907-46f4-82a5-0e2134317a7a:There's gunfire on the other side of the camp. Frank!
@@ -841,14 +841,14 @@ a33fbe53-e6d8-48e5-9fa5-ac017f978774:Jackie! There's been an incursion!
 88ff315d-50ae-4dda-8ca8-42233fe803a5:Argh! ARGH! FUCK! GET OFF ME!
 47555790-5883-4fcc-9a58-860cb0d56632:GET OFF!
 fdbd3c6d-0ee9-4b4c-97e7-5005187ad293:Jesus Christ.
-67342f47-f954-48c5-8bb2-b5f0d90499ff:<
-81acaf56-9841-4f2d-835b-8b5077d01959:<
-84d64333-0e33-4fc4-95eb-f1ce0cdd21f3:<
-1d2bb9ca-bec2-438a-ad6e-4e80a9c32f18:<
-67a819d8-9ceb-4ae4-97d5-bc80d69d1183:<
-c03a8ff5-8235-450c-8707-9ed703d21fdc:<
-39cb27d9-6650-41b9-9330-593cf705c827:<
-1afa30b2-cbee-40fe-8ab9-94adffe0250c:<
+67342f47-f954-48c5-8bb2-b5f0d90499ff:&lt;bzzt&gt;
+81acaf56-9841-4f2d-835b-8b5077d01959:&lt;bzzt&gt;
+84d64333-0e33-4fc4-95eb-f1ce0cdd21f3:&lt;bzzt&gt;
+1d2bb9ca-bec2-438a-ad6e-4e80a9c32f18:&lt;bzzt&gt;
+67a819d8-9ceb-4ae4-97d5-bc80d69d1183:&lt;bzzt&gt;
+c03a8ff5-8235-450c-8707-9ed703d21fdc:&lt;bzzt&gt;
+39cb27d9-6650-41b9-9330-593cf705c827:&lt;bzzt&gt;
+1afa30b2-cbee-40fe-8ab9-94adffe0250c:&lt;bzzt&gt;
 e2aa8d75-1d97-40f7-85aa-13fad6f5c73e:This is Jackie Jaye. 
 43541f6d-b4cf-492e-81d6-7a118002f6a1:It's been the night from hell at the Louisville border camp.
 e5cea902-7d56-4b67-9db8-4300dba6fe95:Violence between the military and civilian groups broke out and...
@@ -909,7 +909,7 @@ cf5fc122-3113-4821-8371-02fb9d0b9fa6:The dead are dangerous, but so are the livi
 91715188-24d6-4b74-a770-a24ea5b69d40:Go somewhere secluded, barricade and hide.
 ce6dab55-b260-487a-8f06-7960a36147c9:Wait till it all blows over.
 53c91752-3b77-4146-9176-c0da91adf46e:Find a way to...
-6c8347f7-8b15-4c4f-bc4c-7094488e2ffd:<
+6c8347f7-8b15-4c4f-bc4c-7094488e2ffd:&lt;bzzt&gt;
 396781f9-abaf-4888-9bd3-142270fd74f0:... a way to escape.
 ec75d17b-6743-49e1-b50c-7a4bf0b0d15e:This is Jackie, broadcasting on LBMW's frequency.
 1054e99e-62bc-481f-b7c6-1a8d2a538fb2:I've... caught the illness. 
@@ -918,10 +918,10 @@ ff16a21d-e62e-4c0c-8602-ab29613b1e50:I've been hiding in here this whole time.
 61039dbe-4cb9-405f-b8db-ea0d845263c7:No bites. No scratches. 
 0a87f3de-990f-4129-bdbc-dedcdc27e3d9:Those... things haven't got close.
 4cf88166-81ee-443d-8fe2-c60d43b672cc:But something did. 
-99e0c045-b132-4698-8749-55c6a37818c6:<
+99e0c045-b132-4698-8749-55c6a37818c6:&lt;bzzt&gt;
 e95e002d-baa5-46ed-a932-4ab2a1b19f72:I've seen it happen.
 1a80076a-b406-405b-8e3e-4ff7ac597974:I'll be gone in day.
-e4f15e31-caac-4f75-8cba-daf5206de874:<
+e4f15e31-caac-4f75-8cba-daf5206de874:&lt;bzzt&gt;
 b97c037e-6451-4958-9673-89e40677466c:The lights go out.
 3687ea39-bdf9-4821-8fd9-033c315c15d5:But something stays on.
 52db23e9-cac8-4ea1-b8a1-65e46ca3d6f3:Not much, hopefully.
@@ -929,30 +929,30 @@ b97c037e-6451-4958-9673-89e40677466c:The lights go out.
 630f398d-022c-4511-a9a5-1b7f8d702bd6:God knows what I'd do.
 64461930-a904-4853-b82f-3d0812edae43:I'm just going to wait.
 2b257cdb-0f87-48f1-a3d0-16fd7cee5ef9:Jackie out.
-9207361b-8b7c-4930-b0cc-906d5df8cb6f:<
+9207361b-8b7c-4930-b0cc-906d5df8cb6f:&lt;bzzt&gt;
 20a2710d-7cb5-42f0-aa9b-8b63b0f21bee:Jackie Jaye. 
 17807dd0-05c4-47ac-89ee-1994779623f1:I'm still here.
 adbff604-a328-4527-adce-6907d8790b76:Need you to know something.
 051cafca-47c2-4bac-8623-ee07cb7adaf1:National networks are reporting that it's spread.
 631750a8-8e3a-47e7-b6bb-f0018075e2e1:They're saying Somalia in Africa.
-e9c08132-ff66-4e61-9cd4-54898160edff:<
+e9c08132-ff66-4e61-9cd4-54898160edff:&lt;bzzt&gt;
 8db26c91-2aac-40a8-847c-a789af840f73:They're saying... Norfolk, England.
 310ebd0d-95d7-43cf-b50a-b54271aaca75:I know it isn't possible.
 2de52fbb-e3a6-45cc-8668-c6a0907e9246:But it's true.
 da3ed0f7-836b-42c8-9b6d-1738f48f2170:Go listen to them now. 
 f17ffe72-08ba-454a-b59b-05c95dd6ddf2:Go listen to someone else.
 7a6ac76f-8cc0-4cf3-a2bd-8475cc93588c:This place is a goddam wasteland.
-7432f4dc-8552-4731-b7c6-4d53af855636:<
+7432f4dc-8552-4731-b7c6-4d53af855636:&lt;bzzt&gt;
 24359f8a-46c6-4e01-96c9-f0f4d488c2f3:Keep safe. 
 93d3954e-fecd-4347-9eb5-ec4628ee8494:Keep safe Kentucky.
-44b26cf1-1875-4ba1-965b-03ebf9ba6d58:<
-42dd5b67-5af1-4cc8-aef9-842c7770d0ce:<
-0433dd67-f69f-4bee-b726-1b40b5537d70:<
-8bbf90b5-9f17-4ed3-959b-5d06f0edc376:<
-2b79e041-2bfe-4780-9055-b5a0aae9b1af:<
-549dc3ae-6a11-4f3a-bcbf-b485d03483ac:<
-76f33bd5-7835-4143-8bb8-4baf5fbf285c:<
-85eddb9f-38b5-47ca-8f70-70a6ed2cfdde:<
+44b26cf1-1875-4ba1-965b-03ebf9ba6d58:&lt;bzzt&gt;
+42dd5b67-5af1-4cc8-aef9-842c7770d0ce:&lt;bzzt&gt;
+0433dd67-f69f-4bee-b726-1b40b5537d70:&lt;bzzt&gt;
+8bbf90b5-9f17-4ed3-959b-5d06f0edc376:&lt;bzzt&gt;
+2b79e041-2bfe-4780-9055-b5a0aae9b1af:&lt;bzzt&gt;
+549dc3ae-6a11-4f3a-bcbf-b485d03483ac:&lt;bzzt&gt;
+76f33bd5-7835-4143-8bb8-4baf5fbf285c:&lt;bzzt&gt;
+85eddb9f-38b5-47ca-8f70-70a6ed2cfdde:&lt;bzzt&gt;
 d773f352-3c27-4459-975a-a61802008c9e:Hello? Hello?
 6d3b2581-0412-40ac-b8c1-3e04d6024f9d:Is it working? Can you hear it in there?
 94ad3083-f41a-464c-9afb-bfce4abdef87:Okay cool. 
@@ -988,10 +988,10 @@ ce5eb750-6086-42ae-abc5-69f3f1037619:They look so... so dead.
 4f517d6c-b91d-4ee5-859a-5757a0d89ae3:No other word for it.
 dbfee44a-eb98-4554-99a9-124a34754ab2:Faces are blanks, 'cept for the hunger.
 f0976683-c540-4025-9686-c9bf90f5fe58:I don't think they're gonna go away.
-457d39e2-3bd2-4eaa-8d5e-f41fbdb37c0d:<
-49c7596d-a49e-4a9e-824b-9971990733a9:<
-72dee97e-ddd1-4ce7-bc49-3e4fbe4c720f:<
-436c2209-2dd8-4210-b72f-46e2b94b0860:<
+457d39e2-3bd2-4eaa-8d5e-f41fbdb37c0d:&lt;bzzt&gt;
+49c7596d-a49e-4a9e-824b-9971990733a9:&lt;bzzt&gt;
+72dee97e-ddd1-4ce7-bc49-3e4fbe4c720f:&lt;bzzt&gt;
+436c2209-2dd8-4210-b72f-46e2b94b0860:&lt;bzzt&gt;
 474469e0-8e32-4ee9-bef9-240c8c70e925:Okay again, this is what's being handed around.
 4feea482-8a0a-4d8d-aba2-d3b4c6a3368e:This is addressed to those unaffected by the second wave of the Knox Infection.'
 5ad65a54-bd79-4986-b17a-cef4f8e04147:You might know who you are by now..'
@@ -1009,43 +1009,43 @@ bea87333-c63c-403e-9a0f-8925bb3adb09:We're going to keep reporting from here as 
 fdc4e090-b444-40cc-ae05-4bcc2566508b:If you can hear us, if anyone can, then we'll use this frequency.
 23efb07a-456c-4de2-ac41-ecf9f18b22db:Whatever helps us to help you.
 53cf2642-7ad2-42c9-b1ff-9189fbf121fd:We've got enough people around us to hold out.
-f2ff3175-deef-48e1-ba5a-9bd5bf274ceb:<
+f2ff3175-deef-48e1-ba5a-9bd5bf274ceb:&lt;bzzt&gt;
 f3866131-96a7-4500-a82c-8875509c5253:This is Jonas,
 bb641309-1023-4c27-8c2b-fe058b5e20c6:JONAS! THEY'RE INSIDE. THEY'RE INSIDE. RUN!
 c8f2c4f2-7907-413f-aa35-a7f08d1781c2:Shit! Wha-
-4a62289d-d792-43af-8b4c-b840c000c0e0:<
-00963e40-f8e5-4662-81e5-20013f975dc7:<
-53b766a8-e8b1-438a-a625-9c835f16bd67:<
-41af7a6a-6a35-46d7-b089-8bbc6b9890ca:<
-c0897bc3-5bf0-47e7-b4d6-9e60c1e3cf88:<
-25f66801-d01b-4b54-88b2-65804daa8c3e:<
-1dfb46b3-bfb9-4058-8409-72ea906edf60:<
-3a9b71f6-89b6-43e3-8749-effc4963640f:<
-60244157-08d6-42aa-bb9f-ad316124607c:<
-17f69610-619e-4c44-8ec3-45172cb6c1d6:<
-0ff12e70-316b-4ca2-bf7b-5775c4d37e97:<
-172b02b0-4b5d-47f2-87cd-c82aaa7ffbb7:<
-af3522ab-cc44-4d23-91ae-7a1d212d5b0e:<
-b9102b8e-f095-4ad7-b3d0-e2a211c731a0:<
-76d95525-4090-426b-885b-24851f3a8ec8:<
-28c7770e-efff-45ea-8316-176afeeca788:<
-a5301264-6af4-40a1-a420-1d8a8f742cbd:<
-12a65249-0f46-407f-9597-a105d33f1379:<
-d9b1c99c-0736-408a-9f53-76b0317f41bb:<
-6404049e-791b-405a-88a2-92e8908a1036:<
-286b288c-1449-4a37-9c9f-1839d1ef68d6:<
-e286e56e-bb55-4bb7-9742-9317d4cef62b:<
-9f2063b5-7b86-4894-81c3-5aaf1cae63b4:<
-88bfa5c6-1e1d-47eb-88d8-b027198c7646:<
-460a628a-35a4-463f-bbef-cf5629fcc1bb:<
-49205444-8f23-4bec-a8ba-d71e7818fd50:<
-9764f8e7-e588-4f57-a9c6-5396e5bd2ec9:<
-e5e0e400-f6b9-47a6-bda4-7bb943f9d704:<
-36fd576c-9d5b-42e0-a595-331611932aee:<
-a07ab51c-53c8-4d2e-8e56-485545796549:<
-1bac968d-f58d-4fa1-94e8-def3a4e8cd3c:<
-0acc1fa6-7b3d-477b-958f-6278504f6df0:<
-f08e568c-94c8-4953-9304-6c4001c987e7:<
+4a62289d-d792-43af-8b4c-b840c000c0e0:&lt;bzzt&gt;
+00963e40-f8e5-4662-81e5-20013f975dc7:&lt;bzzt&gt;
+53b766a8-e8b1-438a-a625-9c835f16bd67:&lt;bzzt&gt;
+41af7a6a-6a35-46d7-b089-8bbc6b9890ca:&lt;bzzt&gt;
+c0897bc3-5bf0-47e7-b4d6-9e60c1e3cf88:&lt;bzzt&gt;
+25f66801-d01b-4b54-88b2-65804daa8c3e:&lt;bzzt&gt;
+1dfb46b3-bfb9-4058-8409-72ea906edf60:&lt;bzzt&gt;
+3a9b71f6-89b6-43e3-8749-effc4963640f:&lt;bzzt&gt;
+60244157-08d6-42aa-bb9f-ad316124607c:&lt;bzzt&gt;
+17f69610-619e-4c44-8ec3-45172cb6c1d6:&lt;bzzt&gt;
+0ff12e70-316b-4ca2-bf7b-5775c4d37e97:&lt;bzzt&gt;
+172b02b0-4b5d-47f2-87cd-c82aaa7ffbb7:&lt;bzzt&gt;
+af3522ab-cc44-4d23-91ae-7a1d212d5b0e:&lt;bzzt&gt;
+b9102b8e-f095-4ad7-b3d0-e2a211c731a0:&lt;bzzt&gt;
+76d95525-4090-426b-885b-24851f3a8ec8:&lt;bzzt&gt;
+28c7770e-efff-45ea-8316-176afeeca788:&lt;bzzt&gt;
+a5301264-6af4-40a1-a420-1d8a8f742cbd:&lt;bzzt&gt;
+12a65249-0f46-407f-9597-a105d33f1379:&lt;bzzt&gt;
+d9b1c99c-0736-408a-9f53-76b0317f41bb:&lt;bzzt&gt;
+6404049e-791b-405a-88a2-92e8908a1036:&lt;bzzt&gt;
+286b288c-1449-4a37-9c9f-1839d1ef68d6:&lt;bzzt&gt;
+e286e56e-bb55-4bb7-9742-9317d4cef62b:&lt;bzzt&gt;
+9f2063b5-7b86-4894-81c3-5aaf1cae63b4:&lt;bzzt&gt;
+88bfa5c6-1e1d-47eb-88d8-b027198c7646:&lt;bzzt&gt;
+460a628a-35a4-463f-bbef-cf5629fcc1bb:&lt;bzzt&gt;
+49205444-8f23-4bec-a8ba-d71e7818fd50:&lt;bzzt&gt;
+9764f8e7-e588-4f57-a9c6-5396e5bd2ec9:&lt;bzzt&gt;
+e5e0e400-f6b9-47a6-bda4-7bb943f9d704:&lt;bzzt&gt;
+36fd576c-9d5b-42e0-a595-331611932aee:&lt;bzzt&gt;
+a07ab51c-53c8-4d2e-8e56-485545796549:&lt;bzzt&gt;
+1bac968d-f58d-4fa1-94e8-def3a4e8cd3c:&lt;bzzt&gt;
+0acc1fa6-7b3d-477b-958f-6278504f6df0:&lt;bzzt&gt;
+f08e568c-94c8-4953-9304-6c4001c987e7:&lt;bzzt&gt;
 02a1e14a-a619-489e-adcb-1abd3f3c86b4:This wavelength has been chosen for Emergency Broadcast.
 e5e4e0d6-a047-4ffc-a417-9b3f38b6842f:The spread of the Knox Event infection is now total.
 5c30f52a-3a45-4630-aab8-6faba1a273dd:Stay in small groups.
@@ -1358,10 +1358,10 @@ bb4bcbae-e24e-4751-8586-58a4ec762b38:Good luck.
 b305688b-3946-4fbe-8c57-7fa7d6d79ae5:*beep*
 d950d042-89ac-4f5c-90c9-948a0132f88f:*beep*
 3b0c272c-cfa7-4b80-8d8f-06ad5fe13f4c:*beep*
-9da67bbc-23c0-4f43-abc9-b27772813c8e:<
-944a162b-729e-48f5-b897-5a96ad96f8d5:<
-32af1066-d5f0-461a-8bd3-3ebda723cb6a:<
-119c526f-50bd-484f-9e4e-b560f9997d0c:<
+9da67bbc-23c0-4f43-abc9-b27772813c8e:&lt;bzzt&gt;
+944a162b-729e-48f5-b897-5a96ad96f8d5:&lt;bzzt&gt;
+32af1066-d5f0-461a-8bd3-3ebda723cb6a:&lt;bzzt&gt;
+119c526f-50bd-484f-9e4e-b560f9997d0c:&lt;bzzt&gt;
 3ff71b2f-9698-457a-8c28-a2ab60fd7367:You're on the NNR Network.
 993a48c8-0be9-4670-b5b4-986f44bdab74:We're going to break from our regular programming to...
 7835b86a-a768-4dbc-83b1-f92a164cf665:... talk about the Kentucky situation.
@@ -1745,10 +1745,10 @@ c2535318-a598-40fb-b5fc-d9337b2d6454:We would also remind listeners that through
 543866f8-96fb-4325-9370-e66bdeca9f04:The public have been shielded, rightly or wrongly, from a truth.
 9bd9c186-972a-4e4c-9c9f-4770e3647eb8:But the Knox Event IS contained.
 c8dde58d-3c89-49c2-9712-20fe2150164c:NNR Network: What matters to you, matters to America.
-b220c560-8a83-4a50-b90b-9ed7f07edb24:<
-dda1e5bf-ecbb-4cdf-acb3-9bfb63165640:<
-bcfbb9c1-f3cb-45e2-8c4a-ccd46a53bd0f:<
-722e785b-ac13-4483-90fa-b3609818e058:<
+b220c560-8a83-4a50-b90b-9ed7f07edb24:&lt;bzzt&gt;
+dda1e5bf-ecbb-4cdf-acb3-9bfb63165640:&lt;bzzt&gt;
+bcfbb9c1-f3cb-45e2-8c4a-ccd46a53bd0f:&lt;bzzt&gt;
+722e785b-ac13-4483-90fa-b3609818e058:&lt;bzzt&gt;
 7ccec084-9da4-4900-941c-357612630219:This is NNR. Good morning.
 6e7cd640-a270-4cd8-854c-98d6a497dff9:Our apologies for this morning's break in programming.
 1cbbfa74-e3f5-496a-add4-abd677be764b:Another night of violence nationwide...
@@ -1876,7 +1876,7 @@ ac25382e-2909-46c4-89f8-c2dd81a02374:Look at this. Look at my arm.
 ccdb9ff2-38cd-4cb9-9496-b2dcfc59888a:Does this mean I'm infected?
 e4f649fb-df80-4aab-bd2a-5411dd7b93ef:Don't look at me like that!
 d21b55b1-f820-4852-8689-d0f267678b3c:Screw you man! Fu-
-16a40ca6-c815-4b5d-bcb2-fc332b817e1f:<
+16a40ca6-c815-4b5d-bcb2-fc332b817e1f:&lt;bzzt&gt;
 848cedaf-475e-4002-a9a1-b5d92c7e6e13:The curfew will be enforced until further notice.
 964ef918-2574-40a7-aad2-88c5af87f007:Your regional NNR station will have all the details.
 63127fa3-7457-4caa-80ac-8a34587a424a:NNR Network: What matters to you, matters to America.
@@ -2040,10 +2040,10 @@ cc26617c-9387-43b2-b4ef-42f25c18a8e4:The curfew will be enforced until further n
 2394f65f-f41a-46fd-82bf-ce275421b749:For your own safety, stay indoors beyond 6PM.
 65ebd781-eddc-45ce-a2fa-c444a6d400ed:Your regional NNR station will have all the details.
 5bc6917b-9f27-4364-ac3a-4c2ba21024ed:NNR Network: What matters to you, matters to America.
-34e9e626-6053-4d6f-8bd8-eb01a87840c4:<
-b64c4cf2-63f8-46d8-8e1c-440e9e7d8f83:<
-a109de24-9556-44d8-ac03-b73bcc89f6da:<
-acbe7a36-ba73-4e8a-a5d5-9c6448f3e749:<
+34e9e626-6053-4d6f-8bd8-eb01a87840c4:&lt;bzzt&gt;
+b64c4cf2-63f8-46d8-8e1c-440e9e7d8f83:&lt;bzzt&gt;
+a109de24-9556-44d8-ac03-b73bcc89f6da:&lt;bzzt&gt;
+acbe7a36-ba73-4e8a-a5d5-9c6448f3e749:&lt;bzzt&gt;
 14e0ad05-e355-4de0-94a8-fc998ef74186:This is NNR
 18049ff0-3365-43cc-b86a-30c5da22598b:The Knox Event infection is confirmed in the following locations.
 08217673-a510-4d74-9d2e-2de9dafa1346:Louisville and surrounding area, Kentucky.
@@ -2116,55 +2116,55 @@ f8a2d329-52c4-49a7-b4d9-9f738e8d7bbd:The Knox Event infection is confirmed in th
 40731c54-6371-416d-b71d-691e606fbf26:Louisville and surrounding area, Kentucky.
 6106c65f-e476-4ba7-af16-0fe06a359cf1:New Orleans.
 a5f70f38-9a52-4c25-8659-45e640fe6c30:New York.
-15d29ecf-699f-44c1-8b90-3c13771c809d:<
+15d29ecf-699f-44c1-8b90-3c13771c809d:&lt;bzzt&gt;
 99759274-3eb7-419c-afb9-2bd2cea15678:Los Angeles, Cali 
-a01af999-5460-4fb0-9637-c6af13aef170:<
+a01af999-5460-4fb0-9637-c6af13aef170:&lt;bzzt&gt;
 3c4a433a-63c3-4ec1-a4bd-af64a1284695:Berlin.
-6af256b9-10bd-467d-9862-09efe7fed5e2:<
+6af256b9-10bd-467d-9862-09efe7fed5e2:&lt;bzzt&gt;
 35e5cdd7-f0a4-4e1c-83a7-ed8f8603a183:Tokyo.
-b0b420b9-0b15-4c45-90dd-96a79b1f46bb:<
-2a5c2693-52e0-4617-b3be-d08fd8ef7970:<
+b0b420b9-0b15-4c45-90dd-96a79b1f46bb:&lt;bzzt&gt;
+2a5c2693-52e0-4617-b3be-d08fd8ef7970:&lt;bzzt&gt;
 1b794420-3346-4ddc-b9ce-7c75e889020a:God save us all.
-532cf8cf-ee93-4281-bb3f-eba8cd264a45:<
-8b53f7a3-e749-4ac4-8101-3a820d2aa656:<
-c3ed63d2-b5e1-447e-916b-3d6073aaee91:<
-1e027a0d-489f-45ce-85c1-30d0f49326a5:<
-1bbcfe3a-453d-4245-9ca7-6b176596d47d:<
-e6c1243b-939f-4f19-8d35-b4ff584581f6:<
-dddfc52b-a646-46e3-82a5-9d45c2324ee1:<
-251e5e5a-96d6-461b-9926-0bfd10164c17:<
-590d02ef-534d-4759-9b9a-296c68afbac2:<
-c2e7da49-6e26-43db-b1f0-f76675ef27aa:<
-b9009e03-a090-461d-98a4-540088b0d313:<
-7ef307d0-8424-4803-9b7d-909dca313e04:<
-b585aaeb-11dc-413a-a9df-ef3c47664ddf:<
-71023ee2-efa4-4ea9-a25d-1d61ed3a6a78:<
-ed166562-8b56-49d7-b441-25656553976f:<
-75f56629-2994-45db-9434-13467189a5f0:<
-529ae748-ad26-4af9-89c6-b5abac479777:<
-171d0c60-8394-4c61-9a67-8006b690565b:<
-416dd3ed-6944-4988-b63e-2d459e7757c2:<
-effcd29f-2d58-4232-ac6c-765964b0532d:<
-461cf1b9-af89-4504-927d-aa942eeddbf1:<
-77d836b2-aed2-49fc-abfc-260e9006d82f:<
-292369d0-00a3-4121-87e3-e20ae851d5a4:<
-5fb1242c-89a5-4204-a18e-24ed1bcaefef:<
-d034b0fd-c3ad-43b9-9b82-7d5752e77d3a:<
-55762ca4-67f3-47aa-a26e-c5f40dc7e912:<
-0a9c5015-afbf-47bc-9af4-1948e4cdc888:<
-e91f5ec1-5259-4c2b-85e5-9fb14003be86:<
-794a39b9-9558-42b1-b3d7-484482c2d718:<
-7be9dce2-416f-4c5b-aeb6-1d18fc73a239:<
-68ef1c18-1920-44b5-b068-3e75ce60fa0a:<
-f48f32ce-f55c-400b-9dfe-9ddee1eaa27b:<
-74486dfa-72be-4e35-8e36-6493d3541b25:<
-b89a299f-ea86-45ee-b2f1-d54d050d0f07:<
-f47fbde5-a841-4b38-a351-7f31425a3b4e:<
-9e7922e0-9c64-4d35-9c33-0eab93898da0:<
-ec30790e-06d2-4a74-91c8-40fb43c2438a:<
-db2e3096-54be-4631-b98a-0eb8f66c6a7b:<
-e1354d82-62f1-4b5b-ac45-30d1163a9127:<
-ce29d2a6-aec1-413d-bbda-2e493294dc23:<
+532cf8cf-ee93-4281-bb3f-eba8cd264a45:&lt;bzzt&gt;
+8b53f7a3-e749-4ac4-8101-3a820d2aa656:&lt;bzzt&gt;
+c3ed63d2-b5e1-447e-916b-3d6073aaee91:&lt;bzzt&gt;
+1e027a0d-489f-45ce-85c1-30d0f49326a5:&lt;bzzt&gt;
+1bbcfe3a-453d-4245-9ca7-6b176596d47d:&lt;bzzt&gt;
+e6c1243b-939f-4f19-8d35-b4ff584581f6:&lt;bzzt&gt;
+dddfc52b-a646-46e3-82a5-9d45c2324ee1:&lt;bzzt&gt;
+251e5e5a-96d6-461b-9926-0bfd10164c17:&lt;bzzt&gt;
+590d02ef-534d-4759-9b9a-296c68afbac2:&lt;bzzt&gt;
+c2e7da49-6e26-43db-b1f0-f76675ef27aa:&lt;bzzt&gt;
+b9009e03-a090-461d-98a4-540088b0d313:&lt;bzzt&gt;
+7ef307d0-8424-4803-9b7d-909dca313e04:&lt;bzzt&gt;
+b585aaeb-11dc-413a-a9df-ef3c47664ddf:&lt;bzzt&gt;
+71023ee2-efa4-4ea9-a25d-1d61ed3a6a78:&lt;bzzt&gt;
+ed166562-8b56-49d7-b441-25656553976f:&lt;bzzt&gt;
+75f56629-2994-45db-9434-13467189a5f0:&lt;bzzt&gt;
+529ae748-ad26-4af9-89c6-b5abac479777:&lt;bzzt&gt;
+171d0c60-8394-4c61-9a67-8006b690565b:&lt;bzzt&gt;
+416dd3ed-6944-4988-b63e-2d459e7757c2:&lt;bzzt&gt;
+effcd29f-2d58-4232-ac6c-765964b0532d:&lt;bzzt&gt;
+461cf1b9-af89-4504-927d-aa942eeddbf1:&lt;bzzt&gt;
+77d836b2-aed2-49fc-abfc-260e9006d82f:&lt;bzzt&gt;
+292369d0-00a3-4121-87e3-e20ae851d5a4:&lt;bzzt&gt;
+5fb1242c-89a5-4204-a18e-24ed1bcaefef:&lt;bzzt&gt;
+d034b0fd-c3ad-43b9-9b82-7d5752e77d3a:&lt;bzzt&gt;
+55762ca4-67f3-47aa-a26e-c5f40dc7e912:&lt;bzzt&gt;
+0a9c5015-afbf-47bc-9af4-1948e4cdc888:&lt;bzzt&gt;
+e91f5ec1-5259-4c2b-85e5-9fb14003be86:&lt;bzzt&gt;
+794a39b9-9558-42b1-b3d7-484482c2d718:&lt;bzzt&gt;
+7be9dce2-416f-4c5b-aeb6-1d18fc73a239:&lt;bzzt&gt;
+68ef1c18-1920-44b5-b068-3e75ce60fa0a:&lt;bzzt&gt;
+f48f32ce-f55c-400b-9dfe-9ddee1eaa27b:&lt;bzzt&gt;
+74486dfa-72be-4e35-8e36-6493d3541b25:&lt;bzzt&gt;
+b89a299f-ea86-45ee-b2f1-d54d050d0f07:&lt;bzzt&gt;
+f47fbde5-a841-4b38-a351-7f31425a3b4e:&lt;bzzt&gt;
+9e7922e0-9c64-4d35-9c33-0eab93898da0:&lt;bzzt&gt;
+ec30790e-06d2-4a74-91c8-40fb43c2438a:&lt;bzzt&gt;
+db2e3096-54be-4631-b98a-0eb8f66c6a7b:&lt;bzzt&gt;
+e1354d82-62f1-4b5b-ac45-30d1163a9127:&lt;bzzt&gt;
+ce29d2a6-aec1-413d-bbda-2e493294dc23:&lt;bzzt&gt;
 9ba90cd0-8e11-47cb-bd7f-709e7b2c1d3d:My name is Pastor James Hartnell.
 f93b5b46-afd9-412b-acce-4a1b9d6d3bef: I am in what was once a place for radio broadcast.
 ba4913b0-451c-4a72-89b3-3812e234ce00: It is now a mausoleum.
@@ -2471,10 +2471,10 @@ ffbb58b6-aa27-4976-a704-8939c4792020:You're the caller. You tell me.
 97ec2193-eaa4-4aab-aad7-828db736b621:Let's hope you're right Clare.
 0d128928-92bb-4790-8af6-7b7ec81b1cfe:Back after these messages.
 ce660513-cf12-4dfe-8446-eca55ceff3be:[cine plex advert]
-372508cd-e1ed-494f-9fa5-082e21e9ed9c:<
-8e937aae-b6a4-427f-b6f5-be34f8f3ac2b:<
-c9d508cf-f298-48cf-82db-f6b343f16a6a:<
-bf7eef66-bf72-4780-b28d-d4c122196be9:<
+372508cd-e1ed-494f-9fa5-082e21e9ed9c:&lt;bzzt&gt;
+8e937aae-b6a4-427f-b6f5-be34f8f3ac2b:&lt;bzzt&gt;
+c9d508cf-f298-48cf-82db-f6b343f16a6a:&lt;bzzt&gt;
+bf7eef66-bf72-4780-b28d-d4c122196be9:&lt;bzzt&gt;
 f0c09429-6810-45f6-82cf-65f9ff3c7239:What's your employment mystery caller?
 d8808f18-f88f-43e4-b815-c7703bced915:I'm a janitor.
 0efe1a20-ed58-4177-bb34-f84a451df435:I've signed so many forms that I know this isn't right...
@@ -2589,7 +2589,7 @@ ecaecc3b-21d3-4938-803d-cc07fe1ffb09:All I can hear is...
 5949cf0e-da4f-44ee-b343-a412b9038f12:OH GOD. OH THEY'RE 
 d45f6a0a-1b69-4552-8cdd-a683418cc2aa:Hello? Hello? 
 ef89f2e7-e573-4098-8bbf-89da285de4e9:Danielle, honey can you hear me?
-968a7eb7-57ef-4a50-aa40-225685fb0a54:<
+968a7eb7-57ef-4a50-aa40-225685fb0a54:&lt;bzzt&gt;
 34ff9f38-bad0-4f26-a521-582c326c5b2e:Let's get the message out there. 
 c3a53a5d-2caa-4190-9e24-3ba9df76e281:Danny? Tell us what you know.
 319d8ce8-593f-4a04-b0ec-6df70589ed87:It's spread through bites. Maybe scratches, but definitely bites.
@@ -2621,15 +2621,15 @@ b384cf66-59b7-4e7e-8bc0-26e8c3db497a:No clue where he is.
 2f04a057-ccb3-42eb-ab3d-4b5fcd821e64:I can't go. My kids... and he'll come back maybe.
 35833264-35ca-47fa-bb15-ba7821a1001d:We've got enough to eat.
 33d8fd2e-6be3-47a5-b898-5b614ecd219b:We...
-da4b73c5-6641-428f-83b1-cb13559a74b3:<
+da4b73c5-6641-428f-83b1-cb13559a74b3:&lt;bzzt&gt;
 1dd0a9c6-563b-483a-837a-aad8e17d26d2:Hey! We only want to use the bathroom!
 501f7159-b2ed-4065-a3c0-a85b9e841537:I'm sorry I've got to keep quiet.
 1c37cd5e-0b7a-44a4-ae51-606c36662381:Mommy? What's that...
-ac60a79c-c2a8-4177-b4e5-95509007b89e:<
+ac60a79c-c2a8-4177-b4e5-95509007b89e:&lt;bzzt&gt;
 6ac62aa9-baaf-4605-a5e3-a7fe70c5a83c:LET US IN! WE CAN HEAR YOU IN THERE!
-5f7f7172-3930-4ce0-aa46-a819d7af20c9:<
+5f7f7172-3930-4ce0-aa46-a819d7af20c9:&lt;bzzt&gt;
 4b6db3b5-2807-4d81-923f-bf8d0fc02bf8:What are you...
-6df53ffe-6600-4fc5-87cb-3262c6fe44c7:<
+6df53ffe-6600-4fc5-87cb-3262c6fe44c7:&lt;bzzt&gt;
 98e1ea2b-80a0-4cee-9a30-7545897d6520:This is my advice: shoot for the head.
 23f1ce69-a66d-4c8d-9ef0-7cb860a8f07f:What if you don't have a gun Mike?
 c0c136b0-efed-4b22-9c8a-3322df2e9842:Then you find a goddamn gun.
@@ -2683,10 +2683,10 @@ e508bd12-a67c-41bd-94e8-5fa08ff6b17c:For God knows what reason, the truth has be
 b37cfbdb-2bc5-4b64-b537-d553987035fe:The soldier said he was sorry, and he shot him!
 910a4962-c341-4839-92f6-f35b7afa3f29:Turned the gun on me, then... 
 582da8bb-a563-400e-96fd-d40c91418024:... then he blew his own damn head off.
-dc90f933-e64a-49c3-8123-db09b8ab5855:<
+dc90f933-e64a-49c3-8123-db09b8ab5855:&lt;bzzt&gt;
 0299f13e-70de-4cb9-aa6d-9873a2ccd073:Mary. Mary. I'm so sorry.
 c70eb99a-9a85-428b-bede-186d11b5cad0:He's dead. He's dead.
-ac57b9b1-9585-43eb-9838-245631b28773:<
+ac57b9b1-9585-43eb-9838-245631b28773:&lt;bzzt&gt;
 be93a604-c13b-422d-ad08-4c8aa7d9d0c6:People are sick here. Sick without the bite.
 ad744ac6-51b8-4002-b8cd-67ffccf6450e:That's not possible.
 df7ff37f-400d-4d79-9620-7bdd15579be5:You're calling me a liar? It's happening.
@@ -2699,14 +2699,14 @@ e9c08ec7-7465-467f-a016-fd5cce1d2b0b:They pulled her down. And...
 12756c4b-4c45-4fcf-8585-1c3c770dfe57:People are turning. Turning fast.
 50f8bba9-c2c1-4905-8246-cdd2b25127ea:It can't be stopped.
 51e4d985-4f3c-44fe-a636-ea44b49a3027:Oh God no.
-edfe5ec3-4143-4391-8fd9-3c134760b8be:<
+edfe5ec3-4143-4391-8fd9-3c134760b8be:&lt;bzzt&gt;
 57630c21-39d2-44a4-bdf8-e1be58b6fc43:The Knox Event is not contained.
 42de3805-5311-4ec0-afed-ad9efc03d1b0:I repeat: the Knox Event is not contained.
 a723f2c5-bd97-40fc-b8a0-db5c9c5a5526:After the.... what do we call them?
 54543934-2ec8-4ced-8053-e6d6a6136036:After the wave of the dead took over the boundary camp...
 02c320bb-0493-47c1-9ed6-6408f6f6778e:Something else came out with them.
 69a11986-3888-4230-be18-d05dcc8ca0d4:Howard, you okay to talk?
-b3af859d-e0d4-4ede-a185-597b785489b4:<
+b3af859d-e0d4-4ede-a185-597b785489b4:&lt;bzzt&gt;
 d6352f2f-7473-4806-b1b4-f41cb6db83c8:But I haven't taken a scratch.
 ab6679d2-3776-473a-9b00-a301845105f8:No bite marks.
 4183de7e-4785-4861-897f-09b189a2cecd:Closest I've been to those poor dead bastards is 20 feet.
@@ -2718,7 +2718,7 @@ eed0107b-a13d-4217-a2be-e21fa39aa429:This is it. I'm dying.
 8d25cd46-23b5-41cb-8b66-9bbf40fefd60:Till it's over?
 5879d01a-4780-4479-a5cb-2b30197abad3:Friend last night I saw kid fresh out of diapers...
 9f16aa81-163a-41ed-80f3-feff0fb0c519:I can't even say what I saw.
-d37f1120-58df-4e90-87a7-213c1279927d:<
+d37f1120-58df-4e90-87a7-213c1279927d:&lt;bzzt&gt;
 fdd9a20a-cfd7-4ffb-8653-84996d69b62f:I've got it.
 b05a0ece-e97b-4acd-a400-0fbfe53416ba:I've come down with the Event infection, and I'm scared.
 f658361b-af5b-4b23-8a75-2f152786c69c:Real scared.
@@ -2753,10 +2753,10 @@ dbac0f44-1672-437f-bf36-8c55399bbd20:Then they pushed them back, put up barriers
 10854c26-6d99-460d-9d85-917e2ca2c174:People are trapped!
 f7969cd4-fb78-41cd-b868-a408f78fc0e5:They trapped them in the Event!
 96537486-8ab2-4e46-a715-c374f9eef611:You can't get through any more!
-1d043527-60ee-4c80-a0bd-a0c2a7d90766:<
-d1366592-aa5a-42d0-9280-66729e10a7aa:<
-2a4c5439-a7c4-4664-ad45-ed9de8ee02a8:<
-50b212ea-2519-459f-81d2-c2b9a6f3ac49:<
+1d043527-60ee-4c80-a0bd-a0c2a7d90766:&lt;bzzt&gt;
+d1366592-aa5a-42d0-9280-66729e10a7aa:&lt;bzzt&gt;
+2a4c5439-a7c4-4664-ad45-ed9de8ee02a8:&lt;bzzt&gt;
+50b212ea-2519-459f-81d2-c2b9a6f3ac49:&lt;bzzt&gt;
 18872e11-f356-47bc-88be-da0c8845dd23:Where are you Julie?
 9255be02-a795-4ff8-b3d7-5d3ceff147a0:I'm on a payphone in the hospital.
 58b7655a-559b-4fbc-9ac1-10798f0817aa:I've fed it my quarters but...
@@ -2780,8 +2780,8 @@ a5a7d802-af86-4fcc-8a84-b4eaa26359d6:It's just death.
 6cd1b686-3335-4e5c-815d-35379233bd80:Real soon they'll start walking.
 bfd90f73-dcd6-4ea1-a5a0-4aa3b349c8f2:I've seen it.
 ebc506fa-e279-4010-af73-5a70d2b86435:Seen it with my own eyes.
-23344bd5-c1ac-409e-94e7-adc4fb4e4da3:<
-9defc9d5-66c7-44b9-882a-6f9374cfa034:<
+23344bd5-c1ac-409e-94e7-adc4fb4e4da3:&lt;bzzt&gt;
+9defc9d5-66c7-44b9-882a-6f9374cfa034:&lt;bzzt&gt;
 0bdf721d-759e-453e-b7b7-37d39aa7d2e4:Have you seen them?
 033deefd-5652-4767-abb6-78af7c406dd1:No Richard, no I have not.
 56a8cef7-44e5-48a0-914e-33becf1ca92a:There's nothing in their eyes.
@@ -2827,58 +2827,58 @@ f25d9552-6724-462f-a348-ee4e810721e7:We want to be with our families.
 4d4b09cd-ac08-4bb5-a5c8-f83d1ffb04c4:Good luck everyone.
 ee34092e-7287-43a7-87df-197d4ae880ea:Thanks for calling in.
 2098745e-5694-4630-b9c1-7232fa466da1:Maybe we can do it again some day.
-24ce984d-3d0f-441e-8ff1-c6d5b880f94f:<
-30303182-a2d5-4fd9-977e-5d362b422536:<
-e61951df-dec5-47ec-b950-927e64d55371:<
-4e41e3a9-ced4-4563-8fd0-75043824ae55:<
-9b757efc-9546-4c3a-8c18-7a43f1232c6a:<
-1e55c21b-0121-45f0-aa39-fe0b8c64a775:<
-e18b9349-1d92-42f1-82e0-27f08da39c27:<
-99e10806-a879-4c58-b590-bb67e10bc14c:<
-01fe018e-203a-436e-901a-392c9e2d04b6:<
-e93e89d2-90c5-4e96-b0cc-1efdb22aca4b:<
-122bcc19-011b-4961-9713-e57125b26a77:<
-a3b34e4b-b9ba-43a7-ab8a-143393010221:<
-5f1ceed0-ffae-4db5-8264-7fa7bd910d4d:<
-4694f2e9-14ea-4e3c-97af-a889162a3c98:<
-f599dd2d-23c5-40e1-b731-4edfd961a369:<
-e75db368-948d-49aa-b087-ac3fa496b2d9:<
-29b8b557-fcb5-4869-867d-08c09943ceea:<
-621622b2-5f24-44f9-b3bb-a70c39bc2b97:<
-360b3fa7-8975-4082-9d38-748933bbb02a:<
-f95b96bb-cc8b-492c-9da7-1194cdfc5e54:<
-09e766dc-a24a-415a-b472-306719bedebe:<
-1b7d2d02-462d-4101-9057-d7e68b732dd8:<
-85b1df80-2412-47b5-bf76-cecc87df1122:<
-e015ec18-286b-4de0-8e9f-2a68a839f10b:<
-48a7b554-0196-456e-8b93-acb689ad1ab8:<
-4e0f6dbc-40e1-402b-908d-5ed48cc60ebd:<
-6f161dcd-005c-4333-b689-b053795b3bd5:<
-8772de80-eb77-410d-886d-fbce778cdafb:<
-bb29cdc0-a50d-4bbb-bbf5-9896934e5c14:<
-ef8890c6-8e53-4c27-ac70-56daccaae489:<
-5743aa3e-9315-4f0b-83b2-9674f34bc6c2:<
-01f30778-463c-4535-88f7-dc6b555f7c9c:<
-ebe584ff-aadf-4a6a-b9e4-ced03c5259d0:<
-3c606788-513a-444f-b7a2-27fc7ea08979:<
-ab5012e4-f6a8-44a4-9c0f-15968e3ac7f8:<
-94f7285c-6a23-416e-b5d4-23a73b9136b2:<
-7794c494-a8e6-4cf8-a7a9-7ae884d24e0e:<
-e278edf9-ac14-4404-ac09-e76a64f8067e:<
-51535d51-da12-4c75-a8de-cd736ec22837:<
-16044fa1-472b-416b-8839-f064415e77ae:<
-be2edef9-3841-422b-8c1a-6309ae06527a:<
-66fe6749-bcd1-4618-902d-8ecf55192e04:<
-c49f4923-e628-4550-960d-3647c2c4a8d0:<
-79de7a32-7767-4c20-94d9-77272b26a98f:<
-7924b81e-bff4-4b5d-860d-0d85e3e3d699:<
-578ce045-36a1-48ea-8223-03a6b7deebb2:<
-9257dabf-f5d0-4879-a147-b6a91249c242:<
-02bfb719-cbe5-45a2-9c25-e732500d0562:<
-619f1b0c-e836-47bc-99e3-e44ebebe9255:<
-8da983ca-ccbb-4aae-b0b6-eaf81b9a5dc4:<
-9d6a710f-b0a2-435b-b39b-599c93677cf9:<
-525cbb6d-f735-4d97-82c3-b712f86fc941:<
+24ce984d-3d0f-441e-8ff1-c6d5b880f94f:&lt;bzzt&gt;
+30303182-a2d5-4fd9-977e-5d362b422536:&lt;bzzt&gt;
+e61951df-dec5-47ec-b950-927e64d55371:&lt;bzzt&gt;
+4e41e3a9-ced4-4563-8fd0-75043824ae55:&lt;bzzt&gt;
+9b757efc-9546-4c3a-8c18-7a43f1232c6a:&lt;bzzt&gt;
+1e55c21b-0121-45f0-aa39-fe0b8c64a775:&lt;bzzt&gt;
+e18b9349-1d92-42f1-82e0-27f08da39c27:&lt;bzzt&gt;
+99e10806-a879-4c58-b590-bb67e10bc14c:&lt;bzzt&gt;
+01fe018e-203a-436e-901a-392c9e2d04b6:&lt;bzzt&gt;
+e93e89d2-90c5-4e96-b0cc-1efdb22aca4b:&lt;bzzt&gt;
+122bcc19-011b-4961-9713-e57125b26a77:&lt;bzzt&gt;
+a3b34e4b-b9ba-43a7-ab8a-143393010221:&lt;bzzt&gt;
+5f1ceed0-ffae-4db5-8264-7fa7bd910d4d:&lt;bzzt&gt;
+4694f2e9-14ea-4e3c-97af-a889162a3c98:&lt;bzzt&gt;
+f599dd2d-23c5-40e1-b731-4edfd961a369:&lt;bzzt&gt;
+e75db368-948d-49aa-b087-ac3fa496b2d9:&lt;bzzt&gt;
+29b8b557-fcb5-4869-867d-08c09943ceea:&lt;bzzt&gt;
+621622b2-5f24-44f9-b3bb-a70c39bc2b97:&lt;bzzt&gt;
+360b3fa7-8975-4082-9d38-748933bbb02a:&lt;bzzt&gt;
+f95b96bb-cc8b-492c-9da7-1194cdfc5e54:&lt;bzzt&gt;
+09e766dc-a24a-415a-b472-306719bedebe:&lt;bzzt&gt;
+1b7d2d02-462d-4101-9057-d7e68b732dd8:&lt;bzzt&gt;
+85b1df80-2412-47b5-bf76-cecc87df1122:&lt;bzzt&gt;
+e015ec18-286b-4de0-8e9f-2a68a839f10b:&lt;bzzt&gt;
+48a7b554-0196-456e-8b93-acb689ad1ab8:&lt;bzzt&gt;
+4e0f6dbc-40e1-402b-908d-5ed48cc60ebd:&lt;bzzt&gt;
+6f161dcd-005c-4333-b689-b053795b3bd5:&lt;bzzt&gt;
+8772de80-eb77-410d-886d-fbce778cdafb:&lt;bzzt&gt;
+bb29cdc0-a50d-4bbb-bbf5-9896934e5c14:&lt;bzzt&gt;
+ef8890c6-8e53-4c27-ac70-56daccaae489:&lt;bzzt&gt;
+5743aa3e-9315-4f0b-83b2-9674f34bc6c2:&lt;bzzt&gt;
+01f30778-463c-4535-88f7-dc6b555f7c9c:&lt;bzzt&gt;
+ebe584ff-aadf-4a6a-b9e4-ced03c5259d0:&lt;bzzt&gt;
+3c606788-513a-444f-b7a2-27fc7ea08979:&lt;bzzt&gt;
+ab5012e4-f6a8-44a4-9c0f-15968e3ac7f8:&lt;bzzt&gt;
+94f7285c-6a23-416e-b5d4-23a73b9136b2:&lt;bzzt&gt;
+7794c494-a8e6-4cf8-a7a9-7ae884d24e0e:&lt;bzzt&gt;
+e278edf9-ac14-4404-ac09-e76a64f8067e:&lt;bzzt&gt;
+51535d51-da12-4c75-a8de-cd736ec22837:&lt;bzzt&gt;
+16044fa1-472b-416b-8839-f064415e77ae:&lt;bzzt&gt;
+be2edef9-3841-422b-8c1a-6309ae06527a:&lt;bzzt&gt;
+66fe6749-bcd1-4618-902d-8ecf55192e04:&lt;bzzt&gt;
+c49f4923-e628-4550-960d-3647c2c4a8d0:&lt;bzzt&gt;
+79de7a32-7767-4c20-94d9-77272b26a98f:&lt;bzzt&gt;
+7924b81e-bff4-4b5d-860d-0d85e3e3d699:&lt;bzzt&gt;
+578ce045-36a1-48ea-8223-03a6b7deebb2:&lt;bzzt&gt;
+9257dabf-f5d0-4879-a147-b6a91249c242:&lt;bzzt&gt;
+02bfb719-cbe5-45a2-9c25-e732500d0562:&lt;bzzt&gt;
+619f1b0c-e836-47bc-99e3-e44ebebe9255:&lt;bzzt&gt;
+8da983ca-ccbb-4aae-b0b6-eaf81b9a5dc4:&lt;bzzt&gt;
+9d6a710f-b0a2-435b-b39b-599c93677cf9:&lt;bzzt&gt;
+525cbb6d-f735-4d97-82c3-b712f86fc941:&lt;bzzt&gt;
 16a20d27-b28d-45fb-8af4-3f1c562ed95f:Knox Hitz! Your style, your music!
 1de4dd3e-178e-4164-b47b-893a6b997f7e:[img=music] We talked the night, till the sun came up. [img=music]
 f5604569-62df-4db0-9f70-13d87a93c31f:[img=music] You said it was over. It can't be over. [img=music]
@@ -3314,10 +3314,10 @@ cbec084b-8250-4af2-bea9-feb531904803:[img=music] So then Buck you're plum outta 
 e03bd8cd-588c-494c-8884-9641fa4daa4c:[img=music] Next time think twice 'bout who you... [img=music]
 571386b1-7751-47e0-8263-b3acabd29ca9:GOOD NIGHT LOUISIANA! WE LOVE YOU!
 4cad1678-25d9-4227-b05d-134230ec2fb1:*applause*
-45663bf8-974d-4cb0-a170-b3c2d64c669a:<
-7fb1d25a-940a-4005-b059-be95c2ddebac:<
+45663bf8-974d-4cb0-a170-b3c2d64c669a:&lt;bzzt&gt;
+7fb1d25a-940a-4005-b059-be95c2ddebac:&lt;bzzt&gt;
 5a527e44-7357-4798-ab70-03bfad0f3d0a:... it's just not workin' Ben...
-a801db0c-f701-4d8e-b3b1-aaeb79d33cdf:<
+a801db0c-f701-4d8e-b3b1-aaeb79d33cdf:&lt;bzzt&gt;
 37fc79e4-ec5c-4e91-940c-7906d39b8b96:Knox Hitz! Your style, your music!
 13477e76-c7c9-4ac3-9173-ee6141f2386d:It's Knox Hits. It's Frank-i-e.
 b46503ac-480a-40c5-bedc-dc3c6242a5d0:Oh God I'm not good at this.
@@ -3326,12 +3326,12 @@ b46503ac-480a-40c5-bedc-dc3c6242a5d0:Oh God I'm not good at this.
 24d4b7b7-0428-4ae0-8c46-628c9c0f0457:EVERYONE.
 c4e4991f-715a-4754-9b23-c0ef0578b624:I'm going to puke.
 65e56077-22e1-4809-8008-4249cdc613a4:Someone else do this.
-bb77d071-94d1-41a8-9636-9ceceeb3282b:<
+bb77d071-94d1-41a8-9636-9ceceeb3282b:&lt;bzzt&gt;
 4ffb4a28-b646-4944-b97c-17ee08a4a84d:Do I look like I CARE?
 af49406c-d8f6-4e18-b624-de419dbc1186:You told me to stay here.
 2228ed47-a306-47b6-b19e-de439af081c9:If anything happens it's on YOU.
 91af1453-3849-43bc-8a80-88e1fd280d54:ON YOU.
-830c75c8-5ac3-4fcf-bfa0-a5b3295cb53a:<
+830c75c8-5ac3-4fcf-bfa0-a5b3295cb53a:&lt;bzzt&gt;
 7cfe36fb-ee04-43ee-a60b-6127df63f910:I don't give a GODDAMN that I'm on air.
 bb258521-b5a6-478f-a059-b8d154fc02f8:[img=music] We talked the night, till the sun came up. [img=music]
 ce009134-879c-4cd3-a967-8c7c195230f1:[img=music] You said it was over. It can't be over. [img=music]
@@ -3585,14 +3585,14 @@ b60fd67e-ee8b-45fd-a39c-d252ba6af8f6:[img=music] I need to be with you. [img=mus
 2e8baff0-d7ec-47ff-a3ca-5cb08fbe0bb0:[img=music] I'm always out of vision. [img=music]
 79624376-8c6f-4b64-b4e9-f7fa8f0b6576:[img=music] Why can't you notice me? [img=music]
 66efcd19-34b0-402e-95e4-53c6bc32f732:[img=music] Why can't you find a way? [img=music]
-2dcb3e17-21ab-4c90-a2a3-eb462d30bf3a:<
-5781ad01-38a9-4b13-ac48-6e6caa425618:<
-7fef8dd5-b5ef-4929-96d6-80d3bc23b404:<
-4bac0a54-8b8f-4961-b85e-f55a3bc60927:<
-6005a929-6cd4-4d70-a63d-38be405277ae:<
-6479ea6e-9f15-40d9-8d9f-059bcfa54ca2:<
-9328afbc-44fd-4219-b92d-c7325acb1b21:<
-74ca0043-c943-4012-8e3c-6989bc713fc5:<
+2dcb3e17-21ab-4c90-a2a3-eb462d30bf3a:&lt;bzzt&gt;
+5781ad01-38a9-4b13-ac48-6e6caa425618:&lt;bzzt&gt;
+7fef8dd5-b5ef-4929-96d6-80d3bc23b404:&lt;bzzt&gt;
+4bac0a54-8b8f-4961-b85e-f55a3bc60927:&lt;bzzt&gt;
+6005a929-6cd4-4d70-a63d-38be405277ae:&lt;bzzt&gt;
+6479ea6e-9f15-40d9-8d9f-059bcfa54ca2:&lt;bzzt&gt;
+9328afbc-44fd-4219-b92d-c7325acb1b21:&lt;bzzt&gt;
+74ca0043-c943-4012-8e3c-6989bc713fc5:&lt;bzzt&gt;
 72ebd576-34bf-40ee-9ac6-b2f9b50ece63:[img=music] Oh, Danny boy, the pipes, the pipes are calling. [img=music]
 04d57c1f-7abc-44c5-986e-04da9dada143:[img=music] From glen to glen, and down the mountain side. [img=music]
 e677bf9d-4bac-44a7-aa4e-f64d419977d5:[img=music] The summer's gone, and all the flowers are dying. [img=music]
@@ -3609,70 +3609,70 @@ d3b3c026-9b36-4572-8db6-a887b78fa594:[img=music] And kneel and say an 'ave' ther
 14309edc-2410-4cc7-a987-b8420f085ab6:[img=music] And then my grave will richer, sweeter be. [img=music]
 47c5db37-cd53-4373-8cfb-f1f526770a4a:[img=music] And you'll bend down and tell me that you love me. [img=music]
 d180a90c-d6b0-42e8-ac50-ee9a65c926ca:[img=music] And I will rest in peace until you come to me. [img=music]
-7d5ca85e-2e54-443f-945f-5c9258a16b49:<
-b33467dc-16e2-416d-8842-ee6e00893498:<
-7a8ac350-e949-405e-8ee2-99e3b32f99da:<
-d64c1099-fa4d-413e-92bf-23e542c82390:<
-e41e796e-8c27-4c69-aeba-49d4037d464a:<
-4f809106-17b0-4e8c-b94a-685cce4c43ac:<
-f7ece56b-72a8-4ace-af97-054c8a92ddf2:<
-38f90323-3cdd-40aa-bf90-d6a222ac0078:<
-37b50de7-b142-4bbc-9cad-9b9843a59bf2:<
-d779c66a-150a-4922-8837-5828a3c9f28b:<
-b8566b5f-e3ab-429b-9999-8cddec6e8b61:<
-cbdd3b1e-3482-48fc-9409-80b9406c8ab2:<
-a09f675f-5398-445a-8623-a78020fbf256:<
-2e46a15a-081b-42bb-9a97-a3c975e4e3a1:<
-e9c2efe5-45e4-4c62-bda4-ad57478d1917:<
-06484aec-65ee-450d-91da-11a612510b35:<
-87619031-f6d6-4c8c-b96c-d046d8088c4f:<
-d293601a-74bf-4dad-aedb-08355551f430:<
-09921cdf-0dbe-42b3-9922-b751071b6339:<
-08e0c079-1694-496d-83e6-07a911e1a6a4:<
-71f162c5-a783-468d-a400-21f837577bc9:<
-4929c2f4-4305-4d81-ab21-a35da68609ac:<
-ab2cfd88-23d8-4d02-9097-26cb50ce3b3a:<
-ac6237ab-b1df-41fc-93d2-74beb260a057:<
-c782819c-8121-40f6-869d-ccf506c37b8e:<
-62d67256-71f3-41d8-9e0c-71167715e01a:<
-b265900e-e4e1-40e3-9f67-611d3000b6a9:<
-54ed56cb-3cd9-4717-912f-4215e34847f6:<
-7e53b853-9a44-4c8d-bc28-355f67204878:<
-5c8551fb-70e7-4225-afd2-c6cd14c93dba:<
-581dde70-d146-4900-b759-1c03e5816145:<
-ebe7327d-4132-4820-82b8-4597a3ec4c8a:<
-43f8d970-95b5-4e9d-bb6d-3ea0a165efda:<
-e1b5f8c2-24c5-4038-a91e-b83a54f82773:<
-a0069ca8-ac4d-47a8-a5b6-0ab02b804aec:<
-fda108cd-2117-42ba-9aec-cabb28424091:<
-90f80d39-0d74-427f-b756-980cd9b517ff:<
-f7cd648b-051f-4152-8ede-a588300f9631:<
-d977bd98-b748-4f9e-b7a6-37db47f6fd44:<
-f81540bb-31af-4efc-8f72-1f8a695e8be4:<
-35d8e57d-6b43-45b2-b593-169c582adaf4:<
-f01efaa6-ea27-4830-8693-58cf23e4419e:<
-99e94ef5-5d58-43a4-a92a-771145de801b:<
-93ecc1a1-7e45-4259-bcdb-f3a6a22480bf:<
-892e9298-4e3e-4084-88ca-25cc62a0eaae:<
-3621a8de-d9fb-49ce-aa05-c25a467f3b27:<
-32fcaf9f-43fb-4805-8e89-1c8637ef6f0b:<
-2d1094c6-ad2f-48ee-a91d-4d375d7e3ead:<
-c5c07cfb-8f9f-4ac5-a8bb-4c27bdbd5b1b:<
-8fbeba02-7e85-4c68-b620-7829dabdbbfb:<
-d65e5480-9d87-4457-b52d-31b263fe9914:<
-a1dc7770-b82a-4c6a-8aa7-e7267fadeab5:<
-f79f324f-c34d-41fd-a9f2-d291dfcf156d:<
-179c748d-1e75-4331-86b4-3e2f363af29a:<
-5f13fda0-f62a-43b6-b40e-c3777ae9c02c:<
-95f048a2-1d51-45ac-b204-02bcec01a1d7:<
-0f535fc8-e02c-49a4-87ff-329b2de59039:<
-97ad3a9b-2283-4cd2-aeae-5d12fa5356d9:<
-2143852c-002c-45aa-accd-ada699d1bb8b:<
-19cdc5e5-e346-43e9-9a25-27d19c133c98:<
-b876572f-490f-41b2-b863-68173a20be3f:<
-ca1b66ad-d4d8-43e0-8b78-b61a4fb9e08c:<
-14d2cc74-39bf-4ec6-9fe7-e451d9cd1b75:<
-388552ed-4054-4627-b585-e5ac893e3f2e:<
+7d5ca85e-2e54-443f-945f-5c9258a16b49:&lt;bzzt&gt;
+b33467dc-16e2-416d-8842-ee6e00893498:&lt;bzzt&gt;
+7a8ac350-e949-405e-8ee2-99e3b32f99da:&lt;bzzt&gt;
+d64c1099-fa4d-413e-92bf-23e542c82390:&lt;bzzt&gt;
+e41e796e-8c27-4c69-aeba-49d4037d464a:&lt;bzzt&gt;
+4f809106-17b0-4e8c-b94a-685cce4c43ac:&lt;bzzt&gt;
+f7ece56b-72a8-4ace-af97-054c8a92ddf2:&lt;bzzt&gt;
+38f90323-3cdd-40aa-bf90-d6a222ac0078:&lt;bzzt&gt;
+37b50de7-b142-4bbc-9cad-9b9843a59bf2:&lt;bzzt&gt;
+d779c66a-150a-4922-8837-5828a3c9f28b:&lt;bzzt&gt;
+b8566b5f-e3ab-429b-9999-8cddec6e8b61:&lt;bzzt&gt;
+cbdd3b1e-3482-48fc-9409-80b9406c8ab2:&lt;bzzt&gt;
+a09f675f-5398-445a-8623-a78020fbf256:&lt;bzzt&gt;
+2e46a15a-081b-42bb-9a97-a3c975e4e3a1:&lt;bzzt&gt;
+e9c2efe5-45e4-4c62-bda4-ad57478d1917:&lt;bzzt&gt;
+06484aec-65ee-450d-91da-11a612510b35:&lt;bzzt&gt;
+87619031-f6d6-4c8c-b96c-d046d8088c4f:&lt;bzzt&gt;
+d293601a-74bf-4dad-aedb-08355551f430:&lt;bzzt&gt;
+09921cdf-0dbe-42b3-9922-b751071b6339:&lt;bzzt&gt;
+08e0c079-1694-496d-83e6-07a911e1a6a4:&lt;bzzt&gt;
+71f162c5-a783-468d-a400-21f837577bc9:&lt;bzzt&gt;
+4929c2f4-4305-4d81-ab21-a35da68609ac:&lt;bzzt&gt;
+ab2cfd88-23d8-4d02-9097-26cb50ce3b3a:&lt;bzzt&gt;
+ac6237ab-b1df-41fc-93d2-74beb260a057:&lt;bzzt&gt;
+c782819c-8121-40f6-869d-ccf506c37b8e:&lt;bzzt&gt;
+62d67256-71f3-41d8-9e0c-71167715e01a:&lt;bzzt&gt;
+b265900e-e4e1-40e3-9f67-611d3000b6a9:&lt;bzzt&gt;
+54ed56cb-3cd9-4717-912f-4215e34847f6:&lt;bzzt&gt;
+7e53b853-9a44-4c8d-bc28-355f67204878:&lt;bzzt&gt;
+5c8551fb-70e7-4225-afd2-c6cd14c93dba:&lt;bzzt&gt;
+581dde70-d146-4900-b759-1c03e5816145:&lt;bzzt&gt;
+ebe7327d-4132-4820-82b8-4597a3ec4c8a:&lt;bzzt&gt;
+43f8d970-95b5-4e9d-bb6d-3ea0a165efda:&lt;bzzt&gt;
+e1b5f8c2-24c5-4038-a91e-b83a54f82773:&lt;bzzt&gt;
+a0069ca8-ac4d-47a8-a5b6-0ab02b804aec:&lt;bzzt&gt;
+fda108cd-2117-42ba-9aec-cabb28424091:&lt;bzzt&gt;
+90f80d39-0d74-427f-b756-980cd9b517ff:&lt;bzzt&gt;
+f7cd648b-051f-4152-8ede-a588300f9631:&lt;bzzt&gt;
+d977bd98-b748-4f9e-b7a6-37db47f6fd44:&lt;bzzt&gt;
+f81540bb-31af-4efc-8f72-1f8a695e8be4:&lt;bzzt&gt;
+35d8e57d-6b43-45b2-b593-169c582adaf4:&lt;bzzt&gt;
+f01efaa6-ea27-4830-8693-58cf23e4419e:&lt;bzzt&gt;
+99e94ef5-5d58-43a4-a92a-771145de801b:&lt;bzzt&gt;
+93ecc1a1-7e45-4259-bcdb-f3a6a22480bf:&lt;bzzt&gt;
+892e9298-4e3e-4084-88ca-25cc62a0eaae:&lt;bzzt&gt;
+3621a8de-d9fb-49ce-aa05-c25a467f3b27:&lt;bzzt&gt;
+32fcaf9f-43fb-4805-8e89-1c8637ef6f0b:&lt;bzzt&gt;
+2d1094c6-ad2f-48ee-a91d-4d375d7e3ead:&lt;bzzt&gt;
+c5c07cfb-8f9f-4ac5-a8bb-4c27bdbd5b1b:&lt;bzzt&gt;
+8fbeba02-7e85-4c68-b620-7829dabdbbfb:&lt;bzzt&gt;
+d65e5480-9d87-4457-b52d-31b263fe9914:&lt;bzzt&gt;
+a1dc7770-b82a-4c6a-8aa7-e7267fadeab5:&lt;bzzt&gt;
+f79f324f-c34d-41fd-a9f2-d291dfcf156d:&lt;bzzt&gt;
+179c748d-1e75-4331-86b4-3e2f363af29a:&lt;bzzt&gt;
+5f13fda0-f62a-43b6-b40e-c3777ae9c02c:&lt;bzzt&gt;
+95f048a2-1d51-45ac-b204-02bcec01a1d7:&lt;bzzt&gt;
+0f535fc8-e02c-49a4-87ff-329b2de59039:&lt;bzzt&gt;
+97ad3a9b-2283-4cd2-aeae-5d12fa5356d9:&lt;bzzt&gt;
+2143852c-002c-45aa-accd-ada699d1bb8b:&lt;bzzt&gt;
+19cdc5e5-e346-43e9-9a25-27d19c133c98:&lt;bzzt&gt;
+b876572f-490f-41b2-b863-68173a20be3f:&lt;bzzt&gt;
+ca1b66ad-d4d8-43e0-8b78-b61a4fb9e08c:&lt;bzzt&gt;
+14d2cc74-39bf-4ec6-9fe7-e451d9cd1b75:&lt;bzzt&gt;
+388552ed-4054-4627-b585-e5ac893e3f2e:&lt;bzzt&gt;
 b4c18657-d934-4b8b-9f09-6b3ded4bf239:This is Triple-N. 
 0c2d8833-a092-4310-82b3-aa7621f35f3c:We're going straight to Kentucky for this developing story.
 8bc41d8e-44dd-4e3b-9895-581839a51586:Kirsty Cormick, are you there?
@@ -3913,8 +3913,8 @@ fd15f381-dc59-47e0-9c44-0b3775ea4025:Thank you Daniel.
 4c1af641-058a-4673-af5f-4c9be0fc39f6:JESUS!
 c97cc617-499e-48e1-b6f9-771614b02692:What, what's happening?
 530e28d0-66fd-4c14-8f28-5c3b8f4a18dc:Someone just threw a firebomb. Someone in the crowd..
-0c6d5c53-ca2d-4e2b-9d0e-06843b1e6c6d:<
-ebda842a-21b8-42cc-a388-be257f6192a6:<
+0c6d5c53-ca2d-4e2b-9d0e-06843b1e6c6d:&lt;bzzt&gt;
+ebda842a-21b8-42cc-a388-be257f6192a6:&lt;bzzt&gt;
 8dcabe15-a867-4cb6-b967-4909be4297f5:Errr. Stick with us everyone.
 cc4a46eb-bf75-4609-bb53-2421afbc5842:More as it happens on the developing story...
 45bea5c8-94ff-4209-a6eb-87b5a4ae3989:... on Triple-N.
@@ -4157,9 +4157,9 @@ ab2c907e-ac53-4edb-a86a-070548d0cd28:... but their actions speak for themselves.
 bfbfb911-c287-4cc3-8ae2-e4a07574af95:The curfew begins at 6pm EST. Please stay in your houses.
 612c490a-86af-4e4f-9712-7e2aa1729d6d:Please tune in to local programming for curfew information.
 af60382e-bfa3-437f-b73a-421dbef38635:This is 
-709575c8-2d40-4579-9ae8-ba53328e1cee:<
-ff6b17a4-8cfe-4282-87ab-5ec423262e6e:<
-2f81c211-c917-436e-a171-0eb675d9c620:<
+709575c8-2d40-4579-9ae8-ba53328e1cee:&lt;bzzt&gt;
+ff6b17a4-8cfe-4282-87ab-5ec423262e6e:&lt;bzzt&gt;
+2f81c211-c917-436e-a171-0eb675d9c620:&lt;bzzt&gt;
 66445919-0a16-48cb-9fa3-9146f582bfde:This is Triple-N. 
 924d0a71-3eee-4e96-9edf-b5c03dcdcbe9:The Knox Event is contained, but a truth has emerged.
 d7dc9beb-8675-44c1-9a66-2273f05a83cf:We're going straight over to Kirsty Cormick in Kentucky.
@@ -4191,7 +4191,7 @@ fa4725fe-3f1b-4386-ab2a-c4de0c700816:They say it's contained, but you can't stop
 63f29991-d121-49c4-907e-e753e65b4af6:We've got it coming to us.
 eab53b0d-5bbd-470f-97d4-4b63a1205159:It's been coming for a long time.
 85b0bb43-3bf5-482c-862a-217b555e2696:Okay. Back to the studio.
-da78dc36-2cb6-47e8-bd97-9f86e93449a4:<
+da78dc36-2cb6-47e8-bd97-9f86e93449a4:&lt;bzzt&gt;
 34d9d8c5-0698-43d9-bcc0-4c26b625bfc2:The curfew begins at 6pm EST. Please stay in your houses.
 4ad0e7fc-51d8-4ab1-9814-7c8214b1ca86:Please tune in to local programming for curfew information.
 8c157232-4261-43ba-9321-d87c2eb132dd:This is Triple-N. 
@@ -4262,9 +4262,9 @@ c8b79a39-175a-45f4-8a6f-643c2a193789:It has always been contained.
 4c1a79ce-c804-4506-bd91-f09d0b54fdb3:We are safe.
 4dfbd973-fdbf-4824-b9ae-7f7beb077a2b:America is safe.
 afee167e-1caf-4429-a26f-abe1d4d7d432:Meanwhile it's been a night of anarchy on our streets as...
-6f4ba42e-b12c-45e4-9243-a488abf54734:<
+6f4ba42e-b12c-45e4-9243-a488abf54734:&lt;bzzt&gt;
 7c9398d9-0b1d-4be7-8872-6d86dfca3d58:... gangs of youths....
-babc3ed3-9bef-4d79-b2b3-5d9955a54ae3:<
+babc3ed3-9bef-4d79-b2b3-5d9955a54ae3:&lt;bzzt&gt;
 e338d8ab-8f5e-472c-ab1b-dc04799ae1bd:... night of Hell.
 1b4768c2-fc5d-48da-9ffc-e2af3f62eafa:... on Triple-N.
 c01fc141-a474-4096-971a-1c472fdf6f66:The curfew begins at 6pm EST. Please stay in your houses.
@@ -4398,7 +4398,7 @@ dfb7c1fa-8265-4c2a-8a63-9822281da2cc:When they find out they'll... you've seen w
 8ab1246e-2ead-4bfb-b517-dc92bf2c3b50:The others? They'll kill him!
 945b8341-cc14-41da-8e6a-3c1ba0b5b5ae: He can't die! He can't die!
 a38a8f50-a7d3-4177-91fb-9bc95bc2b8c1:This is Kirsty Cormick, on the road to Louisville.
-174e167c-24d2-48f6-af5f-65b452fd9281:<
+174e167c-24d2-48f6-af5f-65b452fd9281:&lt;bzzt&gt;
 89297f1b-3d71-441f-b8b5-2ff109b543e6:... on Triple-N.
 04f6c50f-79a5-411b-b5ff-897f3ce7c129:Judge Matt Hass - on Triple-N!
 bee7ef51-0b1e-4e0f-b807-6f7f7dbf084e:The voice of reason!
@@ -4488,70 +4488,70 @@ e2eb4cc9-616d-47bc-af9e-ec5136a500a4:Savagery without thought.
 3b9114e9-b2ca-4fdc-9fe0-33b90471088a:Murder on automatic.
 31c10522-adaa-48bc-bb19-d987752f4f2f:The embodiment of death.
 d8e0900f-7525-4c33-8542-769575ff6304:Welcome to Hell, America.
-22d6c205-f6af-459b-a91e-28ed357d1165:<
-9b5c1d7a-96a3-4109-a048-b6510038c30d:<
-e3e5914c-99a5-4796-9206-ad5815c3be92:<
-e91980b4-059f-4ec6-b151-0c10039dbf75:<
-635a7e53-f14f-4158-b063-bdce16f3c757:<
-b614053d-884d-4bf5-8254-7a93618eaf93:<
-c43e37ae-a579-453e-8523-45b39c23cd68:<
-ecbc52fb-341d-4224-993f-b820891c8edb:<
-9ccd7836-b83f-453d-af48-9543aea2f635:<
-74442125-1eda-49a8-8790-65453faac653:<
-78b468e8-79ce-4155-bce0-9fe79d6cfb5c:<
-cb09c521-dea5-41f0-9eec-f9d3145c96bd:<
-7d77f0bc-9430-4f1a-a335-eb671115d64e:<
+22d6c205-f6af-459b-a91e-28ed357d1165:&lt;bzzt&gt;
+9b5c1d7a-96a3-4109-a048-b6510038c30d:&lt;bzzt&gt;
+e3e5914c-99a5-4796-9206-ad5815c3be92:&lt;bzzt&gt;
+e91980b4-059f-4ec6-b151-0c10039dbf75:&lt;bzzt&gt;
+635a7e53-f14f-4158-b063-bdce16f3c757:&lt;bzzt&gt;
+b614053d-884d-4bf5-8254-7a93618eaf93:&lt;bzzt&gt;
+c43e37ae-a579-453e-8523-45b39c23cd68:&lt;bzzt&gt;
+ecbc52fb-341d-4224-993f-b820891c8edb:&lt;bzzt&gt;
+9ccd7836-b83f-453d-af48-9543aea2f635:&lt;bzzt&gt;
+74442125-1eda-49a8-8790-65453faac653:&lt;bzzt&gt;
+78b468e8-79ce-4155-bce0-9fe79d6cfb5c:&lt;bzzt&gt;
+cb09c521-dea5-41f0-9eec-f9d3145c96bd:&lt;bzzt&gt;
+7d77f0bc-9430-4f1a-a335-eb671115d64e:&lt;bzzt&gt;
 d70f6b12-b970-4bb7-9b07-610e18e22db6:... on Triple-N.
-24618cad-771a-4013-9936-a93e23c621c3:<
-39c2f647-e5fb-4c2b-8583-ee2d5e95ef3f:<
-9495a211-babf-4cb7-9961-f1e56f8b1039:<
-33bb7c38-9d31-4b9e-8d89-dfde29712b75:<
-18f979a5-48f6-49fc-bb47-d82c36058371:<
+24618cad-771a-4013-9936-a93e23c621c3:&lt;bzzt&gt;
+39c2f647-e5fb-4c2b-8583-ee2d5e95ef3f:&lt;bzzt&gt;
+9495a211-babf-4cb7-9961-f1e56f8b1039:&lt;bzzt&gt;
+33bb7c38-9d31-4b9e-8d89-dfde29712b75:&lt;bzzt&gt;
+18f979a5-48f6-49fc-bb47-d82c36058371:&lt;bzzt&gt;
 ee0b14ea-c038-4573-9ac2-1ff0fb3ccea3:... on Triple-N.
-c06b3387-4acf-4904-9932-854351c8b8d5:<
-2bb80dd3-ae41-4b03-a4db-e21fb7584a26:<
-62f5d3f8-6d80-45c9-9fd1-0ac240d441d4:<
-997592ba-2142-4b98-958f-309aa35a9dad:<
-c529eb18-33d2-4586-be68-01a55fadc0c3:<
-b3c78304-8355-4878-87fa-4332a89f43b5:<
-998326d3-1143-4f1b-b153-3fd50304c8cd:<
-ae0c4f82-9930-4e50-9cf7-714ef76eb368:<
-32115430-ed4b-4196-a272-3bc673666a67:<
-c8138386-bd12-4c72-91ef-e661a59cbe2d:<
-86957656-9a9c-4377-8cb7-1cba030f3eac:<
-1afb88d2-73f4-4d11-a0e1-b4b75fb7a669:<
-6ee550db-63fb-454d-9466-82e294a01db6:<
-02a77077-9658-46b9-a4b1-2ba66edb704e:<
-3fdef050-9586-415a-b056-d6affc6837a3:<
-67359639-ae96-4697-ac08-9beb7b60f97c:<
-38000b88-a635-4ee5-ab93-49c34b9ca7e5:<
-6cb4153e-3508-4b8f-8356-5b2c3fff7f1c:<
-e7884eb7-5154-4dde-8c72-3c1455f18b2f:<
-88805979-4956-494b-a865-db140ce7f768:<
-11079ea8-8c51-4048-ae2d-3a4a4435ae8c:<
-3898bbfa-92e3-4add-a62b-1a57aa56ccd9:<
-dc596fdf-033c-4399-8030-0d9b3a967439:<
-cca80331-c17b-436e-8606-11dba6996ebd:<
-4469ccc8-c86c-4afc-bb0b-82a02c5b713f:<
-75779e6f-d6ec-49a9-ba26-5addf4445993:<
-26018769-4bda-4083-80f2-bb6e86f01bf4:<
-d27afb89-8da8-47e0-a70d-d2132878fd4d:<
-c0023ae6-eab1-4c49-8dd6-f7b63a1087cf:<
-23b980ec-f032-430a-ae48-56db8cddfe8a:<
-9dbacd6c-158d-4661-9748-46cfb890d19c:<
-15e7439a-272d-4f74-8cda-0c74c938421a:<
-c8fc5e69-8e00-49c6-9f19-4ee6fa37efb7:<
-f4bcf904-a359-4e94-a874-455b538969d6:<
-5a3f4bf5-f0da-41a5-abff-9b0c0d53e2c4:<
-fb1e588e-040b-47b5-9f17-b30994923e4c:<
-26d99665-de76-4d35-acb2-bab1af05f374:<
-01f1e328-57c3-49aa-bbaf-70d92542b536:<
-ad2acc74-6903-4fcf-b32f-c433564af505:<
-0bc4b443-5bc6-4502-9864-f87b0f2d0ea3:<
-f128d39f-acfa-4fb3-8910-908dc4be4b39:<
-0a9a4433-b4de-45ff-a25f-4cd58f8907a8:<
-58bc37a8-a14b-48be-a7d7-4b9cac126d9e:<
-a0ecfcdb-8a6e-4e32-9ed3-21b0fc3ee175:<
+c06b3387-4acf-4904-9932-854351c8b8d5:&lt;bzzt&gt;
+2bb80dd3-ae41-4b03-a4db-e21fb7584a26:&lt;bzzt&gt;
+62f5d3f8-6d80-45c9-9fd1-0ac240d441d4:&lt;bzzt&gt;
+997592ba-2142-4b98-958f-309aa35a9dad:&lt;bzzt&gt;
+c529eb18-33d2-4586-be68-01a55fadc0c3:&lt;bzzt&gt;
+b3c78304-8355-4878-87fa-4332a89f43b5:&lt;bzzt&gt;
+998326d3-1143-4f1b-b153-3fd50304c8cd:&lt;bzzt&gt;
+ae0c4f82-9930-4e50-9cf7-714ef76eb368:&lt;bzzt&gt;
+32115430-ed4b-4196-a272-3bc673666a67:&lt;bzzt&gt;
+c8138386-bd12-4c72-91ef-e661a59cbe2d:&lt;bzzt&gt;
+86957656-9a9c-4377-8cb7-1cba030f3eac:&lt;bzzt&gt;
+1afb88d2-73f4-4d11-a0e1-b4b75fb7a669:&lt;bzzt&gt;
+6ee550db-63fb-454d-9466-82e294a01db6:&lt;bzzt&gt;
+02a77077-9658-46b9-a4b1-2ba66edb704e:&lt;bzzt&gt;
+3fdef050-9586-415a-b056-d6affc6837a3:&lt;bzzt&gt;
+67359639-ae96-4697-ac08-9beb7b60f97c:&lt;bzzt&gt;
+38000b88-a635-4ee5-ab93-49c34b9ca7e5:&lt;bzzt&gt;
+6cb4153e-3508-4b8f-8356-5b2c3fff7f1c:&lt;bzzt&gt;
+e7884eb7-5154-4dde-8c72-3c1455f18b2f:&lt;bzzt&gt;
+88805979-4956-494b-a865-db140ce7f768:&lt;bzzt&gt;
+11079ea8-8c51-4048-ae2d-3a4a4435ae8c:&lt;bzzt&gt;
+3898bbfa-92e3-4add-a62b-1a57aa56ccd9:&lt;bzzt&gt;
+dc596fdf-033c-4399-8030-0d9b3a967439:&lt;bzzt&gt;
+cca80331-c17b-436e-8606-11dba6996ebd:&lt;bzzt&gt;
+4469ccc8-c86c-4afc-bb0b-82a02c5b713f:&lt;bzzt&gt;
+75779e6f-d6ec-49a9-ba26-5addf4445993:&lt;bzzt&gt;
+26018769-4bda-4083-80f2-bb6e86f01bf4:&lt;bzzt&gt;
+d27afb89-8da8-47e0-a70d-d2132878fd4d:&lt;bzzt&gt;
+c0023ae6-eab1-4c49-8dd6-f7b63a1087cf:&lt;bzzt&gt;
+23b980ec-f032-430a-ae48-56db8cddfe8a:&lt;bzzt&gt;
+9dbacd6c-158d-4661-9748-46cfb890d19c:&lt;bzzt&gt;
+15e7439a-272d-4f74-8cda-0c74c938421a:&lt;bzzt&gt;
+c8fc5e69-8e00-49c6-9f19-4ee6fa37efb7:&lt;bzzt&gt;
+f4bcf904-a359-4e94-a874-455b538969d6:&lt;bzzt&gt;
+5a3f4bf5-f0da-41a5-abff-9b0c0d53e2c4:&lt;bzzt&gt;
+fb1e588e-040b-47b5-9f17-b30994923e4c:&lt;bzzt&gt;
+26d99665-de76-4d35-acb2-bab1af05f374:&lt;bzzt&gt;
+01f1e328-57c3-49aa-bbaf-70d92542b536:&lt;bzzt&gt;
+ad2acc74-6903-4fcf-b32f-c433564af505:&lt;bzzt&gt;
+0bc4b443-5bc6-4502-9864-f87b0f2d0ea3:&lt;bzzt&gt;
+f128d39f-acfa-4fb3-8910-908dc4be4b39:&lt;bzzt&gt;
+0a9a4433-b4de-45ff-a25f-4cd58f8907a8:&lt;bzzt&gt;
+58bc37a8-a14b-48be-a7d7-4b9cac126d9e:&lt;bzzt&gt;
+a0ecfcdb-8a6e-4e32-9ed3-21b0fc3ee175:&lt;bzzt&gt;
 512e9444-ca28-44cb-8976-384e1919562f:This is a recorded broadcast. It will be set to repeat.
 066f9e8e-2fda-4f26-83fa-390e4783dc2f:An unknown plague known as The Knox Infection has taken a hold on America.
 a91164fb-10b9-4617-a160-427fd32fafac:It is... the stuff of nightmare.
@@ -4594,30 +4594,30 @@ d4eae1b8-5a6e-49b2-85d4-dc23ac042aa7:Please.
 ca5e95c7-0e0c-45ed-b211-b097dabfd369:Find a way to survive.
 be028879-076a-4e18-9e29-fb7c9697bc5b:Please.
 e1fb3fed-a047-49f9-9d57-df92ae1ba42c:God Bless America.
-d02609ab-510a-470f-b16b-d57ea40d2b2e:<
-60252105-6b65-4f57-b4b5-3df4317775a5:<
-73f6c23e-5598-4c96-afcf-a1604f79c792:<
-b6c703c0-380f-4684-8290-745970ddded8:<
-3a71e149-0f81-4b70-be99-5e4d132deb2c:<
-e755e39f-258a-44a8-9c5a-546d8cf80c59:<
-6b86d42e-ba70-4eeb-9e64-3b8d9c78f6a9:<
-5cc3896f-9374-4cd2-8e14-1c123d3daeb8:<
-37ad0fde-c156-43bc-8eda-505035587caf:<
-88130e95-c9b7-45a9-914f-7f00a9535381:<
-3826cc85-46a3-46ce-9925-a44ad460f21b:<
-2989743c-5735-44b4-bd86-11399a85d4ae:<
-0d95dc34-0ca6-4817-b8f3-6187d1b080e7:<
-c4121dda-70da-4893-b459-1fad6185530c:<
-7d6af17d-c150-4821-a217-b5dc4514245d:<
-e9d5c0f6-18aa-44f2-a1e2-c28c1685e264:<
-482cff23-87c7-46ca-b558-679b941bf1d4:<
-1e30d185-18c1-4522-a54a-176af4477083:<
-2b0f311d-b402-40a5-8c98-cbe28a723267:<
-973dd153-cd4d-4ef1-b42e-61edede94b5b:<
-c681a21c-ae15-4628-b241-d5081c5ca2a5:<
-f39817d9-278b-4276-bb01-46f29e4e21b3:<
-4c5b6d2e-95d6-490f-a710-f8937b739ed1:<
-d7543dd5-fbce-41ec-84eb-e6682c02e8cb:<
+d02609ab-510a-470f-b16b-d57ea40d2b2e:&lt;bzzt&gt;
+60252105-6b65-4f57-b4b5-3df4317775a5:&lt;bzzt&gt;
+73f6c23e-5598-4c96-afcf-a1604f79c792:&lt;bzzt&gt;
+b6c703c0-380f-4684-8290-745970ddded8:&lt;bzzt&gt;
+3a71e149-0f81-4b70-be99-5e4d132deb2c:&lt;bzzt&gt;
+e755e39f-258a-44a8-9c5a-546d8cf80c59:&lt;bzzt&gt;
+6b86d42e-ba70-4eeb-9e64-3b8d9c78f6a9:&lt;bzzt&gt;
+5cc3896f-9374-4cd2-8e14-1c123d3daeb8:&lt;bzzt&gt;
+37ad0fde-c156-43bc-8eda-505035587caf:&lt;bzzt&gt;
+88130e95-c9b7-45a9-914f-7f00a9535381:&lt;bzzt&gt;
+3826cc85-46a3-46ce-9925-a44ad460f21b:&lt;bzzt&gt;
+2989743c-5735-44b4-bd86-11399a85d4ae:&lt;bzzt&gt;
+0d95dc34-0ca6-4817-b8f3-6187d1b080e7:&lt;bzzt&gt;
+c4121dda-70da-4893-b459-1fad6185530c:&lt;bzzt&gt;
+7d6af17d-c150-4821-a217-b5dc4514245d:&lt;bzzt&gt;
+e9d5c0f6-18aa-44f2-a1e2-c28c1685e264:&lt;bzzt&gt;
+482cff23-87c7-46ca-b558-679b941bf1d4:&lt;bzzt&gt;
+1e30d185-18c1-4522-a54a-176af4477083:&lt;bzzt&gt;
+2b0f311d-b402-40a5-8c98-cbe28a723267:&lt;bzzt&gt;
+973dd153-cd4d-4ef1-b42e-61edede94b5b:&lt;bzzt&gt;
+c681a21c-ae15-4628-b241-d5081c5ca2a5:&lt;bzzt&gt;
+f39817d9-278b-4276-bb01-46f29e4e21b3:&lt;bzzt&gt;
+4c5b6d2e-95d6-490f-a710-f8937b739ed1:&lt;bzzt&gt;
+d7543dd5-fbce-41ec-84eb-e6682c02e8cb:&lt;bzzt&gt;
 0772229c-a5a5-4556-b1cf-b494257b2876:WBLN! Your news, your station.
 036d85be-a47c-44d4-9c32-85fbe019db3f:Uncertainty and fear in Kentucky as the lockdown continues on this...
 61df9586-d4f5-46ff-97de-589faff19d4e:... the second day of the Knox Event exclusion.
@@ -5097,16 +5097,16 @@ a805b99c-e069-494e-8a1b-cd9c53ed43aa:This revelation isn't going to help in stem
 312e68fa-4bcb-4612-b0a0-d296f0005b13:Fuck McGrew! FUCK HIS LIES!
 8b317847-08d7-48c1-965b-937097bb2dcc:Ma'am, we're live on WBLN!
 4fab0a6d-bdc3-4dde-a4ef-ef49d2f6fed4:FUCK THIS SHIT!
-e9afb76c-cf2b-4468-b46b-f27309345b59:<
-57d04818-155a-4bb9-a43f-0cf5fe4122e5:<
+e9afb76c-cf2b-4468-b46b-f27309345b59:&lt;bzzt&gt;
+57d04818-155a-4bb9-a43f-0cf5fe4122e5:&lt;bzzt&gt;
 16ffb6a7-5aeb-4389-b103-037218e49e75:The curfew begins at 6pm EST. Please stay in your houses.
 6cecd4bb-db8a-4e5a-ae19-9434c28c2825:Please tune in to local programming for curfew information.
 049c12a3-8676-42c4-a26d-419ac620b3d6:WBLN! Your news, your station.
-a15eb724-c873-4d7c-8979-004582c9fd2f:<
+a15eb724-c873-4d7c-8979-004582c9fd2f:&lt;bzzt&gt;
 4cab09ab-23ce-437c-87ef-e69418f1e491:Welcome 
-61ebd8cb-80e3-4ad9-9417-5b0d1aa4e34a:<
-ef84e18a-48f1-4908-b022-95d273de6263:<
-795d3101-b9e9-4b2c-8459-d7023e8caded:<
+61ebd8cb-80e3-4ad9-9417-5b0d1aa4e34a:&lt;bzzt&gt;
+ef84e18a-48f1-4908-b022-95d273de6263:&lt;bzzt&gt;
+795d3101-b9e9-4b2c-8459-d7023e8caded:&lt;bzzt&gt;
 8b50ebe3-a9bd-447b-b798-a0a80756c196:WBLN! Your news, your station.
 bc1748b4-5d3d-4531-b982-b73ffae9c94d:After last night's outage it's been a period of revelation.
 4218114a-46c1-4456-8260-d95727c3dc33:Still: no word from The White House or General John McGrew...
@@ -5184,7 +5184,7 @@ d71a4f21-6298-4718-bf6e-03ca4384d1c7:We are safe.
 e09e4bf0-92d1-4c95-b75d-8e1156b516f4:Thank you.
 f9e10857-2306-4a04-b56f-0f747e88e7be:General! General!
 58338de1-50ed-4311-b94e-cc511e2a8d56:I said no questions Richard! When we have news you'll hear it.
-140567b7-8dac-4cf9-9a87-aff5590a8b40:<
+140567b7-8dac-4cf9-9a87-aff5590a8b40:&lt;bzzt&gt;
 e8a7b307-ee3f-4976-b509-387523f0746d:The curfew begins at 6pm EST. Please stay in your houses.
 a24d190f-6e25-42b6-9315-9ca212c86605:Please tune in to local programming for curfew information.
 27e14da3-0942-4659-81ea-5198a03a00ee:WBLN! Your news, your station.
@@ -5296,7 +5296,7 @@ e6782a22-d4d1-40b1-94c2-e985c9d3dd04:There were thousands of them.
 ae561cb5-01cb-43b5-bf03-9d6a9cdc13bd:Are there people, uninfected people, who have died?
 dbd4fc4b-2bfe-4f3e-abf6-6ac4aadbe2da:It's a war zone.
 f4ffaa34-a386-4250-9b29-ca04affc74da:There's...
-d7639c03-ae6d-4f93-a0ed-7ca59776c925:<
+d7639c03-ae6d-4f93-a0ed-7ca59776c925:&lt;bzzt&gt;
 2b6bf68c-5c3c-4b94-9544-3ef34029a800:Oh God! There's more!
 6ddcaf24-beb8-40b0-83c7-41b6436b0d15:The Knox Event has been compromised Diane!
 dfd70b1f-5d90-4a1f-a8db-c5a0c6aa87c5:Compromised!
@@ -5432,82 +5432,82 @@ cc4e1c82-813b-47ad-8944-6051800e5253:We will all be forgiven.
 3cd7622a-d314-4b26-9cd5-872b7789db6f:The curfew begins at 6pm EST. Please stay in your houses.
 b8f1f7ad-aebe-4982-8408-ccc3a6294125:Please tune in to local programming for curfew information.
 a28011e5-4e84-44b1-a94c-455c2d79dcbb:WBLN! Your news, your station.
-2aaffa4c-a3fb-4006-bfb6-37656a433a26:<
-9783f700-ab2e-48f3-94a2-71c727b6661e:<
-0c454b31-c9b7-41ce-97e5-f008fdf60872:<
-bbbb9724-c942-4200-a005-8bb35f6cb852:<
-94102c06-a161-4a84-9e1d-43953c3f9300:<
-8f13acf3-92ac-4034-b6b2-21100131df1d:<
-3818a4d9-c31e-4036-bba4-270f0aec484f:<
-6fd9e463-ceba-439d-9d1e-f403e15d40a6:<
-d3d7905f-efe0-495a-9e04-18accbd4bbcc:<
-a1361d21-5f77-43cd-9a63-c8c2f2446ee4:<
-2ef00438-60fa-4f4c-bba5-1752ad2bfa36:<
-980e78aa-3530-4b90-8171-d4ba61b8f8a6:<
-f33426d6-4d69-4253-82f6-565110753d90:<
-14535e38-c387-49b5-b32c-f7a1baa4c4b8:<
-1f4216ad-7bbb-4b99-b01a-84ad1e358cef:<
-b3f61bdf-b0b5-4ec1-85c7-41dcd21214cc:<
-a8679925-7117-4c80-8388-59e9fcac5e39:<
-36f09849-ceec-443b-9bc1-bdb184482ff4:<
-835188be-54cf-41ac-acfe-f2b4ed9939e4:<
-fb53b388-c3bc-47bb-b095-49d178a8376e:<
-44f690d3-79fa-4806-8ddc-ea11ffd8ad6f:<
-26174489-c9d5-4f26-af76-54756624cb3f:<
-6b2b7949-6065-4703-b036-dc0830284eba:<
-9d6e7f9e-94b8-4039-b042-429f9eb49d69:<
-92fe588e-1872-4942-bd4e-f1411f5da669:<
-548f4525-2e26-45da-a238-560de17a4e91:<
-d068a765-c4b2-4801-b7d8-43f02045d299:<
-8bc017f9-d109-4c36-9352-b902e8771c4d:<
-b5aa9032-97a6-46d5-8b0f-23e570741e9d:<
-ee65ad35-27ec-42de-9aab-79dc4d3200ee:<
-e751ad8d-18ec-4d10-9fd9-f1ab413d15d3:<
-35563b9f-eac7-486a-9272-00ef4030ca5d:<
-2a173d21-e574-4f2e-b05f-b245a5e9f5c4:<
-d19ecea3-00e8-4e45-9f00-b26c78771062:<
-0d08adf4-46b8-468a-b7f2-a177126798c3:<
-0b31a901-a251-40f4-85ce-acee95878f6d:<
-c3ca63bf-52ff-4b73-b3a4-a37cca415bb5:<
-dac29115-1d66-442d-ac63-e218eacba0ac:<
-80320654-d500-419a-9d83-9949d12dc255:<
-3d22017e-0f43-4a4f-886a-1ee1caf2ae6f:<
-77a0300a-4ab4-421d-9a1f-85c1fd2e7d5d:<
-1c9a5ed5-2083-4cf6-aa7f-bfc478d92a52:<
-c2fc0f00-ac1d-4907-9247-c23a7d7e9985:<
-b8908ada-49b9-4d54-b644-7bb953be2b90:<
-d141f0f2-6e6e-4599-a01d-7e00a34e90f2:<
-c1325fff-8ea8-43b3-8a42-fc6712b8a265:<
-a06d242d-a699-45f4-a261-86c5c3e45cd3:<
-79cf4308-c80a-4381-aee5-0d1b442344c7:<
-db2628e7-e6e9-4c1b-847e-53c1d8e94700:<
-de06b941-fec3-49c9-8c2a-05b91f35fc88:<
-91de36f1-a313-4fc7-901a-b12fc8349ed9:<
-dd43f4c4-48eb-431e-8027-0436754d260a:<
-84cd0a65-7ee8-4c72-b1d3-001b56be14d3:<
-018d2560-fdc1-43c2-ba34-ce91ba3a9838:<
-f157b649-3e2c-4680-a838-f54b1fbe4c30:<
-abbe540b-26b2-4967-a141-6e651662c550:<
-a79faed2-f2de-49ee-bbc2-066f6b35abc8:<
-95df717b-d85a-4d1d-93f9-715ab0226b07:<
-31a1ebbb-819e-4945-b0df-497e418db263:<
-46e2cb21-f36f-46ed-b818-4fa14f5bb856:<
-ecf6dc7d-b525-4569-824a-4710facb2220:<
-f52d6dd9-ff38-4241-a65e-8fc34aace884:<
-3fe8fffa-a97f-45f8-b4ed-4fe15cf95f48:<
-66848dec-fa30-4655-bf11-9062dac5e4c9:<
-11925878-e9f0-486d-b284-ecfd1b0643a8:<
-725f3c33-bc61-4b9a-bf32-907d10f9a746:<
-aeb55e0f-2892-4968-8fc7-05347054b63a:<
-b72e66b9-3524-4bf9-b885-5a62ae105210:<
-dc25a596-4089-49db-9a13-34de6fdd7f98:<
-c37609c6-9b29-4883-825a-b23797d7a31b:<
-052804c6-092b-44e8-882c-2ecb6e0f662e:<
-b852c059-944b-4854-8903-c1e39e6cb468:<
-dfec4e9e-deee-4cfb-9e04-bb510178b666:<
-05cb834d-5c45-446f-81f5-8912bd9bf554:<
-1412f9cc-bdc9-4ffd-bbc3-01a713695b00:<
-fb445878-5d28-4e2b-b8a5-0fe3ea6ab324:<
+2aaffa4c-a3fb-4006-bfb6-37656a433a26:&lt;bzzt&gt;
+9783f700-ab2e-48f3-94a2-71c727b6661e:&lt;bzzt&gt;
+0c454b31-c9b7-41ce-97e5-f008fdf60872:&lt;bzzt&gt;
+bbbb9724-c942-4200-a005-8bb35f6cb852:&lt;bzzt&gt;
+94102c06-a161-4a84-9e1d-43953c3f9300:&lt;bzzt&gt;
+8f13acf3-92ac-4034-b6b2-21100131df1d:&lt;bzzt&gt;
+3818a4d9-c31e-4036-bba4-270f0aec484f:&lt;bzzt&gt;
+6fd9e463-ceba-439d-9d1e-f403e15d40a6:&lt;bzzt&gt;
+d3d7905f-efe0-495a-9e04-18accbd4bbcc:&lt;bzzt&gt;
+a1361d21-5f77-43cd-9a63-c8c2f2446ee4:&lt;bzzt&gt;
+2ef00438-60fa-4f4c-bba5-1752ad2bfa36:&lt;bzzt&gt;
+980e78aa-3530-4b90-8171-d4ba61b8f8a6:&lt;bzzt&gt;
+f33426d6-4d69-4253-82f6-565110753d90:&lt;bzzt&gt;
+14535e38-c387-49b5-b32c-f7a1baa4c4b8:&lt;bzzt&gt;
+1f4216ad-7bbb-4b99-b01a-84ad1e358cef:&lt;bzzt&gt;
+b3f61bdf-b0b5-4ec1-85c7-41dcd21214cc:&lt;bzzt&gt;
+a8679925-7117-4c80-8388-59e9fcac5e39:&lt;bzzt&gt;
+36f09849-ceec-443b-9bc1-bdb184482ff4:&lt;bzzt&gt;
+835188be-54cf-41ac-acfe-f2b4ed9939e4:&lt;bzzt&gt;
+fb53b388-c3bc-47bb-b095-49d178a8376e:&lt;bzzt&gt;
+44f690d3-79fa-4806-8ddc-ea11ffd8ad6f:&lt;bzzt&gt;
+26174489-c9d5-4f26-af76-54756624cb3f:&lt;bzzt&gt;
+6b2b7949-6065-4703-b036-dc0830284eba:&lt;bzzt&gt;
+9d6e7f9e-94b8-4039-b042-429f9eb49d69:&lt;bzzt&gt;
+92fe588e-1872-4942-bd4e-f1411f5da669:&lt;bzzt&gt;
+548f4525-2e26-45da-a238-560de17a4e91:&lt;bzzt&gt;
+d068a765-c4b2-4801-b7d8-43f02045d299:&lt;bzzt&gt;
+8bc017f9-d109-4c36-9352-b902e8771c4d:&lt;bzzt&gt;
+b5aa9032-97a6-46d5-8b0f-23e570741e9d:&lt;bzzt&gt;
+ee65ad35-27ec-42de-9aab-79dc4d3200ee:&lt;bzzt&gt;
+e751ad8d-18ec-4d10-9fd9-f1ab413d15d3:&lt;bzzt&gt;
+35563b9f-eac7-486a-9272-00ef4030ca5d:&lt;bzzt&gt;
+2a173d21-e574-4f2e-b05f-b245a5e9f5c4:&lt;bzzt&gt;
+d19ecea3-00e8-4e45-9f00-b26c78771062:&lt;bzzt&gt;
+0d08adf4-46b8-468a-b7f2-a177126798c3:&lt;bzzt&gt;
+0b31a901-a251-40f4-85ce-acee95878f6d:&lt;bzzt&gt;
+c3ca63bf-52ff-4b73-b3a4-a37cca415bb5:&lt;bzzt&gt;
+dac29115-1d66-442d-ac63-e218eacba0ac:&lt;bzzt&gt;
+80320654-d500-419a-9d83-9949d12dc255:&lt;bzzt&gt;
+3d22017e-0f43-4a4f-886a-1ee1caf2ae6f:&lt;bzzt&gt;
+77a0300a-4ab4-421d-9a1f-85c1fd2e7d5d:&lt;bzzt&gt;
+1c9a5ed5-2083-4cf6-aa7f-bfc478d92a52:&lt;bzzt&gt;
+c2fc0f00-ac1d-4907-9247-c23a7d7e9985:&lt;bzzt&gt;
+b8908ada-49b9-4d54-b644-7bb953be2b90:&lt;bzzt&gt;
+d141f0f2-6e6e-4599-a01d-7e00a34e90f2:&lt;bzzt&gt;
+c1325fff-8ea8-43b3-8a42-fc6712b8a265:&lt;bzzt&gt;
+a06d242d-a699-45f4-a261-86c5c3e45cd3:&lt;bzzt&gt;
+79cf4308-c80a-4381-aee5-0d1b442344c7:&lt;bzzt&gt;
+db2628e7-e6e9-4c1b-847e-53c1d8e94700:&lt;bzzt&gt;
+de06b941-fec3-49c9-8c2a-05b91f35fc88:&lt;bzzt&gt;
+91de36f1-a313-4fc7-901a-b12fc8349ed9:&lt;bzzt&gt;
+dd43f4c4-48eb-431e-8027-0436754d260a:&lt;bzzt&gt;
+84cd0a65-7ee8-4c72-b1d3-001b56be14d3:&lt;bzzt&gt;
+018d2560-fdc1-43c2-ba34-ce91ba3a9838:&lt;bzzt&gt;
+f157b649-3e2c-4680-a838-f54b1fbe4c30:&lt;bzzt&gt;
+abbe540b-26b2-4967-a141-6e651662c550:&lt;bzzt&gt;
+a79faed2-f2de-49ee-bbc2-066f6b35abc8:&lt;bzzt&gt;
+95df717b-d85a-4d1d-93f9-715ab0226b07:&lt;bzzt&gt;
+31a1ebbb-819e-4945-b0df-497e418db263:&lt;bzzt&gt;
+46e2cb21-f36f-46ed-b818-4fa14f5bb856:&lt;bzzt&gt;
+ecf6dc7d-b525-4569-824a-4710facb2220:&lt;bzzt&gt;
+f52d6dd9-ff38-4241-a65e-8fc34aace884:&lt;bzzt&gt;
+3fe8fffa-a97f-45f8-b4ed-4fe15cf95f48:&lt;bzzt&gt;
+66848dec-fa30-4655-bf11-9062dac5e4c9:&lt;bzzt&gt;
+11925878-e9f0-486d-b284-ecfd1b0643a8:&lt;bzzt&gt;
+725f3c33-bc61-4b9a-bf32-907d10f9a746:&lt;bzzt&gt;
+aeb55e0f-2892-4968-8fc7-05347054b63a:&lt;bzzt&gt;
+b72e66b9-3524-4bf9-b885-5a62ae105210:&lt;bzzt&gt;
+dc25a596-4089-49db-9a13-34de6fdd7f98:&lt;bzzt&gt;
+c37609c6-9b29-4883-825a-b23797d7a31b:&lt;bzzt&gt;
+052804c6-092b-44e8-882c-2ecb6e0f662e:&lt;bzzt&gt;
+b852c059-944b-4854-8903-c1e39e6cb468:&lt;bzzt&gt;
+dfec4e9e-deee-4cfb-9e04-bb510178b666:&lt;bzzt&gt;
+05cb834d-5c45-446f-81f5-8912bd9bf554:&lt;bzzt&gt;
+1412f9cc-bdc9-4ffd-bbc3-01a713695b00:&lt;bzzt&gt;
+fb445878-5d28-4e2b-b8a5-0fe3ea6ab324:&lt;bzzt&gt;
 f17f9259-0ab3-4928-9390-09e068ffc18f:How you doing? Welcome back to the Cook show!
 28f9b202-f015-43e5-a6bb-84e9822bcd25:Brought to you by Kitten Knives - Fine American Cookware.
 50f68741-dfdb-4c53-96f1-720b66080a17:Let's quit fooling around! 
@@ -5533,7 +5533,7 @@ e31ef0c9-c3c5-4ed6-9202-96c5864638d9:*bang* *bang*
 797d7ddd-c394-4c5f-b68a-c1c77b406d68:Okay so we're talking to men today, apparently.
 e40ea507-7a4d-47b2-a5f8-82153f6cf70f:Focus-testing. You got to love it, huh?
 7e28da39-6029-40a6-bff0-f99591bad1d9:Anyway, men like bars. They like a beer.
-f14f0a3c-e1ef-4b4e-aad3-361115ec3df0:<
+f14f0a3c-e1ef-4b4e-aad3-361115ec3df0:&lt;bzzt&gt;
 b9ef2d99-0b7a-40bb-9b39-c9d37d5a25f9:Would you... dude...
 f8fed2e0-734d-4c3c-99b3-d5661e118762:Like to build a bar in your own home?
 8c7e4b2d-9a89-4552-aecd-e8587fca9757:They say you really would. So... for the corners.
@@ -5976,7 +5976,7 @@ f25399a6-32be-4e01-9655-0d2b4609ec22:Take your hammer like so... and...
 16148d00-7b8d-404e-b9e0-124dd2b3327c:Okay so we're talking to men today, apparently.
 e9d27efc-d1ec-4462-b09e-2416564d6d9a:Focus-testing. You gotta love it, huh?
 ea8c5d71-ad24-4333-bbc5-e9f9fe48db05:Anyway, men like bars. They like a beer.
-58af2262-0143-4108-a530-d4269c64e749:<
+58af2262-0143-4108-a530-d4269c64e749:&lt;bzzt&gt;
 7a236e82-6aa1-48bd-9366-cceabef4d2c4:Would you... dude...
 4674b7aa-0ca6-4578-a6a0-9b2400ba1e55:Like to build a bar in your own home?
 608533bd-d6f2-4755-8c8f-0f11b747b842:They say you really would. So... for the corners.
@@ -6118,49 +6118,49 @@ c1683575-201b-4450-a96d-6f11c257d642:Today we're going to settle something!
 80b0669b-91a1-4bdb-bc99-574fc3affb40:Something once and for all!
 fbb4360f-2fe8-470b-b793-57ad6b083314:Pancakes or waffles, which is best?
 8555a4d0-c749-4951-aeb0-85fa9acdaccc:Well, I'll tell ya.
-bd8b59b6-e5e1-4a61-9742-e1248ff500b6:<
-fc7276dc-4976-49ba-a8f9-7d9dc39fb39c:<
-c8d8d26c-9c3c-4534-9aad-a755a9d7c72c:<
-afae77c4-4077-4d81-92b1-52669661ad08:<
-ae397330-a324-4671-b578-286d3d14692a:<
-7a2e62c0-9c84-4481-9fa8-f8e31d52367b:<
-d21a86bf-5681-42d1-a5eb-8649cbcb9bf2:<
-fda8968a-d95f-4eb1-b2dd-719f0a0d700c:<
-8e460187-1b62-47cf-820e-50313788db6f:<
-93aabe2d-fb55-497c-86b0-99b262716ed9:<
-bf93426f-905c-4bd9-bd07-a1efbb6347df:<
-870aa0cc-bc18-40da-a069-40823febaf9c:<
-87d61ade-55c5-4568-8cf7-74096a3ebcf3:<
-09895de5-b3b6-43ca-9ade-11413182314e:<
-fb8de4d3-2ae3-4b0e-9b97-c4b3e3d8d45c:<
-95f4b72d-d9fe-423b-81a7-f53ae13a415f:<
-f745d84d-d78c-45bf-8e8a-6854038da525:<
-b61910c5-9201-43e7-9460-9a92d69b4bd6:<
-2f84e7d3-8b3c-4a50-ad9b-40c355c4f5c8:<
-73fb4704-ba4b-40e3-a46e-c70a6cf2b55a:<
-267889a6-9ab8-4c5c-8d66-6a3afb06b020:<
-f8e21aaf-8f29-419f-bb73-6cf9ba60ba91:<
-2ea99d0c-6305-4402-85c8-82a01a9bff6c:<
-80083695-2e29-4d8d-8349-c6c04b564b47:<
-4772ada4-b384-4a6c-859e-d27927d529ef:<
-9eebe4e9-e620-4a1e-8d4c-383d34728164:<
-a75f7b90-5843-43f3-8b36-b7da187d7dce:<
-d990e3ea-4bbe-47ec-80cd-269895dafc60:<
-24d8fa8d-f834-48aa-8703-ff6c8834f3de:<
-bebb07f4-9a02-482e-a37b-6584608e5024:<
-2e5a6665-62f1-4e2e-8169-390bcbf48318:<
-5f660165-2174-4013-a80d-1ff8a92525d8:<
-39e0398b-a98f-4609-b768-55f0ef27524e:<
-a8da257c-9a07-4d6a-b788-e36dc8222199:<
-845efe43-0f10-4cfe-bc9e-b9a9aeff4b26:<
-be1a29f5-559f-4aab-834c-5521767e0279:<
-e668c5e3-27cc-43de-a878-a7724cb94cd9:<
-92a5b07b-2c3f-4086-81eb-ba7a084ab7ae:<
-172ac281-ea76-4d5b-910c-f43abc8bd762:<
-4837efe5-e6ca-4678-b616-0d268b1a568f:<
-20e0c661-c9fd-4081-ba82-557a449277be:<
-d35347ba-72f9-4739-b9a8-607ee23d344c:<
-7c5167ed-e8c7-4715-b772-ff0362e05a27:<
+bd8b59b6-e5e1-4a61-9742-e1248ff500b6:&lt;bzzt&gt;
+fc7276dc-4976-49ba-a8f9-7d9dc39fb39c:&lt;bzzt&gt;
+c8d8d26c-9c3c-4534-9aad-a755a9d7c72c:&lt;bzzt&gt;
+afae77c4-4077-4d81-92b1-52669661ad08:&lt;bzzt&gt;
+ae397330-a324-4671-b578-286d3d14692a:&lt;bzzt&gt;
+7a2e62c0-9c84-4481-9fa8-f8e31d52367b:&lt;bzzt&gt;
+d21a86bf-5681-42d1-a5eb-8649cbcb9bf2:&lt;bzzt&gt;
+fda8968a-d95f-4eb1-b2dd-719f0a0d700c:&lt;bzzt&gt;
+8e460187-1b62-47cf-820e-50313788db6f:&lt;bzzt&gt;
+93aabe2d-fb55-497c-86b0-99b262716ed9:&lt;bzzt&gt;
+bf93426f-905c-4bd9-bd07-a1efbb6347df:&lt;bzzt&gt;
+870aa0cc-bc18-40da-a069-40823febaf9c:&lt;bzzt&gt;
+87d61ade-55c5-4568-8cf7-74096a3ebcf3:&lt;bzzt&gt;
+09895de5-b3b6-43ca-9ade-11413182314e:&lt;bzzt&gt;
+fb8de4d3-2ae3-4b0e-9b97-c4b3e3d8d45c:&lt;bzzt&gt;
+95f4b72d-d9fe-423b-81a7-f53ae13a415f:&lt;bzzt&gt;
+f745d84d-d78c-45bf-8e8a-6854038da525:&lt;bzzt&gt;
+b61910c5-9201-43e7-9460-9a92d69b4bd6:&lt;bzzt&gt;
+2f84e7d3-8b3c-4a50-ad9b-40c355c4f5c8:&lt;bzzt&gt;
+73fb4704-ba4b-40e3-a46e-c70a6cf2b55a:&lt;bzzt&gt;
+267889a6-9ab8-4c5c-8d66-6a3afb06b020:&lt;bzzt&gt;
+f8e21aaf-8f29-419f-bb73-6cf9ba60ba91:&lt;bzzt&gt;
+2ea99d0c-6305-4402-85c8-82a01a9bff6c:&lt;bzzt&gt;
+80083695-2e29-4d8d-8349-c6c04b564b47:&lt;bzzt&gt;
+4772ada4-b384-4a6c-859e-d27927d529ef:&lt;bzzt&gt;
+9eebe4e9-e620-4a1e-8d4c-383d34728164:&lt;bzzt&gt;
+a75f7b90-5843-43f3-8b36-b7da187d7dce:&lt;bzzt&gt;
+d990e3ea-4bbe-47ec-80cd-269895dafc60:&lt;bzzt&gt;
+24d8fa8d-f834-48aa-8703-ff6c8834f3de:&lt;bzzt&gt;
+bebb07f4-9a02-482e-a37b-6584608e5024:&lt;bzzt&gt;
+2e5a6665-62f1-4e2e-8169-390bcbf48318:&lt;bzzt&gt;
+5f660165-2174-4013-a80d-1ff8a92525d8:&lt;bzzt&gt;
+39e0398b-a98f-4609-b768-55f0ef27524e:&lt;bzzt&gt;
+a8da257c-9a07-4d6a-b788-e36dc8222199:&lt;bzzt&gt;
+845efe43-0f10-4cfe-bc9e-b9a9aeff4b26:&lt;bzzt&gt;
+be1a29f5-559f-4aab-834c-5521767e0279:&lt;bzzt&gt;
+e668c5e3-27cc-43de-a878-a7724cb94cd9:&lt;bzzt&gt;
+92a5b07b-2c3f-4086-81eb-ba7a084ab7ae:&lt;bzzt&gt;
+172ac281-ea76-4d5b-910c-f43abc8bd762:&lt;bzzt&gt;
+4837efe5-e6ca-4678-b616-0d268b1a568f:&lt;bzzt&gt;
+20e0c661-c9fd-4081-ba82-557a449277be:&lt;bzzt&gt;
+d35347ba-72f9-4739-b9a8-607ee23d344c:&lt;bzzt&gt;
+7c5167ed-e8c7-4715-b772-ff0362e05a27:&lt;bzzt&gt;
 0aca7dac-0f93-45b3-ad5d-801c8e987f3d:TURBO: Your friend. Your entertainment!
 10613e46-2223-42dd-bdb7-cde820db6ed7:We're going over to our colleagues at Triple-N. 
 cf4960ad-24b5-4ac3-890a-8b2e0569ea86:This is Triple-N. 
@@ -6315,7 +6315,7 @@ fa0593eb-eb20-4c72-89c7-ff6faac03c6e:I can wait. I suppose.
 9ad16d63-09d1-4447-87dc-e4d695bb110a:I'm so sorry Eliza. I'll see you in Maths this afternoon?
 18c65067-4204-4f0b-a8a9-6776a3c548e5:Sir, the Defence has been called Sir.
 6fa52e84-bb4c-4e78-9db8-7266b3366bc8:I'm needed. I'm sorry.
-956c0a5e-2241-45a9-936d-a49ddbc71ee9:<
+956c0a5e-2241-45a9-936d-a49ddbc71ee9:&lt;bzzt&gt;
 9b99f2f4-c6a8-42f2-91dc-2433621f60e5:Come with haste sir.
 4d2f9279-db14-4bee-bcb1-9b9cc0cedda0:[img=music] Jaunty music [img=music]
 9a292fa3-0bdf-4455-8d5e-e581f3ae09c9:TURBO: Your friend. Your entertainment!
@@ -6374,7 +6374,7 @@ d4d6894e-f988-4612-97f8-644265b9483d:[img=music] Jaunty music [img=music]
 1dcdb35c-ffc7-4fa1-9622-1f8c2f744277:... my client was *not* atop the roof of Greggs the pastry chef!
 99a00051-0073-4b94-b8e7-d32431e70b20:He was, in fact, saving the life of the Earl of Basildon.
 c6167fae-b87d-4cb8-924f-f713e37afe4f:Through the donation of... a kidney.
-2912692f-6ff2-4beb-b655-19a0ea440d0a:<
+2912692f-6ff2-4beb-b655-19a0ea440d0a:&lt;bzzt&gt;
 a7457af3-6894-402d-84ad-d187a6f886ad:Objection!
 4ecaae6a-42c3-493a-88a1-41e1901ac8bd:My Lord, the Queens Counsel is only seventeen!
 53c9f3ad-f471-425e-a1b0-a02d6471ce79:Overruled!
@@ -6384,7 +6384,7 @@ bc58db38-666c-4e38-b23b-a3172492adc0:Firstly, the scar on Mr James was NOT admin
 1b9566ba-a53f-4e10-8997-68a4407a316f:But instead by a surgeon's scalpel!
 dffd93b2-cc21-44fb-8195-6d369229c136:Secondly!
 426841a2-483a-4d63-853c-15001b726168:The defence would like to call: the Earl of Basildon!
-ce0b8401-fc5b-43f4-b0e9-eb779e725250:<
+ce0b8401-fc5b-43f4-b0e9-eb779e725250:&lt;bzzt&gt;
 053f4af7-0b0e-45ab-a1bd-63b7091a0f06:How is he doing this? He's only seventeen!
 05148441-2ddc-4272-af45-811cce03abf1:[img=music] Jaunty music [img=music]
 6dd093d7-481a-47d3-bf16-0cd28aff1087:TURBO: Your friend. Your entertainment!
@@ -6647,10 +6647,10 @@ f7c58953-370b-4767-a52e-49cd60bfe2f7:My thoughts are with those poor souls behin
 8a0211e3-2cac-41fb-9a46-c3ab284f0dbf:We are safe.
 56ae81a5-3f71-45cf-9146-ee59c8f63227:America is safe.
 3a44c595-396f-463f-b7b0-df36e1463838:Meanwhile it's been a night of anarchy on our streets as...
-9a0a5638-564a-4faa-9418-c2a5d4cf6e5a:<
-22ec4644-2006-4867-a9b3-bf3f702cc9cf:<
-5386f3fd-fce6-463e-b5a0-18935cca75bb:<
-08953142-68e7-49c7-b61d-0a14cdf5776c:<
+9a0a5638-564a-4faa-9418-c2a5d4cf6e5a:&lt;bzzt&gt;
+22ec4644-2006-4867-a9b3-bf3f702cc9cf:&lt;bzzt&gt;
+5386f3fd-fce6-463e-b5a0-18935cca75bb:&lt;bzzt&gt;
+08953142-68e7-49c7-b61d-0a14cdf5776c:&lt;bzzt&gt;
 71b5767c-58be-4605-92b1-5b27a235db73:... on Triple-N.
 2551325d-5c0b-492e-8fd0-4c076ba12bdb:The curfew begins at 6pm EST. Please stay in your houses.
 beb0a78e-0033-45e6-aeed-963cefd828d2:Welcome back!
@@ -6711,10 +6711,10 @@ dc268e31-c4bd-4709-ab45-780e8dbe119d:His hunt is back on.
 11d76ee6-bd4b-4f39-9cdd-92ae6dd2ef9d:[img=music] Woo. [img=music]
 8d039308-57d6-4c10-9d7e-4b3b619cbeaa:The curfew begins at 6pm EST. Please stay in your houses.
 3b2cb9e6-e421-47bc-a6e0-286cbcd84597:Please tune in to local programming for curfew information.
-fce039fd-4e81-44e8-9187-0e554605fa2d:<
-a4fccd1e-4117-4f72-9989-d9df0ea3a54b:<
-92de6851-623f-4648-a18a-2d2bb7521d34:<
-02861676-b0d5-471d-b760-f7e4b7e8c468:<
+fce039fd-4e81-44e8-9187-0e554605fa2d:&lt;bzzt&gt;
+a4fccd1e-4117-4f72-9989-d9df0ea3a54b:&lt;bzzt&gt;
+92de6851-623f-4648-a18a-2d2bb7521d34:&lt;bzzt&gt;
+02861676-b0d5-471d-b760-f7e4b7e8c468:&lt;bzzt&gt;
 39acc681-1ed0-4127-bfcd-84e62dfb4544:[img=music] Jaunty music [img=music]
 5fa99291-e06a-4d92-8d93-d3a31736b89b:Albert, Albert is that you?
 088521ce-2561-4fe6-a63b-e490062ade59:It is Eliza. What's wrong, why are you crying here outside the Wetherspoons Ball?
@@ -6753,7 +6753,7 @@ b850a714-0050-4548-a4ac-888ee672fbee:I know what it is. I saw my wife with the s
 43982bf4-3772-49ee-b864-c8fcefcf73b8:When they find out they'll... you've seen what they're doing?
 da91df0d-31c1-46d1-9041-c8acdd37213e:The others? He can't die! He can't die!
 454b684e-1ad3-4446-8415-7c5f859c4d1e:This is Kirsty Cormick, on the road to Louisville.
-b80c21c2-d763-4de5-8862-9d58294b4ba4:<
+b80c21c2-d763-4de5-8862-9d58294b4ba4:&lt;bzzt&gt;
 5faa2099-d50b-4616-8c60-f68d4c9c9ff4:... on Triple-N.
 37b5104d-3ad5-49c1-9c9c-8c4da6bd02af:Judge Matt Hass - on NNN!
 b19cbe0d-b9da-4ddc-99a3-229c360cd4e6:The voice of reason!
@@ -6862,130 +6862,130 @@ d5fbd4df-cbd8-49d6-880e-7778f0e24f22:You should've thought of that before you sh
 9a40ce0c-cd67-4731-b8aa-9dcc7d843920:I'm COUNTING on it!
 c60ca562-f5f7-43c7-8672-75c91d23af4d:[img=music] Sunset Drive. Got you on my mind... [img=music]
 5f187b06-7396-41c0-8b03-456f8a69a0a1:[img=music] On Sun... Set... Drive! [img=music]
-55911f75-cf85-4f03-902a-7d9b59dbb707:<
-97a0e3a0-9cb2-4cf4-b2e4-8482df06cde8:<
-2a21dcb3-d3af-4ca5-a9d6-4a4326b6a207:<
-79cc6275-d407-409b-b379-e33c83b2356c:<
-f6cf3f3e-6638-4332-8101-83cbf0d841dd:<
-a50f003c-5245-4a33-820a-a65487831513:<
-013afb99-075d-4c98-8100-1cf769a9fccf:<
-ba975855-fda0-4ccc-a34b-1228869625f0:<
-3ca0c1ac-747a-4a0c-8f55-d66123759e38:<
-eeb061eb-9b00-4004-b475-4335a362aa48:<
-dd2c159a-638e-4040-94b4-44eccd4071bf:<
-c793da3f-17b2-4c85-bf4b-7773b38609cf:<
-4d6bada2-b181-49f1-b7f2-743777612d17:<
-5ee59317-c880-4337-9d96-7b8c775833e7:<
-45406086-5b38-4053-bdd9-ed44f2521beb:<
-56c4342b-523e-4031-9b5b-698cff851c14:<
-a1883dc5-3fdf-4845-9a42-edcbeb585c6d:<
-9f7b5762-3c48-448f-a519-d8300dfb1c38:<
-406e0a5a-1242-451c-acf7-43ce5bd1afac:<
-52ad2b66-df76-481b-b2a3-e2612209271e:<
-ba6d10d6-e6a2-4ca1-9152-1dfb9f6cb0b3:<
-ec768e84-933b-4173-aeff-fb60200a268a:<
-42bca021-6093-427d-9179-cec733325587:<
-0d132e50-1ad6-4079-93b2-5323c108a84a:<
-b6f4c486-c02c-4c12-ab4e-ca23013a2f8e:<
-a99be878-65c7-4f64-b44a-e3f972ddf6fd:<
-e42cb787-3dae-4666-965d-faafad6a80a4:<
-253aba71-268f-4a33-afa6-cb825f27026c:<
-93537a04-d692-49ab-b09c-02563c7e4894:<
-41d77e16-b402-44f2-a333-73a25ca5c83c:<
-b0986395-9e9d-45ab-b835-9a0eac4d03a2:<
-378968d5-def5-4598-95e5-5a850617e697:<
-ebfb351b-be04-42f3-810a-1f21fb453aeb:<
-119e0c50-b0b6-45b7-bf70-596266297a59:<
-e83459ab-1d4b-4404-ada3-0639a40ee44c:<
-861f68b3-0c4e-4dfa-a2fe-f748e7f96139:<
-6217b8f8-96b6-4d2c-98c4-cfe3d71d1a11:<
-b5e77c41-0f75-4ccc-9513-25c83d8da35b:<
-fd54743a-0f62-467c-8055-dc3790843b72:<
-1141e7a7-056c-4864-aa83-76a3d30f9ca2:<
-669cb36c-a727-4fc3-8913-2bfb581771bf:<
-b316570e-5aae-4e7f-8f9c-be2ba2968d59:<
-266dd52d-36f3-4ee4-aa0e-8748b66fde43:<
-437eeb49-c3ec-4bf6-b94e-7a9a8fbe4844:<
-d78f7ae1-e057-4d87-8f66-010d3218817e:<
-83df20fb-8b1e-4ab6-9ed2-5482c0e6a041:<
-a67c5b3f-07c5-4b9d-8b2b-8217b1dd0ad6:<
-177ae877-b336-4206-9f30-fbfe223c2cbd:<
-b6f9f41f-8c01-4c02-9fc6-604295171b14:<
-62effb54-c686-4ae1-a349-86b4dd2b0dec:<
-76b70fca-c075-47e7-9d44-05564e924776:<
-33785a31-df85-4ad3-bc70-c9992d9c9ca3:<
-83bdf8d2-6c73-4cfe-9979-21ec56152035:<
-2dd40beb-1e7e-4617-8d50-9351bae83022:<
-79bed68a-00ab-4e43-b5d7-89dd14d27275:<
-8ccf6b42-b15c-4aa3-b7e3-631b0a3b0e83:<
-87f1a831-6ce0-4222-b502-bdac633d0c71:<
-c49dc0ff-6fd9-49c9-8fe3-fba227c0fc31:<
-d36559ed-608e-4171-922c-fcb60b940bc8:<
-97be6cb2-f111-4548-b34d-949264b401ff:<
-9e30d3db-28ae-457b-9c59-5be9eba3c2f1:<
-35a77087-638e-493a-b40d-9ca3930c469e:<
-42c238c5-309d-4d31-bb47-9f1ae877970f:<
-acc85c55-6885-4168-91cd-30addfdf16f0:<
-07f9745a-558d-41f7-b9b7-0db9fbfee070:<
-15bf4ded-c1db-4281-ab31-8a89279e05f3:<
-58f88ac1-af54-4d3a-9d4b-ca5c625cf6a7:<
-4af08d5f-f79a-4ea6-ab3a-39f37bb425db:<
-666d171a-0229-4a13-9c98-be41f1fee593:<
-0aa3db29-6a97-4cf9-84d8-5286d98593e1:<
-f56f2fa6-5519-4da9-9370-316bea18bd8d:<
-ab8ac0b8-a5d5-4dd9-8abb-dbbf7d5c2dda:<
-9c79f2e0-8e52-44ae-997a-d1d27ad192e6:<
-7fc47528-fa33-47fe-8d50-25005fe22819:<
-84ab3332-9e89-4fee-b271-cdbde5589434:<
-feffaf1c-856d-4076-a74c-4e0d1345d761:<
-81d03c4d-f6a3-49c8-b7dd-a24ba5737737:<
-f45f3475-1720-4de2-86e0-e2b7edd53644:<
-3ee983d2-b95d-4dee-a8af-84452e7d758b:<
-271d334d-da85-4b68-9be2-b4c315668596:<
-886c4a25-269e-4504-ab0c-f42591dd86c2:<
-c03fc14a-90a6-4f7e-b7b7-1787442fdcbe:<
-cefdbdeb-170a-40a3-92c7-e0d2024eaf60:<
-97966cd9-1a4b-45e8-9f8c-00a89a3d6cb8:<
-9608d8fa-8188-4b4a-9e3f-458ae59d4c67:<
-99bb21b5-2aea-4515-a2b9-c73924e1dbd5:<
-e3039630-a30d-421a-8fa2-c9ab3494e25a:<
-020fcb1e-7ade-4ce8-914e-0e7ef2945904:<
-88406fa0-f361-411d-a990-ce143ff2743d:<
-26c869fd-89db-4fdd-89de-c2d455dbd701:<
-a4008805-d130-4878-a23f-abdc7747d467:<
-6ec80f52-e42e-43cd-b7f4-203dde293e71:<
-44f5c30e-b2a6-4208-a0b6-0e0f5ce1216b:<
-dd801e0e-3280-424f-b70a-53f9e609038a:<
-ef113e00-2047-4bd0-8d81-6c77130ea64c:<
-d4368040-a65b-4a5f-a23b-deb036679cb1:<
-7d310947-a9c3-40f9-b496-695a9a60d912:<
-19477eca-2d8e-4fa8-9233-c97e55cb36a0:<
-3186d306-1ddb-408f-9ffb-5435ca396cf5:<
-6630a191-4bac-4cf3-b75a-7512524502d3:<
-d58811dc-70d6-4a38-83ca-18be56a75a62:<
-1d46ff76-c346-47c0-a91a-c3c8c10fa384:<
-ccd36cf1-d6d5-4e40-8941-eb58a0017100:<
-63d5d028-2954-403a-804f-48beeebaadb4:<
-97af2a54-9f7d-4cf9-94f3-52c58f072768:<
-1293329b-d99e-4903-815a-10ed9baf862c:<
-e3a3b580-bcbc-4cc0-815a-5afec3122bf0:<
-4962d057-57d3-4001-801d-7d805215ff76:<
-17825dc4-811e-49f0-b9d1-289cde0f7196:<
-568082f2-e311-4cc6-880a-c4b6ecf9e5a8:<
-855aecf8-bf87-4648-9909-60b443e36553:<
-f3e5dde1-e9cb-4d1f-a003-986bdd85bc3b:<
-6cb80fb1-d1d6-4498-91ba-0b153bf0b0b1:<
-b04376de-60f8-41da-be32-bfefce3d5730:<
-4a2ce269-0de0-45b4-b505-0172938052c8:<
-193533f2-41dd-4052-acf0-1e3e867cd3b8:<
-2e5c8b49-f67f-41fd-ab9d-c5a990f90061:<
-5c21ab32-d965-4090-85e7-bb03b7128178:<
-1b79a54e-60fe-45a6-90d0-11343ffa9303:<
-933a1f55-8085-4e39-aa2b-8f4f5a0487d4:<
-e9ff40f3-be98-4bdc-a66e-1a4a09358672:<
-6db0424f-5abe-449e-956e-5f5083eeb929:<
-c05a19b3-564a-4945-9c7c-aa0db9c99dd0:<
-59a663e5-c551-4e8e-8acb-34cd679e686f:<
+55911f75-cf85-4f03-902a-7d9b59dbb707:&lt;bzzt&gt;
+97a0e3a0-9cb2-4cf4-b2e4-8482df06cde8:&lt;bzzt&gt;
+2a21dcb3-d3af-4ca5-a9d6-4a4326b6a207:&lt;bzzt&gt;
+79cc6275-d407-409b-b379-e33c83b2356c:&lt;bzzt&gt;
+f6cf3f3e-6638-4332-8101-83cbf0d841dd:&lt;bzzt&gt;
+a50f003c-5245-4a33-820a-a65487831513:&lt;bzzt&gt;
+013afb99-075d-4c98-8100-1cf769a9fccf:&lt;bzzt&gt;
+ba975855-fda0-4ccc-a34b-1228869625f0:&lt;bzzt&gt;
+3ca0c1ac-747a-4a0c-8f55-d66123759e38:&lt;bzzt&gt;
+eeb061eb-9b00-4004-b475-4335a362aa48:&lt;bzzt&gt;
+dd2c159a-638e-4040-94b4-44eccd4071bf:&lt;bzzt&gt;
+c793da3f-17b2-4c85-bf4b-7773b38609cf:&lt;bzzt&gt;
+4d6bada2-b181-49f1-b7f2-743777612d17:&lt;bzzt&gt;
+5ee59317-c880-4337-9d96-7b8c775833e7:&lt;bzzt&gt;
+45406086-5b38-4053-bdd9-ed44f2521beb:&lt;bzzt&gt;
+56c4342b-523e-4031-9b5b-698cff851c14:&lt;bzzt&gt;
+a1883dc5-3fdf-4845-9a42-edcbeb585c6d:&lt;bzzt&gt;
+9f7b5762-3c48-448f-a519-d8300dfb1c38:&lt;bzzt&gt;
+406e0a5a-1242-451c-acf7-43ce5bd1afac:&lt;bzzt&gt;
+52ad2b66-df76-481b-b2a3-e2612209271e:&lt;bzzt&gt;
+ba6d10d6-e6a2-4ca1-9152-1dfb9f6cb0b3:&lt;bzzt&gt;
+ec768e84-933b-4173-aeff-fb60200a268a:&lt;bzzt&gt;
+42bca021-6093-427d-9179-cec733325587:&lt;bzzt&gt;
+0d132e50-1ad6-4079-93b2-5323c108a84a:&lt;bzzt&gt;
+b6f4c486-c02c-4c12-ab4e-ca23013a2f8e:&lt;bzzt&gt;
+a99be878-65c7-4f64-b44a-e3f972ddf6fd:&lt;bzzt&gt;
+e42cb787-3dae-4666-965d-faafad6a80a4:&lt;bzzt&gt;
+253aba71-268f-4a33-afa6-cb825f27026c:&lt;bzzt&gt;
+93537a04-d692-49ab-b09c-02563c7e4894:&lt;bzzt&gt;
+41d77e16-b402-44f2-a333-73a25ca5c83c:&lt;bzzt&gt;
+b0986395-9e9d-45ab-b835-9a0eac4d03a2:&lt;bzzt&gt;
+378968d5-def5-4598-95e5-5a850617e697:&lt;bzzt&gt;
+ebfb351b-be04-42f3-810a-1f21fb453aeb:&lt;bzzt&gt;
+119e0c50-b0b6-45b7-bf70-596266297a59:&lt;bzzt&gt;
+e83459ab-1d4b-4404-ada3-0639a40ee44c:&lt;bzzt&gt;
+861f68b3-0c4e-4dfa-a2fe-f748e7f96139:&lt;bzzt&gt;
+6217b8f8-96b6-4d2c-98c4-cfe3d71d1a11:&lt;bzzt&gt;
+b5e77c41-0f75-4ccc-9513-25c83d8da35b:&lt;bzzt&gt;
+fd54743a-0f62-467c-8055-dc3790843b72:&lt;bzzt&gt;
+1141e7a7-056c-4864-aa83-76a3d30f9ca2:&lt;bzzt&gt;
+669cb36c-a727-4fc3-8913-2bfb581771bf:&lt;bzzt&gt;
+b316570e-5aae-4e7f-8f9c-be2ba2968d59:&lt;bzzt&gt;
+266dd52d-36f3-4ee4-aa0e-8748b66fde43:&lt;bzzt&gt;
+437eeb49-c3ec-4bf6-b94e-7a9a8fbe4844:&lt;bzzt&gt;
+d78f7ae1-e057-4d87-8f66-010d3218817e:&lt;bzzt&gt;
+83df20fb-8b1e-4ab6-9ed2-5482c0e6a041:&lt;bzzt&gt;
+a67c5b3f-07c5-4b9d-8b2b-8217b1dd0ad6:&lt;bzzt&gt;
+177ae877-b336-4206-9f30-fbfe223c2cbd:&lt;bzzt&gt;
+b6f9f41f-8c01-4c02-9fc6-604295171b14:&lt;bzzt&gt;
+62effb54-c686-4ae1-a349-86b4dd2b0dec:&lt;bzzt&gt;
+76b70fca-c075-47e7-9d44-05564e924776:&lt;bzzt&gt;
+33785a31-df85-4ad3-bc70-c9992d9c9ca3:&lt;bzzt&gt;
+83bdf8d2-6c73-4cfe-9979-21ec56152035:&lt;bzzt&gt;
+2dd40beb-1e7e-4617-8d50-9351bae83022:&lt;bzzt&gt;
+79bed68a-00ab-4e43-b5d7-89dd14d27275:&lt;bzzt&gt;
+8ccf6b42-b15c-4aa3-b7e3-631b0a3b0e83:&lt;bzzt&gt;
+87f1a831-6ce0-4222-b502-bdac633d0c71:&lt;bzzt&gt;
+c49dc0ff-6fd9-49c9-8fe3-fba227c0fc31:&lt;bzzt&gt;
+d36559ed-608e-4171-922c-fcb60b940bc8:&lt;bzzt&gt;
+97be6cb2-f111-4548-b34d-949264b401ff:&lt;bzzt&gt;
+9e30d3db-28ae-457b-9c59-5be9eba3c2f1:&lt;bzzt&gt;
+35a77087-638e-493a-b40d-9ca3930c469e:&lt;bzzt&gt;
+42c238c5-309d-4d31-bb47-9f1ae877970f:&lt;bzzt&gt;
+acc85c55-6885-4168-91cd-30addfdf16f0:&lt;bzzt&gt;
+07f9745a-558d-41f7-b9b7-0db9fbfee070:&lt;bzzt&gt;
+15bf4ded-c1db-4281-ab31-8a89279e05f3:&lt;bzzt&gt;
+58f88ac1-af54-4d3a-9d4b-ca5c625cf6a7:&lt;bzzt&gt;
+4af08d5f-f79a-4ea6-ab3a-39f37bb425db:&lt;bzzt&gt;
+666d171a-0229-4a13-9c98-be41f1fee593:&lt;bzzt&gt;
+0aa3db29-6a97-4cf9-84d8-5286d98593e1:&lt;bzzt&gt;
+f56f2fa6-5519-4da9-9370-316bea18bd8d:&lt;bzzt&gt;
+ab8ac0b8-a5d5-4dd9-8abb-dbbf7d5c2dda:&lt;bzzt&gt;
+9c79f2e0-8e52-44ae-997a-d1d27ad192e6:&lt;bzzt&gt;
+7fc47528-fa33-47fe-8d50-25005fe22819:&lt;bzzt&gt;
+84ab3332-9e89-4fee-b271-cdbde5589434:&lt;bzzt&gt;
+feffaf1c-856d-4076-a74c-4e0d1345d761:&lt;bzzt&gt;
+81d03c4d-f6a3-49c8-b7dd-a24ba5737737:&lt;bzzt&gt;
+f45f3475-1720-4de2-86e0-e2b7edd53644:&lt;bzzt&gt;
+3ee983d2-b95d-4dee-a8af-84452e7d758b:&lt;bzzt&gt;
+271d334d-da85-4b68-9be2-b4c315668596:&lt;bzzt&gt;
+886c4a25-269e-4504-ab0c-f42591dd86c2:&lt;bzzt&gt;
+c03fc14a-90a6-4f7e-b7b7-1787442fdcbe:&lt;bzzt&gt;
+cefdbdeb-170a-40a3-92c7-e0d2024eaf60:&lt;bzzt&gt;
+97966cd9-1a4b-45e8-9f8c-00a89a3d6cb8:&lt;bzzt&gt;
+9608d8fa-8188-4b4a-9e3f-458ae59d4c67:&lt;bzzt&gt;
+99bb21b5-2aea-4515-a2b9-c73924e1dbd5:&lt;bzzt&gt;
+e3039630-a30d-421a-8fa2-c9ab3494e25a:&lt;bzzt&gt;
+020fcb1e-7ade-4ce8-914e-0e7ef2945904:&lt;bzzt&gt;
+88406fa0-f361-411d-a990-ce143ff2743d:&lt;bzzt&gt;
+26c869fd-89db-4fdd-89de-c2d455dbd701:&lt;bzzt&gt;
+a4008805-d130-4878-a23f-abdc7747d467:&lt;bzzt&gt;
+6ec80f52-e42e-43cd-b7f4-203dde293e71:&lt;bzzt&gt;
+44f5c30e-b2a6-4208-a0b6-0e0f5ce1216b:&lt;bzzt&gt;
+dd801e0e-3280-424f-b70a-53f9e609038a:&lt;bzzt&gt;
+ef113e00-2047-4bd0-8d81-6c77130ea64c:&lt;bzzt&gt;
+d4368040-a65b-4a5f-a23b-deb036679cb1:&lt;bzzt&gt;
+7d310947-a9c3-40f9-b496-695a9a60d912:&lt;bzzt&gt;
+19477eca-2d8e-4fa8-9233-c97e55cb36a0:&lt;bzzt&gt;
+3186d306-1ddb-408f-9ffb-5435ca396cf5:&lt;bzzt&gt;
+6630a191-4bac-4cf3-b75a-7512524502d3:&lt;bzzt&gt;
+d58811dc-70d6-4a38-83ca-18be56a75a62:&lt;bzzt&gt;
+1d46ff76-c346-47c0-a91a-c3c8c10fa384:&lt;bzzt&gt;
+ccd36cf1-d6d5-4e40-8941-eb58a0017100:&lt;bzzt&gt;
+63d5d028-2954-403a-804f-48beeebaadb4:&lt;bzzt&gt;
+97af2a54-9f7d-4cf9-94f3-52c58f072768:&lt;bzzt&gt;
+1293329b-d99e-4903-815a-10ed9baf862c:&lt;bzzt&gt;
+e3a3b580-bcbc-4cc0-815a-5afec3122bf0:&lt;bzzt&gt;
+4962d057-57d3-4001-801d-7d805215ff76:&lt;bzzt&gt;
+17825dc4-811e-49f0-b9d1-289cde0f7196:&lt;bzzt&gt;
+568082f2-e311-4cc6-880a-c4b6ecf9e5a8:&lt;bzzt&gt;
+855aecf8-bf87-4648-9909-60b443e36553:&lt;bzzt&gt;
+f3e5dde1-e9cb-4d1f-a003-986bdd85bc3b:&lt;bzzt&gt;
+6cb80fb1-d1d6-4498-91ba-0b153bf0b0b1:&lt;bzzt&gt;
+b04376de-60f8-41da-be32-bfefce3d5730:&lt;bzzt&gt;
+4a2ce269-0de0-45b4-b505-0172938052c8:&lt;bzzt&gt;
+193533f2-41dd-4052-acf0-1e3e867cd3b8:&lt;bzzt&gt;
+2e5c8b49-f67f-41fd-ab9d-c5a990f90061:&lt;bzzt&gt;
+5c21ab32-d965-4090-85e7-bb03b7128178:&lt;bzzt&gt;
+1b79a54e-60fe-45a6-90d0-11343ffa9303:&lt;bzzt&gt;
+933a1f55-8085-4e39-aa2b-8f4f5a0487d4:&lt;bzzt&gt;
+e9ff40f3-be98-4bdc-a66e-1a4a09358672:&lt;bzzt&gt;
+6db0424f-5abe-449e-956e-5f5083eeb929:&lt;bzzt&gt;
+c05a19b3-564a-4945-9c7c-aa0db9c99dd0:&lt;bzzt&gt;
+59a663e5-c551-4e8e-8acb-34cd679e686f:&lt;bzzt&gt;
 dcff2b1e-29ec-49dc-96d6-3966bbd4d8a7:[img=music] We are the Moderators! [img=music]
 ff2923c5-eee3-4ae1-80ee-64ce587bda7f:[img=music] Sworn to protect the innocent, there for every incident! [img=music]
 15106e7f-524f-4b85-97ab-c150dc21c3cb:[img=music] Deep down in your hearts: We are the Moderators! [img=music]
@@ -7717,18 +7717,18 @@ ef34c556-92f4-47f5-a995-9b27859a9657:Almost at the finish line Moley! Not far to
 8d0caa2b-b718-42c1-82c9-b35d88b16bb4:Goodnight Moley.
 23a42805-1046-46fd-8c07-c8225224cb20:Good night Magical Woodland. Good night.
 5b260e90-6490-4132-b783-111f233a603f:Good night.
-9c86a189-f41d-4177-ac38-f2b84eb893ff:<
-4ef9c3db-242d-4c0c-bfa8-84c02a91cdd5:<
-9c6809a8-1802-4791-aeb7-ff08d4c5b2e1:<
-2aa7aec1-75f6-44b3-b077-356cd4eeef64:<
-2b683307-5eae-4db2-b735-4f5e0e085a52:<
-530574ea-c152-4665-b4a1-09506245e963:<
-a1c90f3a-eaa8-4c75-adaf-4a9ad02eb949:<
-146d52c8-1709-4e78-ab23-5e1a049b922c:<
-cb94afd2-1120-4758-9379-42f031426534:<
-d457244c-0301-4a69-ac09-959100d77491:<
-f86abdb1-5f20-46e0-b790-67c05b66181a:<
-1e7c30e1-0d46-4128-922a-17e42e184725:<
+9c86a189-f41d-4177-ac38-f2b84eb893ff:&lt;bzzt&gt;
+4ef9c3db-242d-4c0c-bfa8-84c02a91cdd5:&lt;bzzt&gt;
+9c6809a8-1802-4791-aeb7-ff08d4c5b2e1:&lt;bzzt&gt;
+2aa7aec1-75f6-44b3-b077-356cd4eeef64:&lt;bzzt&gt;
+2b683307-5eae-4db2-b735-4f5e0e085a52:&lt;bzzt&gt;
+530574ea-c152-4665-b4a1-09506245e963:&lt;bzzt&gt;
+a1c90f3a-eaa8-4c75-adaf-4a9ad02eb949:&lt;bzzt&gt;
+146d52c8-1709-4e78-ab23-5e1a049b922c:&lt;bzzt&gt;
+cb94afd2-1120-4758-9379-42f031426534:&lt;bzzt&gt;
+d457244c-0301-4a69-ac09-959100d77491:&lt;bzzt&gt;
+f86abdb1-5f20-46e0-b790-67c05b66181a:&lt;bzzt&gt;
+1e7c30e1-0d46-4128-922a-17e42e184725:&lt;bzzt&gt;
 1b61f0dd-14c1-42e3-a3e9-ba5d4c133dc8:It's time to visit the Magical Woodland!
 fe98903a-362b-4196-82ba-1c5550220508:Sponsored by Spiffo's�!
 0a431e32-4b2e-47fd-851d-ca82c6a1111e:Hi there Spiffo! Who's your little friend?
@@ -7785,14 +7785,14 @@ e9660456-6c1e-4881-959d-e6ab30d5de08:I never knew friends could have this much f
 ee11f7cd-7039-4fbe-b019-ec1c7190734f:Goodnight Furbert.
 2e254691-c590-4c51-b4c3-76aae9e86201:Good night Magical Woodland. Good night.
 8be42af1-4f58-4706-9002-ff6d1ea6d554:Good night.
-e873c3bc-25b4-44ef-8d0a-1598b57a8303:<
-fac20306-85e4-4e8b-ace5-27c723507042:<
-dcab265f-4cb4-4432-95b1-d6caab7fca27:<
-a4670107-4371-4513-a0e5-517a81bb6f9b:<
-8b9ba475-0f4b-439e-8eb6-0fcc32ab5605:<
-15e9fc73-b03e-4e92-a2a2-762137ff279c:<
-ebd62de7-0aa5-4b3f-812d-c440bc05d627:<
-a9a2f053-3cc2-4c53-8fb7-14c91815f8e4:<
+e873c3bc-25b4-44ef-8d0a-1598b57a8303:&lt;bzzt&gt;
+fac20306-85e4-4e8b-ace5-27c723507042:&lt;bzzt&gt;
+dcab265f-4cb4-4432-95b1-d6caab7fca27:&lt;bzzt&gt;
+a4670107-4371-4513-a0e5-517a81bb6f9b:&lt;bzzt&gt;
+8b9ba475-0f4b-439e-8eb6-0fcc32ab5605:&lt;bzzt&gt;
+15e9fc73-b03e-4e92-a2a2-762137ff279c:&lt;bzzt&gt;
+ebd62de7-0aa5-4b3f-812d-c440bc05d627:&lt;bzzt&gt;
+a9a2f053-3cc2-4c53-8fb7-14c91815f8e4:&lt;bzzt&gt;
 694630c9-38bd-4eb9-93f0-a5da200c17cf:It's time to visit the Magical Woodland!
 2c0fa044-62ac-466e-9f35-3872056ebd8b:Sponsored by Spiffo's�!
 b9e7d17c-c281-43ab-8a1b-696e64cd15b2:Hi there Spiffo! Who's your little friend?
@@ -7807,12 +7807,12 @@ acf84856-d2f9-46f0-9359-7bc57b286388:Testing your cleverness and remembering rul
 705c2255-8417-4045-aad8-4ccd99f0f88f:Goodnight Pancake.
 a75671c4-7e5f-4596-ad30-6863d85e5234:Good night Magical Woodland. Good night.
 f9898570-e384-460d-9522-3eb92cc6f948:Good night.
-2be34e0a-f024-431b-94de-5a82d6cf9835:<
-9f3dde5e-92ed-4d76-9aaa-2bb121c59a35:<
-8a697960-c501-45fe-8ecc-b49ca53fd70b:<
-41721531-cb40-41f6-a1b9-5f83f8649217:<
-13a91a57-0f30-4dc0-8f39-bd046f7a1874:<
-915822c6-e530-4c4c-b057-f1b5af7e16a2:<
+2be34e0a-f024-431b-94de-5a82d6cf9835:&lt;bzzt&gt;
+9f3dde5e-92ed-4d76-9aaa-2bb121c59a35:&lt;bzzt&gt;
+8a697960-c501-45fe-8ecc-b49ca53fd70b:&lt;bzzt&gt;
+41721531-cb40-41f6-a1b9-5f83f8649217:&lt;bzzt&gt;
+13a91a57-0f30-4dc0-8f39-bd046f7a1874:&lt;bzzt&gt;
+915822c6-e530-4c4c-b057-f1b5af7e16a2:&lt;bzzt&gt;
 ae2cdddf-c355-4ff4-bb8b-ca6257faa730:It's time to visit the Magical Woodland!
 841fc6e1-1972-4066-9dee-4056c6aca228:Sponsored by Spiffo's�!
 df0a8baf-13ba-4b5f-b851-20fdd866dde9:Hi there Spiffo! Who's your little friend?
@@ -7827,10 +7827,10 @@ a5131414-5b01-43b4-a389-3aca331ade01:I never knew friends could have this much f
 11c8a620-894b-4ebb-a40d-f322fc6f26a3:Goodnight Fluffyfoot.
 a6f38f59-43fa-476d-8191-0eb22677f3f1:Good night Magical Woodland. Good night.
 9a9c5686-cee4-4a1b-aa8b-d6f597afbc27:Good night.
-0cc5f21e-002f-4ea6-bedc-e99d5d432233:<
-e946f089-6ed1-439c-b7c7-aab2d48c73bb:<
-f87105d1-991f-4486-babf-f56f61209e75:<
-db858f79-ed0c-487d-9061-b87061ddb249:<
+0cc5f21e-002f-4ea6-bedc-e99d5d432233:&lt;bzzt&gt;
+e946f089-6ed1-439c-b7c7-aab2d48c73bb:&lt;bzzt&gt;
+f87105d1-991f-4486-babf-f56f61209e75:&lt;bzzt&gt;
+db858f79-ed0c-487d-9061-b87061ddb249:&lt;bzzt&gt;
 dd579b44-7819-4abb-96f0-333994940a5e:As of today I'm breaking with the schedule.
 3ec9a450-f0da-4c27-9053-ce202dee9cd9:You'll notice you haven't heard Tim the past few days. 
 936437d7-73ae-4051-b419-4eb7f0e76e7f:No recipes. No weather. No Tim.
@@ -7849,14 +7849,14 @@ aeb6cc38-1589-4c3b-8962-b5f66a0409d9:Thanks guys. How about you actually do some
 74702d9e-e206-4d1d-a847-00d5a5d58add:You can't just turn out the lights over that many counties.
 ac7f9d7b-3ea1-42da-9353-459494466f01:It's 1993, not the dark ages.
 aa3bb915-7950-4f40-a1a3-b51a0406f5d9:You can't keep a lid on this stuff.
-9995b0ab-9298-45c4-bb1e-cdc2f26fd7e5:<
-9008b8c8-1adb-4041-8b80-0326ef83bb0b:<
-b71351c7-8ceb-4e98-9928-32e5a0fc9d63:<
-da741e5f-6342-4273-885d-4cd85fb1f39d:<
-b1e525f7-a33a-420a-b5ac-0763dd8944d9:<
-07915743-6536-483e-88f1-bc6c32d9383e:<
-a25c548c-d1da-449b-8f2b-06523b9a3432:<
-ba3588b1-9138-4eb9-876d-94fd4c04b14b:<
+9995b0ab-9298-45c4-bb1e-cdc2f26fd7e5:&lt;bzzt&gt;
+9008b8c8-1adb-4041-8b80-0326ef83bb0b:&lt;bzzt&gt;
+b71351c7-8ceb-4e98-9928-32e5a0fc9d63:&lt;bzzt&gt;
+da741e5f-6342-4273-885d-4cd85fb1f39d:&lt;bzzt&gt;
+b1e525f7-a33a-420a-b5ac-0763dd8944d9:&lt;bzzt&gt;
+07915743-6536-483e-88f1-bc6c32d9383e:&lt;bzzt&gt;
+a25c548c-d1da-449b-8f2b-06523b9a3432:&lt;bzzt&gt;
+ba3588b1-9138-4eb9-876d-94fd4c04b14b:&lt;bzzt&gt;
 f49d0666-165c-4f7b-80e8-ab08c7eac0fc:Good day folks. I just got back from a drive.
 e27bbbb1-7795-4a9f-87a9-7637214dd5c6:I thought I'd try to check out the camp over on the Event border.
 b6d1894b-ef90-400a-baf8-dc609e4d0a70:Didn't get very far.
@@ -7875,14 +7875,14 @@ f63e897a-44ae-41e1-ae81-c5ff5f8ab098:I'm sorry to use the word but it's all... b
 42eb12ae-1fc5-444e-acea-1fe74eb452f3:We KNOW those people are.. 
 8b6b23eb-9c28-4faf-9603-120f33d6b150:...changed somehow.
 aca8e4df-f458-4cff-a987-6fa9541f31d2:That's what I heard.
-8c4014af-4864-4b92-b181-d0ff527a910b:<
-c000e615-730d-4b80-9145-02fd4f3420c0:<
-6eb3e020-2e73-4828-bb3d-66bdc00d92fc:<
-fdd4be2d-2f3d-4fe3-8823-299e4f0d9554:<
-fc0a7f5a-2797-4732-a63b-43657478e5f5:<
-167efc1a-02bd-4662-b1de-2cef217a3e81:<
-377617b6-2fe0-4d6a-99e8-54e7069b6160:<
-85678da0-41d9-448b-b20e-8076ae39f165:<
+8c4014af-4864-4b92-b181-d0ff527a910b:&lt;bzzt&gt;
+c000e615-730d-4b80-9145-02fd4f3420c0:&lt;bzzt&gt;
+6eb3e020-2e73-4828-bb3d-66bdc00d92fc:&lt;bzzt&gt;
+fdd4be2d-2f3d-4fe3-8823-299e4f0d9554:&lt;bzzt&gt;
+fc0a7f5a-2797-4732-a63b-43657478e5f5:&lt;bzzt&gt;
+167efc1a-02bd-4662-b1de-2cef217a3e81:&lt;bzzt&gt;
+377617b6-2fe0-4d6a-99e8-54e7069b6160:&lt;bzzt&gt;
+85678da0-41d9-448b-b20e-8076ae39f165:&lt;bzzt&gt;
 d48a0d7a-598d-4175-ba23-22bbbf2393c4:Sorry for disappearing this morning guys.
 d027f502-97bc-4798-93a0-8918fecbe87a:We had a major convoy headed through towards the Exclusion border.
 95f4c4f9-017e-4cbf-b1de-1beac2a41572:The things I'm saying - not many folks are saying them out loud.
@@ -7894,14 +7894,14 @@ c9756761-deca-47f4-ba2b-5ee61e9b53c0:I can't tell you where I am, but I think I'
 17dbdf7c-6f9b-463e-b648-36790928ac0a:I'm going to stay, and I'm going to keep on talking to you.
 6fe532f4-ee43-4c84-bff8-150906e4c1f4:I'm taking my equipment.
 3a1c813c-e786-49b5-873d-26a34674bb74:I'm gonna hide someplace wild when they come.
-2b06fac5-0835-4176-a649-54b24b04d2e9:<
-442367f6-9fb1-4f52-a901-a92e140d8a0c:<
-68ec9fc0-d133-417e-84e2-ef67f8033435:<
-7284ed3e-f339-4648-8f5b-76b0046d08ea:<
-64254df6-bea7-468a-8849-f9b5fd38aa1f:<
-7e13992b-4985-4c3b-9716-5f628423b96e:<
-f96064d3-160d-4590-9156-bdd9d7096fd5:<
-b7987efe-560a-476f-b406-a63efdb5600a:<
+2b06fac5-0835-4176-a649-54b24b04d2e9:&lt;bzzt&gt;
+442367f6-9fb1-4f52-a901-a92e140d8a0c:&lt;bzzt&gt;
+68ec9fc0-d133-417e-84e2-ef67f8033435:&lt;bzzt&gt;
+7284ed3e-f339-4648-8f5b-76b0046d08ea:&lt;bzzt&gt;
+64254df6-bea7-468a-8849-f9b5fd38aa1f:&lt;bzzt&gt;
+7e13992b-4985-4c3b-9716-5f628423b96e:&lt;bzzt&gt;
+f96064d3-160d-4590-9156-bdd9d7096fd5:&lt;bzzt&gt;
+b7987efe-560a-476f-b406-a63efdb5600a:&lt;bzzt&gt;
 01cfd0e3-494e-4d68-8dca-fa85844cb8b3:I've seen a picture, maybe you have too.
 63954b97-7bb4-4669-b7d4-a44448c30d12:It's from West Point, taken a few days ago I guess.
 8b3e61ce-348f-4c7c-b162-1edf403ae5a6:The film got out. Got processed.
@@ -7924,14 +7924,14 @@ b5776491-1647-4dd4-84a0-03af2adf15b7:If this was New York, or Chicago or... anyw
 cfefccd8-f216-4e4a-be63-a072874c1076:We just live a hard life as best we can.
 e90ef88e-eab1-46bf-9df8-9690096a342c:Only, that's not enough.
 ad144bda-1fa3-472f-bb61-dbb3dcc11e4c:So we're on our own.
-1984ed13-1de4-40b6-b579-a1f75905b9db:<
-05c0b640-aacc-433c-9c17-80a562eb59c0:<
-1366f71c-27e4-4b79-8418-96f432662995:<
-f77bc209-6994-47c8-95a7-6b7e89ac25d7:<
-762f2648-267e-4758-b502-c9ae537ab7e0:<
-1027e034-fe0e-4031-8fa9-3e529f17d834:<
-4ced12a2-5a51-4192-9380-96ede8ee4cfe:<
-f77c54a1-3837-4811-bf10-4abcb8872561:<
+1984ed13-1de4-40b6-b579-a1f75905b9db:&lt;bzzt&gt;
+05c0b640-aacc-433c-9c17-80a562eb59c0:&lt;bzzt&gt;
+1366f71c-27e4-4b79-8418-96f432662995:&lt;bzzt&gt;
+f77bc209-6994-47c8-95a7-6b7e89ac25d7:&lt;bzzt&gt;
+762f2648-267e-4758-b502-c9ae537ab7e0:&lt;bzzt&gt;
+1027e034-fe0e-4031-8fa9-3e529f17d834:&lt;bzzt&gt;
+4ced12a2-5a51-4192-9380-96ede8ee4cfe:&lt;bzzt&gt;
+f77c54a1-3837-4811-bf10-4abcb8872561:&lt;bzzt&gt;
 81de6a2b-5d8f-420a-ad09-ce043195678c:Okay people I need you to listen up. 
 3239bf3b-c099-4d7f-926d-505c43751a15:Right now!
 32abd42b-4d25-4775-bc38-3dbfd3e67414:They're shooting anyone that goes to leave.
@@ -7942,34 +7942,34 @@ e2dcf73a-7433-4d2c-9ab7-04cde91934a4:I'm in a camp just south of the river.
 0c605c72-8246-423d-b41d-fec479b32606:We don't know where to go.
 403ef743-6a65-487e-b428-723b264b41fc:Why the hell didn't I just run?
 faa652ff-959e-4808-ada6-3deeccaac039:Jesus...
-483cdcf9-7a0c-4ba6-aa42-ad8324d7e787:<
-5819ef70-2872-463d-be1f-1ec394bb0578:<
-2aa74e7b-a9e7-4399-9f8d-b9b6ac84a83e:<
-61fca164-802e-4c1d-9ba6-19673b0f6d4c:<
-81ad7443-6f22-4e6e-b6ad-472e525b7adb:<
-08539190-f242-4b71-872a-74ee259ca89b:<
-d0d0c035-722f-43fe-a7c0-64d52437be83:<
-8eb626d4-8a3b-4cf6-a299-e8fdd9858fcb:<
-4af08e9e-8b63-4f0f-b94c-9540c06f693b:<
-7873155a-32c6-405a-8943-86235f75550a:<
-b4201587-9778-4316-b47f-4afe60b756c4:<
-75c01a55-02ae-4aa7-9c65-e1bdeb9e9101:<
-c4bda50e-b55a-423f-83af-9571655a6b6e:<
-05308b2d-e6e7-4565-97b8-a5c83560b104:<
-565c3f73-23ad-42ea-b869-d8ed44e3dffa:<
-090f9684-0b2c-4484-b455-c9444f153567:<
-a9d66558-2420-4968-8a98-0eeb44fdb9cb:<
-9ef051bb-9677-4e91-8992-15eabcd7f851:<
-96b6311a-e9e3-425f-be5a-2bf8cccc8c12:<
-fa1acd49-7cc1-49b0-a448-e97b79e5805b:<
-7701872c-4151-47ba-afec-eeab059399e5:<
-50d6ea21-a9e9-488a-a508-622fb755c9a6:<
-71b03397-b0dd-4889-8a42-f421436a6969:<
-3639d151-165a-4589-be2b-720a99b72797:<
-b90e76b4-928f-4a00-81f3-8e1d2ac5c84a:<
-5166bcf7-de75-425a-8176-a190c91c9a04:<
-0442319b-4034-4998-8976-8e797f981d63:<
-c78378ef-e25c-4403-a5ba-1b6d7f382e0f:<
+483cdcf9-7a0c-4ba6-aa42-ad8324d7e787:&lt;bzzt&gt;
+5819ef70-2872-463d-be1f-1ec394bb0578:&lt;bzzt&gt;
+2aa74e7b-a9e7-4399-9f8d-b9b6ac84a83e:&lt;bzzt&gt;
+61fca164-802e-4c1d-9ba6-19673b0f6d4c:&lt;bzzt&gt;
+81ad7443-6f22-4e6e-b6ad-472e525b7adb:&lt;bzzt&gt;
+08539190-f242-4b71-872a-74ee259ca89b:&lt;bzzt&gt;
+d0d0c035-722f-43fe-a7c0-64d52437be83:&lt;bzzt&gt;
+8eb626d4-8a3b-4cf6-a299-e8fdd9858fcb:&lt;bzzt&gt;
+4af08e9e-8b63-4f0f-b94c-9540c06f693b:&lt;bzzt&gt;
+7873155a-32c6-405a-8943-86235f75550a:&lt;bzzt&gt;
+b4201587-9778-4316-b47f-4afe60b756c4:&lt;bzzt&gt;
+75c01a55-02ae-4aa7-9c65-e1bdeb9e9101:&lt;bzzt&gt;
+c4bda50e-b55a-423f-83af-9571655a6b6e:&lt;bzzt&gt;
+05308b2d-e6e7-4565-97b8-a5c83560b104:&lt;bzzt&gt;
+565c3f73-23ad-42ea-b869-d8ed44e3dffa:&lt;bzzt&gt;
+090f9684-0b2c-4484-b455-c9444f153567:&lt;bzzt&gt;
+a9d66558-2420-4968-8a98-0eeb44fdb9cb:&lt;bzzt&gt;
+9ef051bb-9677-4e91-8992-15eabcd7f851:&lt;bzzt&gt;
+96b6311a-e9e3-425f-be5a-2bf8cccc8c12:&lt;bzzt&gt;
+fa1acd49-7cc1-49b0-a448-e97b79e5805b:&lt;bzzt&gt;
+7701872c-4151-47ba-afec-eeab059399e5:&lt;bzzt&gt;
+50d6ea21-a9e9-488a-a508-622fb755c9a6:&lt;bzzt&gt;
+71b03397-b0dd-4889-8a42-f421436a6969:&lt;bzzt&gt;
+3639d151-165a-4589-be2b-720a99b72797:&lt;bzzt&gt;
+b90e76b4-928f-4a00-81f3-8e1d2ac5c84a:&lt;bzzt&gt;
+5166bcf7-de75-425a-8176-a190c91c9a04:&lt;bzzt&gt;
+0442319b-4034-4998-8976-8e797f981d63:&lt;bzzt&gt;
+c78378ef-e25c-4403-a5ba-1b6d7f382e0f:&lt;bzzt&gt;
 d9b69c95-6760-4e8b-8f03-797ae1080074:We can't go out, so we're going to head in.
 33e5e56e-7dc6-4eb5-bad1-4fc744daf304:We're hoping Muldraugh or West Point will have supplies.
 3eb6de5a-a4f0-476d-8478-89f742395dc1:Maybe some other people caught up in all this shit.
@@ -7977,22 +7977,22 @@ d9b69c95-6760-4e8b-8f03-797ae1080074:We can't go out, so we're going to head in.
 26e22d16-680a-4156-8f61-e6a88afd3f1a:So, unless we find someplace...
 70b32c3a-018a-472c-831e-9e3a523040cf:... I don't know.
 ffa75bcb-9696-4ef1-a2fc-01b89c634355:I'll see you later on down the trail...
-15be16b5-9f20-441c-ac0c-71e197bba3d5:<
-b2a79eeb-d59f-4d0d-ab25-b58ba54d528f:<
-16816b4d-0b34-44a9-831a-57696641af64:<
-f0caa058-6410-48d6-85ba-6ff0c08786b9:<
-d1a52c89-0b4c-4918-9957-ae32974c4734:<
-8145e400-7b66-4520-8202-903ca226b806:<
-1efc788f-71e1-4ac1-ba37-373f75a52887:<
-f42827df-60b6-47ea-b8ac-8b50038c92cf:<
-fa2e1f12-58e1-47eb-bdef-668ffbe3e36a:<
-bfd0995f-4a93-4f7f-9012-5c1bae8d4b2b:<
-1287b5e5-f6a3-43b0-8cca-429e81a27987:<
-def3e4eb-9017-4033-8370-ecdad961b50e:<
-c4a89cf5-c557-4f30-9afd-5a75244ef1be:<
-0c9a88ca-5969-474e-961c-16506bccdfce:<
-32698ac7-23f6-4691-aad6-98a28cabc934:<
-45418857-eae3-4ac7-88f4-bff242093884:<
+15be16b5-9f20-441c-ac0c-71e197bba3d5:&lt;bzzt&gt;
+b2a79eeb-d59f-4d0d-ab25-b58ba54d528f:&lt;bzzt&gt;
+16816b4d-0b34-44a9-831a-57696641af64:&lt;bzzt&gt;
+f0caa058-6410-48d6-85ba-6ff0c08786b9:&lt;bzzt&gt;
+d1a52c89-0b4c-4918-9957-ae32974c4734:&lt;bzzt&gt;
+8145e400-7b66-4520-8202-903ca226b806:&lt;bzzt&gt;
+1efc788f-71e1-4ac1-ba37-373f75a52887:&lt;bzzt&gt;
+f42827df-60b6-47ea-b8ac-8b50038c92cf:&lt;bzzt&gt;
+fa2e1f12-58e1-47eb-bdef-668ffbe3e36a:&lt;bzzt&gt;
+bfd0995f-4a93-4f7f-9012-5c1bae8d4b2b:&lt;bzzt&gt;
+1287b5e5-f6a3-43b0-8cca-429e81a27987:&lt;bzzt&gt;
+def3e4eb-9017-4033-8370-ecdad961b50e:&lt;bzzt&gt;
+c4a89cf5-c557-4f30-9afd-5a75244ef1be:&lt;bzzt&gt;
+0c9a88ca-5969-474e-961c-16506bccdfce:&lt;bzzt&gt;
+32698ac7-23f6-4691-aad6-98a28cabc934:&lt;bzzt&gt;
+45418857-eae3-4ac7-88f4-bff242093884:&lt;bzzt&gt;
 81720893-b270-45c2-91cc-27dd5b343abb:It's spread. 
 7a015651-4599-4e2e-9498-bfb0ac0065eb:Someone I met, she told me it's spread.
 4879c7ec-1057-46a1-964c-891691565186:She said she'd been listening to me, and had I heard.
@@ -8001,72 +8001,72 @@ c4a89cf5-c557-4f30-9afd-5a75244ef1be:<
 5d969f9f-e8d8-4162-a6c8-c222c7482efa:There's no flights, there's no way...
 d06e47fb-b996-490c-a90a-aca28aef8150:This could be it... couldn't it?
 f29dacb4-9350-4dba-a80b-7298e9fcc5a4:Fuck.
-b7ab9fb1-47aa-4aa1-9048-2f74a35d3d57:<
-1ef05cd4-c5b2-45e0-bc09-8169da32fa98:<
-ad9f6e56-8cc3-49e4-96f1-eb2e7b3e1b3f:<
-c5e29425-8f2c-46f0-99e9-dd0500ac67b0:<
-be6bcb2c-d4f0-4f1e-ac2f-5e35f519baf7:<
-6b528fd8-cea8-4c7f-b78c-38b9a2162e04:<
-63c4958b-b7c2-4be4-9009-7611b637e319:<
-f030d3c7-ba95-460c-a515-fa0546b31be1:<
+b7ab9fb1-47aa-4aa1-9048-2f74a35d3d57:&lt;bzzt&gt;
+1ef05cd4-c5b2-45e0-bc09-8169da32fa98:&lt;bzzt&gt;
+ad9f6e56-8cc3-49e4-96f1-eb2e7b3e1b3f:&lt;bzzt&gt;
+c5e29425-8f2c-46f0-99e9-dd0500ac67b0:&lt;bzzt&gt;
+be6bcb2c-d4f0-4f1e-ac2f-5e35f519baf7:&lt;bzzt&gt;
+6b528fd8-cea8-4c7f-b78c-38b9a2162e04:&lt;bzzt&gt;
+63c4958b-b7c2-4be4-9009-7611b637e319:&lt;bzzt&gt;
+f030d3c7-ba95-460c-a515-fa0546b31be1:&lt;bzzt&gt;
 f1be994f-97be-41be-b60e-bd2b19d57884:They walked into camp during the night.
 fcbec3d2-1dc9-4bf4-9edc-878b37617eb6:I don't know if this pack still has any charge but...
 87c1bc58-5fb5-421f-ac51-f71cde5be285:If you can hear this... we're... 
 469d90a3-d41f-4b1c-91a0-ac03f814c913:Shit, I don't even know where we are.
-b11b33cf-9fbd-44b2-a392-a21955fe050c:<
-6733370b-c186-4de9-aed1-c06ed2fb1e31:<
-01ba1977-7a7d-47ad-ab4a-1ca97168f5de:<
-3a219b4f-9833-4898-8639-17f687c2ca16:<
-7538ff5c-b41a-4e0c-9ff5-e0a6b0375f13:<
-fa65c737-c0ea-4d47-9a92-7efdf2ae8bc0:<
-7a5f9000-72db-4b1f-a0c4-26f00ee3fad6:<
-e1ecefda-351f-4001-bb08-d0ad67036238:<
-36d5d537-2b1e-49e2-aa24-6468d40eb191:<
-a34df6d0-3cb3-4b22-82c0-ab066dacffcd:<
-1cb6056a-bfcc-4028-98e0-cc14c1b26065:<
-62ccb3ad-838b-4efb-b699-22bdca8f554e:<
-add4d874-bce9-44b0-9f02-45afe61df278:<
-5a13b5e8-c13e-403f-acf2-de40d56ce513:<
-e0d92fa9-0742-41fc-b0fd-bac4e8d5084f:<
-57d34532-bfd7-480d-8d6d-75dcf9cfff35:<
-adad80a5-b9d6-4dc0-8853-d8219e7ddb2a:<
-5fc6abf5-d505-4c34-852c-acb1b21fa6ea:<
-df12b637-17a0-4b01-ad10-2c3d23857206:<
-6c1ee9fe-c577-41bd-a92e-6e48541b9599:<
-f2f3bea1-ee90-4336-bd1c-be2ba6d1a16c:<
-1345cb89-2fd5-4b68-a673-0c499f3ef229:<
-65d609bb-87f1-4771-8735-9fc8a83197f7:<
-10e113d2-2f23-4c7d-9590-0757598a4fd9:<
-e18e0eee-c2dd-4127-ae54-c1e0c3df322c:<
-ddc475f1-ac33-44c9-82cc-9cad5872b0be:<
-f3c88704-054e-4e65-9cea-dbb3f5348974:<
-4346b25b-d129-4554-a05d-354d26cdd13b:<
-3f50113b-2829-4182-956b-cb1d9cd72b7b:<
-6f04df06-5c27-4a0f-b43e-4e4948bf74c0:<
-7f2d217b-2c2a-44e8-a79c-833dab12c438:<
-533e19b2-0820-453b-a04d-b841fc54bad1:<
-230bf7a5-7bb7-461a-a6f0-d3d84913f0eb:<
-953b917a-d5ac-495f-9e89-221eb43a0031:<
-21178b13-2b7a-428a-8b99-3659825be01c:<
-8fcf3481-dec4-401d-9ae2-7492ed6ac95b:<
-bf882cba-e2f0-49ff-aa0e-25fb84204c7c:<
-a2af4c11-af2d-4669-b4d3-f853e70aab2b:<
-c671014f-6f94-4a79-b3af-e11276ad066d:<
-4876701e-54b6-4a69-acff-d20d65e8df50:<
-9c27ffc6-00d6-42fd-ba28-a0896c775bd0:<
-84f62955-0cae-4f63-9ae3-48969018eb9c:<
-647177fa-fc5c-4f65-bddb-96bbd8ecafbc:<
-4298e911-ea52-4b90-91f6-8a5f27cdab04:<
-4d43dd09-b149-4757-8985-b9e1a372b55c:<
-3e4a6b98-65d8-4645-9c43-107442bb4e12:<
-18206af1-98b0-4847-bade-bd318d99d1cd:<
-f0805e2e-282b-4a63-a923-f252db4c718d:<
-0d9f4638-b979-4d0d-a4ee-12b5656f00d3:<
-6c4b4a37-4274-4bd0-a649-3b50d88818d3:<
-38904013-d42c-4fd8-9f40-f5fa7d277989:<
-03ff641c-edbe-49e9-8f6c-a1a2687f2949:<
-e2938f2f-ec13-4dfc-9efe-f8e519017dcd:<
-66d7527c-6b31-4e8a-b6c5-2cd2e90ff440:<
+b11b33cf-9fbd-44b2-a392-a21955fe050c:&lt;bzzt&gt;
+6733370b-c186-4de9-aed1-c06ed2fb1e31:&lt;bzzt&gt;
+01ba1977-7a7d-47ad-ab4a-1ca97168f5de:&lt;bzzt&gt;
+3a219b4f-9833-4898-8639-17f687c2ca16:&lt;bzzt&gt;
+7538ff5c-b41a-4e0c-9ff5-e0a6b0375f13:&lt;bzzt&gt;
+fa65c737-c0ea-4d47-9a92-7efdf2ae8bc0:&lt;bzzt&gt;
+7a5f9000-72db-4b1f-a0c4-26f00ee3fad6:&lt;bzzt&gt;
+e1ecefda-351f-4001-bb08-d0ad67036238:&lt;bzzt&gt;
+36d5d537-2b1e-49e2-aa24-6468d40eb191:&lt;bzzt&gt;
+a34df6d0-3cb3-4b22-82c0-ab066dacffcd:&lt;bzzt&gt;
+1cb6056a-bfcc-4028-98e0-cc14c1b26065:&lt;bzzt&gt;
+62ccb3ad-838b-4efb-b699-22bdca8f554e:&lt;bzzt&gt;
+add4d874-bce9-44b0-9f02-45afe61df278:&lt;bzzt&gt;
+5a13b5e8-c13e-403f-acf2-de40d56ce513:&lt;bzzt&gt;
+e0d92fa9-0742-41fc-b0fd-bac4e8d5084f:&lt;bzzt&gt;
+57d34532-bfd7-480d-8d6d-75dcf9cfff35:&lt;bzzt&gt;
+adad80a5-b9d6-4dc0-8853-d8219e7ddb2a:&lt;bzzt&gt;
+5fc6abf5-d505-4c34-852c-acb1b21fa6ea:&lt;bzzt&gt;
+df12b637-17a0-4b01-ad10-2c3d23857206:&lt;bzzt&gt;
+6c1ee9fe-c577-41bd-a92e-6e48541b9599:&lt;bzzt&gt;
+f2f3bea1-ee90-4336-bd1c-be2ba6d1a16c:&lt;bzzt&gt;
+1345cb89-2fd5-4b68-a673-0c499f3ef229:&lt;bzzt&gt;
+65d609bb-87f1-4771-8735-9fc8a83197f7:&lt;bzzt&gt;
+10e113d2-2f23-4c7d-9590-0757598a4fd9:&lt;bzzt&gt;
+e18e0eee-c2dd-4127-ae54-c1e0c3df322c:&lt;bzzt&gt;
+ddc475f1-ac33-44c9-82cc-9cad5872b0be:&lt;bzzt&gt;
+f3c88704-054e-4e65-9cea-dbb3f5348974:&lt;bzzt&gt;
+4346b25b-d129-4554-a05d-354d26cdd13b:&lt;bzzt&gt;
+3f50113b-2829-4182-956b-cb1d9cd72b7b:&lt;bzzt&gt;
+6f04df06-5c27-4a0f-b43e-4e4948bf74c0:&lt;bzzt&gt;
+7f2d217b-2c2a-44e8-a79c-833dab12c438:&lt;bzzt&gt;
+533e19b2-0820-453b-a04d-b841fc54bad1:&lt;bzzt&gt;
+230bf7a5-7bb7-461a-a6f0-d3d84913f0eb:&lt;bzzt&gt;
+953b917a-d5ac-495f-9e89-221eb43a0031:&lt;bzzt&gt;
+21178b13-2b7a-428a-8b99-3659825be01c:&lt;bzzt&gt;
+8fcf3481-dec4-401d-9ae2-7492ed6ac95b:&lt;bzzt&gt;
+bf882cba-e2f0-49ff-aa0e-25fb84204c7c:&lt;bzzt&gt;
+a2af4c11-af2d-4669-b4d3-f853e70aab2b:&lt;bzzt&gt;
+c671014f-6f94-4a79-b3af-e11276ad066d:&lt;bzzt&gt;
+4876701e-54b6-4a69-acff-d20d65e8df50:&lt;bzzt&gt;
+9c27ffc6-00d6-42fd-ba28-a0896c775bd0:&lt;bzzt&gt;
+84f62955-0cae-4f63-9ae3-48969018eb9c:&lt;bzzt&gt;
+647177fa-fc5c-4f65-bddb-96bbd8ecafbc:&lt;bzzt&gt;
+4298e911-ea52-4b90-91f6-8a5f27cdab04:&lt;bzzt&gt;
+4d43dd09-b149-4757-8985-b9e1a372b55c:&lt;bzzt&gt;
+3e4a6b98-65d8-4645-9c43-107442bb4e12:&lt;bzzt&gt;
+18206af1-98b0-4847-bade-bd318d99d1cd:&lt;bzzt&gt;
+f0805e2e-282b-4a63-a923-f252db4c718d:&lt;bzzt&gt;
+0d9f4638-b979-4d0d-a4ee-12b5656f00d3:&lt;bzzt&gt;
+6c4b4a37-4274-4bd0-a649-3b50d88818d3:&lt;bzzt&gt;
+38904013-d42c-4fd8-9f40-f5fa7d277989:&lt;bzzt&gt;
+03ff641c-edbe-49e9-8f6c-a1a2687f2949:&lt;bzzt&gt;
+e2938f2f-ec13-4dfc-9efe-f8e519017dcd:&lt;bzzt&gt;
+66d7527c-6b31-4e8a-b6c5-2cd2e90ff440:&lt;bzzt&gt;
 710fdcba-f246-410b-912a-321bab3cf755:This is Hal broadcasting out of Nashville.
 ae7302bb-f246-41cf-b8c8-ffcde75b5bfd:We're in the Nashville Air Guard Base.
 92788325-b86e-4bc6-b0f2-f738576b13e3:Right by the airport.
@@ -8167,58 +8167,58 @@ dca45a47-a8f4-4a4a-990d-f4b00976e8d0:We've rebuilt their defences.
 f9c98180-62b2-4446-b5b1-4d97512915df:We need you: we've got the supplies, we just need the people.
 81e34f37-2a6f-44c9-97c5-1e97d0fc3be8:You don't have to be hungry any more.
 eeb4424a-6447-4643-9fa4-01c48aed84f2:Friendlies only. 
-e4ca33fa-56ee-42cb-b018-7d0effc3903b:<
-88d6b9d3-a41d-4d22-aa14-0a3b9f170278:<
-cec7e06a-f9e6-42be-b1fa-69d995393479:<
-42318f58-b43b-4c17-8595-e7d412568033:<
-a689becc-f714-4dd1-8c0a-0b9b04fb38ba:<
-ca917efd-a833-4818-bf2a-dc3483fc164a:<
-a0be0742-4fbf-4e76-b803-8df336e6322d:<
-0691175b-b155-4d81-98cc-cefdd096a182:<
-7881ac19-a929-4a41-90cd-1891a9660227:<
-7323d9c1-27cf-438a-adda-070eb9b4fa0f:<
-8e3f4764-f5a6-4ed5-b89c-52c6c55184c2:<
-86afee67-ee9f-4233-bbe9-d5cf4262607c:<
-4cc2bad1-e058-4a2e-be89-b3085cf56363:<
-9ef901e4-9593-4048-995a-f3f16ef52525:<
-4b77b278-b642-4a98-8400-fbc3bb08de76:<
-6555ba94-12bc-44ce-a172-39d56fed5148:<
-80e35e94-8cde-4055-a755-8c8b21ef41b1:<
-5b42c16f-45c6-46aa-a691-4e3995b751e8:<
-526ce22b-820e-41bc-a829-bc696fa34924:<
-cdf5a7be-ae2d-4361-8624-a4c7b06c1789:<
-c64c9e4f-36b7-4044-99ce-9ae001315250:<
-f7c4e4b7-616d-4a38-8160-51402d275665:<
-79c6a1b9-d47a-45cf-b264-5bf22d98c855:<
-8a36cb1e-8b74-4597-9a3b-010d0d4a58af:<
-f76489bf-0a29-400b-bca1-d38a07f8005b:<
-1d752476-651e-4f99-a170-17ac41fec0ae:<
-deb37a21-96e5-469c-9119-35ca72bbe23f:<
-42ca9685-79cf-4036-96ee-dd9e76c6adb2:<
-b53e923d-7a55-4c70-b006-0a4fdd2a7b3d:<
-1e98dea2-89e3-4b20-982e-e328c7ec7ec4:<
-b5df78fc-6f6a-46e4-b22d-beacfa4f0b21:<
-7c81fcb4-df16-4dfb-8985-26a8fdf9577e:<
-62736d12-9ae3-4bf2-a278-e8473dd5ff8e:<
-907c717a-5f9f-4d11-89f5-a58dd92186a0:<
-51715c44-05c1-4b1d-a4cb-2cb560d64761:<
-4c600186-82a0-4a36-9574-0458bbc481a7:<
-8d093153-4186-45ee-aa9c-28868fbf4f19:<
-d9c0192d-7d95-4d4b-96b8-e1e0e2f5ae27:<
-8750aa0c-1553-408e-b27c-af9d4da23285:<
-9855abe7-e3dd-4dc1-b6e2-59d0a201033a:<
-747079d1-658f-4714-b2f7-4d2df13abb03:<
-016d303f-9ed2-4b5e-a403-8f5aa854873f:<
-962771ca-9752-42f0-89fe-d377078fc462:<
-b80a5ee6-2db5-43a1-a809-08eec5af11ff:<
-bb22be3d-d926-4c88-94ab-63b12030a509:<
-ae8a1b4a-0f10-4790-8818-f0b886e9d56d:<
-b961cf0a-085e-49da-a73c-5862170737b8:<
-d4a96ce5-9fc5-4751-874b-32ac5fa59174:<
-4437ce53-abce-4684-b15b-ab7468188b54:<
-888e5007-b06a-4bbf-a141-b65b7957182c:<
-de80acfa-e1ff-40e2-a176-e6e81531933e:<
-c3c6cb14-f1d1-411b-bbf6-54ccc253a6b5:<
+e4ca33fa-56ee-42cb-b018-7d0effc3903b:&lt;bzzt&gt;
+88d6b9d3-a41d-4d22-aa14-0a3b9f170278:&lt;bzzt&gt;
+cec7e06a-f9e6-42be-b1fa-69d995393479:&lt;bzzt&gt;
+42318f58-b43b-4c17-8595-e7d412568033:&lt;bzzt&gt;
+a689becc-f714-4dd1-8c0a-0b9b04fb38ba:&lt;bzzt&gt;
+ca917efd-a833-4818-bf2a-dc3483fc164a:&lt;bzzt&gt;
+a0be0742-4fbf-4e76-b803-8df336e6322d:&lt;bzzt&gt;
+0691175b-b155-4d81-98cc-cefdd096a182:&lt;bzzt&gt;
+7881ac19-a929-4a41-90cd-1891a9660227:&lt;bzzt&gt;
+7323d9c1-27cf-438a-adda-070eb9b4fa0f:&lt;bzzt&gt;
+8e3f4764-f5a6-4ed5-b89c-52c6c55184c2:&lt;bzzt&gt;
+86afee67-ee9f-4233-bbe9-d5cf4262607c:&lt;bzzt&gt;
+4cc2bad1-e058-4a2e-be89-b3085cf56363:&lt;bzzt&gt;
+9ef901e4-9593-4048-995a-f3f16ef52525:&lt;bzzt&gt;
+4b77b278-b642-4a98-8400-fbc3bb08de76:&lt;bzzt&gt;
+6555ba94-12bc-44ce-a172-39d56fed5148:&lt;bzzt&gt;
+80e35e94-8cde-4055-a755-8c8b21ef41b1:&lt;bzzt&gt;
+5b42c16f-45c6-46aa-a691-4e3995b751e8:&lt;bzzt&gt;
+526ce22b-820e-41bc-a829-bc696fa34924:&lt;bzzt&gt;
+cdf5a7be-ae2d-4361-8624-a4c7b06c1789:&lt;bzzt&gt;
+c64c9e4f-36b7-4044-99ce-9ae001315250:&lt;bzzt&gt;
+f7c4e4b7-616d-4a38-8160-51402d275665:&lt;bzzt&gt;
+79c6a1b9-d47a-45cf-b264-5bf22d98c855:&lt;bzzt&gt;
+8a36cb1e-8b74-4597-9a3b-010d0d4a58af:&lt;bzzt&gt;
+f76489bf-0a29-400b-bca1-d38a07f8005b:&lt;bzzt&gt;
+1d752476-651e-4f99-a170-17ac41fec0ae:&lt;bzzt&gt;
+deb37a21-96e5-469c-9119-35ca72bbe23f:&lt;bzzt&gt;
+42ca9685-79cf-4036-96ee-dd9e76c6adb2:&lt;bzzt&gt;
+b53e923d-7a55-4c70-b006-0a4fdd2a7b3d:&lt;bzzt&gt;
+1e98dea2-89e3-4b20-982e-e328c7ec7ec4:&lt;bzzt&gt;
+b5df78fc-6f6a-46e4-b22d-beacfa4f0b21:&lt;bzzt&gt;
+7c81fcb4-df16-4dfb-8985-26a8fdf9577e:&lt;bzzt&gt;
+62736d12-9ae3-4bf2-a278-e8473dd5ff8e:&lt;bzzt&gt;
+907c717a-5f9f-4d11-89f5-a58dd92186a0:&lt;bzzt&gt;
+51715c44-05c1-4b1d-a4cb-2cb560d64761:&lt;bzzt&gt;
+4c600186-82a0-4a36-9574-0458bbc481a7:&lt;bzzt&gt;
+8d093153-4186-45ee-aa9c-28868fbf4f19:&lt;bzzt&gt;
+d9c0192d-7d95-4d4b-96b8-e1e0e2f5ae27:&lt;bzzt&gt;
+8750aa0c-1553-408e-b27c-af9d4da23285:&lt;bzzt&gt;
+9855abe7-e3dd-4dc1-b6e2-59d0a201033a:&lt;bzzt&gt;
+747079d1-658f-4714-b2f7-4d2df13abb03:&lt;bzzt&gt;
+016d303f-9ed2-4b5e-a403-8f5aa854873f:&lt;bzzt&gt;
+962771ca-9752-42f0-89fe-d377078fc462:&lt;bzzt&gt;
+b80a5ee6-2db5-43a1-a809-08eec5af11ff:&lt;bzzt&gt;
+bb22be3d-d926-4c88-94ab-63b12030a509:&lt;bzzt&gt;
+ae8a1b4a-0f10-4790-8818-f0b886e9d56d:&lt;bzzt&gt;
+b961cf0a-085e-49da-a73c-5862170737b8:&lt;bzzt&gt;
+d4a96ce5-9fc5-4751-874b-32ac5fa59174:&lt;bzzt&gt;
+4437ce53-abce-4684-b15b-ab7468188b54:&lt;bzzt&gt;
+888e5007-b06a-4bbf-a141-b65b7957182c:&lt;bzzt&gt;
+de80acfa-e1ff-40e2-a176-e6e81531933e:&lt;bzzt&gt;
+c3c6cb14-f1d1-411b-bbf6-54ccc253a6b5:&lt;bzzt&gt;
 4100cd8e-c60e-433e-9854-dca7aa892cd7:Hello? HELLO?
 88726f0a-eb69-4b64-ad61-cd1d684d222b:I'm in the Exclusion Zone. You're being LIED to.
 680b16e6-e530-4041-92f6-89e882a842d2:The Army know exactly what this is.
@@ -8234,146 +8234,146 @@ baae6b38-ca2a-44be-90a5-05205b2acffb:And we can't get out.
 315fd99a-4c64-4386-9db1-549bdf3f2090:Noise attracts the dead. 
 338f601b-06ee-4735-905f-16eb8e471d65:There are so many here, and so quickly.
 a97004ed-f62e-4c18-a70e-8838055948fe:Too quickly.
-425d50c7-3478-48ec-a83f-fa6eeb1c917c:<
-e2ec4d86-6df2-43b8-b47d-f386fc60308c:<
-48121908-0f9c-4f29-8a8a-162e6e40e5e8:<
-49125c2d-e008-44be-b8f0-e170a4d95c91:<
-d29a4f5b-f2e2-4927-a81c-5b57c7229f76:<
-a12a47f6-d276-43cc-9534-ada127e13037:<
-2f8889a5-735c-4ad2-abee-22dede0c1ec5:<
-f28402db-9a92-4aae-b891-7d06f68b9c24:<
-fa1a50dd-0bce-412a-b48d-438967cef8fc:<
-87069ec1-72b9-4b3e-bb7c-e0212ab5dd43:<
-67dbae14-afd7-476c-a5e8-50ec1eb5a966:<
-6010663f-f88b-4a0e-85db-b8308b7bca20:<
-9b7bae4e-679b-48d2-92e4-c827bb7198be:<
-15c5a948-834f-4359-ac36-fc7d604c295c:<
-bb771bd3-d20d-44d1-829d-605d5e9ed12e:<
-efa79d8b-d51a-4d1b-bd54-ae8da103b93b:<
-f3e633d4-3d9d-4b6c-b9d9-195ba972d76d:<
-a957b338-ceb7-416d-9e14-7eaf3c7a0972:<
-766b23f6-50d9-4b37-b945-590ce7cc38ef:<
-b40138a7-e235-433c-8a11-20d99b36ca14:<
-25ad3c52-85fc-4df1-b176-b5b4eaeac3a2:<
-0a700473-0089-4462-96bd-c517f3b049b0:<
-5582d5d0-b0c6-4b31-8ff6-430cf804376b:<
-41d37c3c-17c2-48bd-acda-75d81bf0b0aa:<
-198891d0-ffdf-40b1-a3e3-7197bb1e8642:<
-083d7883-4544-4f6e-8ad7-895ae71b62f2:<
-fe2c39ae-92ed-48f2-87cb-38026d7b4584:<
-4a1433cd-1e39-4a7d-bcef-6040980380fc:<
-684d124a-78ae-4b24-8ab9-312b83daa47b:<
-62f844de-e57d-4ed1-a4b3-e1170cb95b00:<
-5f7ecb36-7e85-4d2d-b7e3-e39a314ee4cf:<
-7e7ae272-44c7-4388-94b2-74709319fdcc:<
-d5255c6e-35f7-4cc5-9bce-ccc1e560e44c:<
-f101ec04-926a-45ab-9c46-2c32be21a97e:<
-66aac1c5-cf23-4d62-967a-6005de8d0bdf:<
-3f1e138c-12c0-42d8-8eda-00bf6ac4d70f:<
-d21f33a1-b057-47c3-9b52-40980fa329e2:<
-fd921856-3128-49b6-8c2e-fb045d04713b:<
-3356dfb4-dd40-491d-8af3-becf0012de5c:<
-722159a8-95fb-459e-aa56-6a9d91c32f52:<
-6f05653d-acc6-45c7-85c6-3b6129a9e6bf:<
-6b648c27-535c-4493-82dc-672cc3efcd16:<
-4b0612a1-7079-4cc8-8b57-5c8301ada0b6:<
-5d38729d-8c48-4ca1-ad56-8df62eeef73c:<
-e5c64b5a-0a51-42f3-bdf1-1184627b7beb:<
-ad833a68-6163-4ab5-b77a-150e624e9f2f:<
-c7f456ea-4070-4593-8d82-be3fc4d65b23:<
-bbedf0fe-272a-4626-90a2-5377e10d2623:<
-1948451d-798f-4af0-aef1-7a2854a87d86:<
-677944b4-50d9-4e1d-ba6f-0c31cbd8cf84:<
-f5086a00-9735-4586-939a-3d1a7d903fc5:<
-f85d5324-5594-45d1-8e45-20879dbaf4ec:<
-cb04af62-4489-4ed7-8971-1ea5e1568d75:<
-42a36775-bd49-49d7-a591-fc3dbaee16b0:<
-3365240e-efee-4d58-8707-82f26a31ccd5:<
-86655586-b813-4131-b8e4-70e4894cf17f:<
-b0553e7f-d2d2-4951-82d6-7d83569faa7d:<
-557b9f0a-8de8-40b9-be5d-233679d894c9:<
-ee054453-85cb-4dfd-86c9-3574e8eca1f1:<
-6b112c36-92cb-4caf-8ba4-14bc17df1c8a:<
-1e733e85-9115-494b-956c-e2569bd73f66:<
-fbb19755-c0bb-410b-be0d-22b07c4e87ae:<
-093afcea-58de-413c-9659-773bdaa0736c:<
-5d4de858-6745-4626-9391-20278b0155d5:<
-24894018-049e-4c60-a68c-e8c396511f39:<
-58cbba52-0418-4e20-bf5e-0cf5307dbf23:<
-dea58ee3-cb08-4200-bea8-feead70b3db5:<
-a746e346-3032-4516-aa71-0cc41ad24b24:<
-3f5fa11c-28a3-4dd1-aa6e-5a38b1bb12a5:<
-3d20d7b1-043a-46e7-9e27-d0b5238446ab:<
-554ee826-2598-42c1-a417-5274ce747e97:<
-5956ce9a-b30c-4d26-9e1b-8f729d480f29:<
-e1dd4531-67d6-40d3-8210-59347658d8a9:<
-16b62dca-daba-4edf-853b-667e45bf887b:<
-74192f83-11ed-4805-950b-cf22c0b85bd5:<
-9b224ece-b278-44f9-a8ad-ca7f255c7bb1:<
-6ee27163-6819-42ef-bea1-24ca44b5ae48:<
-ae69b7e5-2dc7-413d-be9a-1bda45d214f9:<
-40880f09-2f81-41f6-86e4-791b908be1c3:<
-b438b07d-5336-4950-8f86-e6d5ed16a383:<
-04011f2c-48b7-4029-9c48-11c364779280:<
-f51c82ed-9b97-4f6e-91b2-614aa4bbf589:<
-7357b802-f31a-4618-b033-ea36344fd47c:<
-83abfec8-aa11-4442-a6d1-76a0c9835fd4:<
-ff6ead01-df85-470c-bc37-e2aabbdd7fd1:<
-9e8589ff-a9a0-4bcc-8d47-88b4fedd1e44:<
-7c1d212c-8876-49f9-9ee5-5394314cc213:<
-a1d20b10-87be-4eaf-b232-4d3126550a78:<
-c79168e2-b574-40c5-86a7-5b5267ff8034:<
-4a61d0a0-8987-4a50-9bdc-768748e92709:<
-4c60f985-c134-4dd3-91bd-96bef84fdff0:<
-86fe55a0-2965-4eba-97ee-e3fc8eafd711:<
-bd8fca4f-2719-44a4-a334-6f72e5aad42d:<
-2e4ed25d-d37c-4adb-ac96-ecebb4efa66a:<
-285f5a82-0fac-48ec-9ec3-1647fecb5a64:<
-1f6aac78-925e-45ca-b560-2638296081fd:<
-50609020-d8e6-4a70-9014-d3848788485a:<
-9254e32b-ae81-493b-806f-5caf35f877d3:<
-a76ea8cf-5f38-46cf-b11c-da0bc848484d:<
-bae142c6-343a-4f03-bffb-af6dd5788886:<
-6f169dc3-b2d2-4639-9ff9-d0b44e31e37a:<
-c6d689f6-0511-46b4-b4cb-ed314d8c8473:<
-6a22db8f-84dd-4a1c-821b-86f29dba7b3c:<
-60d827d3-f65e-4698-9250-250c226e8085:<
-2eafa309-6e68-468f-84db-4d36adaaeaf0:<
-eb88e655-da1f-4369-9fe3-326db9e6812a:<
-833d8741-f0e2-4399-8247-16d312ff7287:<
-bb4205ce-4686-47d8-933a-4a3d4f7e9086:<
-ae3ad4c0-8fb3-423a-8242-079684bbc152:<
-a304d917-0459-4ce4-a227-7cf5a75a55fc:<
-56d9ee7d-356d-474d-9d02-481c875f9954:<
-3ef23970-d92f-499d-bff0-b0df637b34bd:<
-4d235c72-4e72-499a-b556-c00e26a9d1e3:<
-a3e0dbe1-a99d-4471-b1af-d5bc7fa870ce:<
-9dd54fdc-5ab5-4015-a265-30a38d7b3c63:<
-06fbfe92-ff2d-4dd0-9835-24a24d9db13d:<
-0b51f1d3-4d72-41e7-a711-68200729c12f:<
-ff7e9819-d1f2-4728-80b7-1a55733ae3c5:<
-bd062173-0d3d-4019-9ffc-1a7f73d4bcc9:<
-f4902b36-34bb-4d44-bc4a-581e6d24e825:<
-9c6ae48a-9aec-43fe-8c1f-eae2d68a5c97:<
-db99cb5b-1d76-4739-bec0-c790c1b85da2:<
-a68cbb9b-7a8d-48dc-9520-aca47cfd9587:<
-61aae84e-08a9-4b6f-917f-e2d9dfca87b4:<
-3b261e1b-5cb2-493f-a60d-0c2ea7a97b73:<
-9058130d-4c22-41b5-9277-870edbfd7a69:<
-89141757-9b81-429e-b5e4-f473fef15e3a:<
-0f41b780-9c52-41a3-bcec-fdba600d9bbb:<
-fa09fc73-9bfa-46ff-b92e-5a9e8382c112:<
-3ec136bd-07e8-4c51-8a9e-7099ae6c9414:<
-7e4ff526-a0de-47a5-ab83-b5f8ef3b2e61:<
-d40f9c67-10ef-448e-a6f6-4d8b67c560ce:<
-7d4e9cb3-f023-4c04-8974-508c9b8dbc10:<
-660e5e50-1ec7-4d90-8ca8-be3f1dbf9c3e:<
-0944e0a9-2a08-411b-8730-6f15d143a378:<
-060d5c5f-70e3-45f7-8132-c743d02881dd:<
-7cbcf013-9fb1-46b3-a71a-18d78eba74cb:<
-920b2315-e49d-4dd2-9819-1121148a49d6:<
-3613da55-bd37-4a48-8adb-4ed30272b23c:<
-89159b41-bc2b-4891-8f50-d081f34e7169:<
+425d50c7-3478-48ec-a83f-fa6eeb1c917c:&lt;bzzt&gt;
+e2ec4d86-6df2-43b8-b47d-f386fc60308c:&lt;bzzt&gt;
+48121908-0f9c-4f29-8a8a-162e6e40e5e8:&lt;bzzt&gt;
+49125c2d-e008-44be-b8f0-e170a4d95c91:&lt;bzzt&gt;
+d29a4f5b-f2e2-4927-a81c-5b57c7229f76:&lt;bzzt&gt;
+a12a47f6-d276-43cc-9534-ada127e13037:&lt;bzzt&gt;
+2f8889a5-735c-4ad2-abee-22dede0c1ec5:&lt;bzzt&gt;
+f28402db-9a92-4aae-b891-7d06f68b9c24:&lt;bzzt&gt;
+fa1a50dd-0bce-412a-b48d-438967cef8fc:&lt;bzzt&gt;
+87069ec1-72b9-4b3e-bb7c-e0212ab5dd43:&lt;bzzt&gt;
+67dbae14-afd7-476c-a5e8-50ec1eb5a966:&lt;bzzt&gt;
+6010663f-f88b-4a0e-85db-b8308b7bca20:&lt;bzzt&gt;
+9b7bae4e-679b-48d2-92e4-c827bb7198be:&lt;bzzt&gt;
+15c5a948-834f-4359-ac36-fc7d604c295c:&lt;bzzt&gt;
+bb771bd3-d20d-44d1-829d-605d5e9ed12e:&lt;bzzt&gt;
+efa79d8b-d51a-4d1b-bd54-ae8da103b93b:&lt;bzzt&gt;
+f3e633d4-3d9d-4b6c-b9d9-195ba972d76d:&lt;bzzt&gt;
+a957b338-ceb7-416d-9e14-7eaf3c7a0972:&lt;bzzt&gt;
+766b23f6-50d9-4b37-b945-590ce7cc38ef:&lt;bzzt&gt;
+b40138a7-e235-433c-8a11-20d99b36ca14:&lt;bzzt&gt;
+25ad3c52-85fc-4df1-b176-b5b4eaeac3a2:&lt;bzzt&gt;
+0a700473-0089-4462-96bd-c517f3b049b0:&lt;bzzt&gt;
+5582d5d0-b0c6-4b31-8ff6-430cf804376b:&lt;bzzt&gt;
+41d37c3c-17c2-48bd-acda-75d81bf0b0aa:&lt;bzzt&gt;
+198891d0-ffdf-40b1-a3e3-7197bb1e8642:&lt;bzzt&gt;
+083d7883-4544-4f6e-8ad7-895ae71b62f2:&lt;bzzt&gt;
+fe2c39ae-92ed-48f2-87cb-38026d7b4584:&lt;bzzt&gt;
+4a1433cd-1e39-4a7d-bcef-6040980380fc:&lt;bzzt&gt;
+684d124a-78ae-4b24-8ab9-312b83daa47b:&lt;bzzt&gt;
+62f844de-e57d-4ed1-a4b3-e1170cb95b00:&lt;bzzt&gt;
+5f7ecb36-7e85-4d2d-b7e3-e39a314ee4cf:&lt;bzzt&gt;
+7e7ae272-44c7-4388-94b2-74709319fdcc:&lt;bzzt&gt;
+d5255c6e-35f7-4cc5-9bce-ccc1e560e44c:&lt;bzzt&gt;
+f101ec04-926a-45ab-9c46-2c32be21a97e:&lt;bzzt&gt;
+66aac1c5-cf23-4d62-967a-6005de8d0bdf:&lt;bzzt&gt;
+3f1e138c-12c0-42d8-8eda-00bf6ac4d70f:&lt;bzzt&gt;
+d21f33a1-b057-47c3-9b52-40980fa329e2:&lt;bzzt&gt;
+fd921856-3128-49b6-8c2e-fb045d04713b:&lt;bzzt&gt;
+3356dfb4-dd40-491d-8af3-becf0012de5c:&lt;bzzt&gt;
+722159a8-95fb-459e-aa56-6a9d91c32f52:&lt;bzzt&gt;
+6f05653d-acc6-45c7-85c6-3b6129a9e6bf:&lt;bzzt&gt;
+6b648c27-535c-4493-82dc-672cc3efcd16:&lt;bzzt&gt;
+4b0612a1-7079-4cc8-8b57-5c8301ada0b6:&lt;bzzt&gt;
+5d38729d-8c48-4ca1-ad56-8df62eeef73c:&lt;bzzt&gt;
+e5c64b5a-0a51-42f3-bdf1-1184627b7beb:&lt;bzzt&gt;
+ad833a68-6163-4ab5-b77a-150e624e9f2f:&lt;bzzt&gt;
+c7f456ea-4070-4593-8d82-be3fc4d65b23:&lt;bzzt&gt;
+bbedf0fe-272a-4626-90a2-5377e10d2623:&lt;bzzt&gt;
+1948451d-798f-4af0-aef1-7a2854a87d86:&lt;bzzt&gt;
+677944b4-50d9-4e1d-ba6f-0c31cbd8cf84:&lt;bzzt&gt;
+f5086a00-9735-4586-939a-3d1a7d903fc5:&lt;bzzt&gt;
+f85d5324-5594-45d1-8e45-20879dbaf4ec:&lt;bzzt&gt;
+cb04af62-4489-4ed7-8971-1ea5e1568d75:&lt;bzzt&gt;
+42a36775-bd49-49d7-a591-fc3dbaee16b0:&lt;bzzt&gt;
+3365240e-efee-4d58-8707-82f26a31ccd5:&lt;bzzt&gt;
+86655586-b813-4131-b8e4-70e4894cf17f:&lt;bzzt&gt;
+b0553e7f-d2d2-4951-82d6-7d83569faa7d:&lt;bzzt&gt;
+557b9f0a-8de8-40b9-be5d-233679d894c9:&lt;bzzt&gt;
+ee054453-85cb-4dfd-86c9-3574e8eca1f1:&lt;bzzt&gt;
+6b112c36-92cb-4caf-8ba4-14bc17df1c8a:&lt;bzzt&gt;
+1e733e85-9115-494b-956c-e2569bd73f66:&lt;bzzt&gt;
+fbb19755-c0bb-410b-be0d-22b07c4e87ae:&lt;bzzt&gt;
+093afcea-58de-413c-9659-773bdaa0736c:&lt;bzzt&gt;
+5d4de858-6745-4626-9391-20278b0155d5:&lt;bzzt&gt;
+24894018-049e-4c60-a68c-e8c396511f39:&lt;bzzt&gt;
+58cbba52-0418-4e20-bf5e-0cf5307dbf23:&lt;bzzt&gt;
+dea58ee3-cb08-4200-bea8-feead70b3db5:&lt;bzzt&gt;
+a746e346-3032-4516-aa71-0cc41ad24b24:&lt;bzzt&gt;
+3f5fa11c-28a3-4dd1-aa6e-5a38b1bb12a5:&lt;bzzt&gt;
+3d20d7b1-043a-46e7-9e27-d0b5238446ab:&lt;bzzt&gt;
+554ee826-2598-42c1-a417-5274ce747e97:&lt;bzzt&gt;
+5956ce9a-b30c-4d26-9e1b-8f729d480f29:&lt;bzzt&gt;
+e1dd4531-67d6-40d3-8210-59347658d8a9:&lt;bzzt&gt;
+16b62dca-daba-4edf-853b-667e45bf887b:&lt;bzzt&gt;
+74192f83-11ed-4805-950b-cf22c0b85bd5:&lt;bzzt&gt;
+9b224ece-b278-44f9-a8ad-ca7f255c7bb1:&lt;bzzt&gt;
+6ee27163-6819-42ef-bea1-24ca44b5ae48:&lt;bzzt&gt;
+ae69b7e5-2dc7-413d-be9a-1bda45d214f9:&lt;bzzt&gt;
+40880f09-2f81-41f6-86e4-791b908be1c3:&lt;bzzt&gt;
+b438b07d-5336-4950-8f86-e6d5ed16a383:&lt;bzzt&gt;
+04011f2c-48b7-4029-9c48-11c364779280:&lt;bzzt&gt;
+f51c82ed-9b97-4f6e-91b2-614aa4bbf589:&lt;bzzt&gt;
+7357b802-f31a-4618-b033-ea36344fd47c:&lt;bzzt&gt;
+83abfec8-aa11-4442-a6d1-76a0c9835fd4:&lt;bzzt&gt;
+ff6ead01-df85-470c-bc37-e2aabbdd7fd1:&lt;bzzt&gt;
+9e8589ff-a9a0-4bcc-8d47-88b4fedd1e44:&lt;bzzt&gt;
+7c1d212c-8876-49f9-9ee5-5394314cc213:&lt;bzzt&gt;
+a1d20b10-87be-4eaf-b232-4d3126550a78:&lt;bzzt&gt;
+c79168e2-b574-40c5-86a7-5b5267ff8034:&lt;bzzt&gt;
+4a61d0a0-8987-4a50-9bdc-768748e92709:&lt;bzzt&gt;
+4c60f985-c134-4dd3-91bd-96bef84fdff0:&lt;bzzt&gt;
+86fe55a0-2965-4eba-97ee-e3fc8eafd711:&lt;bzzt&gt;
+bd8fca4f-2719-44a4-a334-6f72e5aad42d:&lt;bzzt&gt;
+2e4ed25d-d37c-4adb-ac96-ecebb4efa66a:&lt;bzzt&gt;
+285f5a82-0fac-48ec-9ec3-1647fecb5a64:&lt;bzzt&gt;
+1f6aac78-925e-45ca-b560-2638296081fd:&lt;bzzt&gt;
+50609020-d8e6-4a70-9014-d3848788485a:&lt;bzzt&gt;
+9254e32b-ae81-493b-806f-5caf35f877d3:&lt;bzzt&gt;
+a76ea8cf-5f38-46cf-b11c-da0bc848484d:&lt;bzzt&gt;
+bae142c6-343a-4f03-bffb-af6dd5788886:&lt;bzzt&gt;
+6f169dc3-b2d2-4639-9ff9-d0b44e31e37a:&lt;bzzt&gt;
+c6d689f6-0511-46b4-b4cb-ed314d8c8473:&lt;bzzt&gt;
+6a22db8f-84dd-4a1c-821b-86f29dba7b3c:&lt;bzzt&gt;
+60d827d3-f65e-4698-9250-250c226e8085:&lt;bzzt&gt;
+2eafa309-6e68-468f-84db-4d36adaaeaf0:&lt;bzzt&gt;
+eb88e655-da1f-4369-9fe3-326db9e6812a:&lt;bzzt&gt;
+833d8741-f0e2-4399-8247-16d312ff7287:&lt;bzzt&gt;
+bb4205ce-4686-47d8-933a-4a3d4f7e9086:&lt;bzzt&gt;
+ae3ad4c0-8fb3-423a-8242-079684bbc152:&lt;bzzt&gt;
+a304d917-0459-4ce4-a227-7cf5a75a55fc:&lt;bzzt&gt;
+56d9ee7d-356d-474d-9d02-481c875f9954:&lt;bzzt&gt;
+3ef23970-d92f-499d-bff0-b0df637b34bd:&lt;bzzt&gt;
+4d235c72-4e72-499a-b556-c00e26a9d1e3:&lt;bzzt&gt;
+a3e0dbe1-a99d-4471-b1af-d5bc7fa870ce:&lt;bzzt&gt;
+9dd54fdc-5ab5-4015-a265-30a38d7b3c63:&lt;bzzt&gt;
+06fbfe92-ff2d-4dd0-9835-24a24d9db13d:&lt;bzzt&gt;
+0b51f1d3-4d72-41e7-a711-68200729c12f:&lt;bzzt&gt;
+ff7e9819-d1f2-4728-80b7-1a55733ae3c5:&lt;bzzt&gt;
+bd062173-0d3d-4019-9ffc-1a7f73d4bcc9:&lt;bzzt&gt;
+f4902b36-34bb-4d44-bc4a-581e6d24e825:&lt;bzzt&gt;
+9c6ae48a-9aec-43fe-8c1f-eae2d68a5c97:&lt;bzzt&gt;
+db99cb5b-1d76-4739-bec0-c790c1b85da2:&lt;bzzt&gt;
+a68cbb9b-7a8d-48dc-9520-aca47cfd9587:&lt;bzzt&gt;
+61aae84e-08a9-4b6f-917f-e2d9dfca87b4:&lt;bzzt&gt;
+3b261e1b-5cb2-493f-a60d-0c2ea7a97b73:&lt;bzzt&gt;
+9058130d-4c22-41b5-9277-870edbfd7a69:&lt;bzzt&gt;
+89141757-9b81-429e-b5e4-f473fef15e3a:&lt;bzzt&gt;
+0f41b780-9c52-41a3-bcec-fdba600d9bbb:&lt;bzzt&gt;
+fa09fc73-9bfa-46ff-b92e-5a9e8382c112:&lt;bzzt&gt;
+3ec136bd-07e8-4c51-8a9e-7099ae6c9414:&lt;bzzt&gt;
+7e4ff526-a0de-47a5-ab83-b5f8ef3b2e61:&lt;bzzt&gt;
+d40f9c67-10ef-448e-a6f6-4d8b67c560ce:&lt;bzzt&gt;
+7d4e9cb3-f023-4c04-8974-508c9b8dbc10:&lt;bzzt&gt;
+660e5e50-1ec7-4d90-8ca8-be3f1dbf9c3e:&lt;bzzt&gt;
+0944e0a9-2a08-411b-8730-6f15d143a378:&lt;bzzt&gt;
+060d5c5f-70e3-45f7-8132-c743d02881dd:&lt;bzzt&gt;
+7cbcf013-9fb1-46b3-a71a-18d78eba74cb:&lt;bzzt&gt;
+920b2315-e49d-4dd2-9819-1121148a49d6:&lt;bzzt&gt;
+3613da55-bd37-4a48-8adb-4ed30272b23c:&lt;bzzt&gt;
+89159b41-bc2b-4891-8f50-d081f34e7169:&lt;bzzt&gt;
 3fa7430e-938d-40a5-ab75-e96e79e6b0f8:Three.
 febe611d-0b3c-48e5-821f-6c54df51281a:Seven.
 33a80294-4881-4f55-86f8-f5ddd9c93edc:...
