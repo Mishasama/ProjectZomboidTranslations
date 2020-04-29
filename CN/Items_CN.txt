@@ -478,7 +478,7 @@
 	DisplayName_Advanced_Trapping = "高级陷阱",
 	DisplayName_Expert_Trapping = "专家陷阱",
 	DisplayName_Master_Trapping = "大师陷阱",
-	DisplayName_Sturdy_Stick= "硬木棒",
+	DisplayName_Sturdy_Stick= "结实木棒",
 	DisplayName_Raw_Axe = "石斧",
 	DisplayName_Stairs_Piece = "一块楼梯",
 	DisplayName_CraftedFishingRod = "钓竿",
