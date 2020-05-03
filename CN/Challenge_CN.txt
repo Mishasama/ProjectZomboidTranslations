@@ -1,7 +1,6 @@
 Challenge_CN = {
 	Challenge_YouHaveOneDay_name = "01. 你只有一天时间",
-	Challenge_YouHaveOneDay_desc = "你回到了诺克斯郡。 你又回到了僵尸毁灭工程最初感染开始的地图。 <LINE> <LINE> 你有相对安全的一天，之后尸潮将找到你并蜂拥而来。 <LINE> <LINE> 
-	哪里是你再次背水一战的地方？ 哪里是你昔日背水一战的地方？ 最好赶紧找到它。  <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
+	Challenge_YouHaveOneDay_desc = "你回到了诺克斯郡。 你又回到了僵尸毁灭工程最初感染开始的地图。 <LINE> <LINE> 你有相对安全的一天，之后尸潮将找到你并蜂拥而来。 <LINE> <LINE> 哪里是你再次背水一战的地方？ 哪里是你昔日背水一战的地方？ 最好赶紧找到它。 <LINE> <LINE> 【感谢社区地图作者 BobHeckling 使用当前的 PZ 工具集重建了 0.1.5 版的地图。】",
 
 	Challenge_WinterIsComing_name = "02. 凛冬将至",
 	Challenge_WinterIsComing_desc = "现在是七月中旬，但是突然凉风四起。 仅仅三天之后凛冬将至，这是以前从未发生过的。 <LINE> <LINE> 你在一个孤立的地方醒来，只有极为可怜的补给。 <LINE> <LINE> 尸潮的行动速度也许会因为严寒而降低，但是这丝毫不降低他们的危险程度。 <LINE> <LINE> 把自己包裹的暖和一点，幸存者...",
