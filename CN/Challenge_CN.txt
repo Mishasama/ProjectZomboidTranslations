@@ -24,7 +24,7 @@ Challenge_CN = {
 	Challenge_TheDescendingFog_desc = "人们首先在水面上看到它，像是一条淡白色的毯子覆盖在俄亥俄河上。 <LINE> <LINE> 起初只是一小片薄雾，之后它笼罩了整个城镇，城镇市民在迷雾中尖叫着死去。 <LINE> <LINE>现在他们走出了城镇，为了追求生存无形、无声、无情。",
 
 	Challenge_Kingsmouth_name = "09. 金斯茅斯",
-	Challenge_Studio_desc = "所有最好的电影都是在这里拍的！",
+	Challenge_Kingsmouth_desc = "祝您在金斯茅斯岛上度过一段轻松的时光！",
 
 	Challenge_Studio_name = "10. 影棚",
 	Challenge_Studio_desc = "所有最好的电影都是在这里拍摄的！",
