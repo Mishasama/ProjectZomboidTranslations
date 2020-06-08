@@ -20,8 +20,8 @@ Challenge_CN = {
 	Challenge_AStormIsComing_name = "07. 风暴将至",
 	Challenge_AStormIsComing_desc = "乌云正聚集在肯塔基州上空。在很远处就可以听到雷声。 <LINE> <LINE> 随着天色变暗，蹒跚行动的僵尸也变得焦躁不安。 <LINE> <LINE> 这场风暴会时强时弱，但永远不会结束。",
 
-	Challenge_TheDescendingFog_name = "08. 死亡迷雾",
-	Challenge_TheDescendingFog_desc = "人们首先在水面上看到它，像是一条淡白色的毯子覆盖在俄亥俄河上。 <LINE> <LINE> 起初只是一小片薄雾，之后它笼罩了整个城镇，城镇市民在迷雾中尖叫着死去。 <LINE> <LINE>现在他们走出了城镇，为了追求生存无形、无声、无情。",
+	Challenge_TheDescendingFog_name = "08. 迷雾降临",
+	Challenge_TheDescendingFog_desc = "人们先是看到它在水面上。 一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出那了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
 
 	Challenge_Kingsmouth_name = "09. 金斯茅斯",
 	Challenge_Kingsmouth_desc = "祝您在金斯茅斯岛上度过一段轻松的时光！",
