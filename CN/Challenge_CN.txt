@@ -18,7 +18,7 @@ Challenge_CN = {
 	Challenge_Challenge2_desc = "在另一天，另一间庇护所准备沐浴鲜血。 <LINE> 尸潮向你涌来，你的死亡将既痛苦又可怕。 所以，出去战斗吧... <LINE><LINE> 背水一战 - 尸潮的波数是无限的且每波的僵尸数量会越来越多。 <LINE><LINE> 可通过击杀僵尸获得金钱,金钱可用来购置装备,升级并修复那浸透了鲜血的武器。 <LINE> ",
 
 	Challenge_AStormIsComing_name = "07. 风暴将至",
-	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处就可听到雷鸣的爆裂声。 <LINE> <LINE> 随着天色渐暗， 跌倒在大地上的死人变得躁动不安。 <LINE> <LINE> 这场风暴会时强时弱，但永远不会结束。",
+	Challenge_AStormIsComing_desc = "肯塔基州上空乌云密布。 远处就可听到雷鸣的爆裂声。 <LINE> <LINE> 随着天色渐暗， 跌倒在大地上的死人变得躁动不安。 <LINE> <LINE> 这场来势凶猛的风暴会时强时弱，但永远不会结束。",
 
 	Challenge_TheDescendingFog_name = "08. 迷雾降临",
 	Challenge_TheDescendingFog_desc = "人们先是看到它在水面上。 一条淡淡的白色毯子覆盖在俄亥俄河上。 <LINE> <LINE> 它开始只是一片薄雾。 然后它笼罩了整个城镇。 镇民们在阴霾中尖叫着死去。 现在它们走出那了。 <LINE> <LINE> 在对生者的追逐中，无形、无声、无情。",
