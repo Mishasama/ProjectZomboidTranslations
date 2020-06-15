@@ -55,9 +55,9 @@ Challenge_CN = {
 	-- WeaponRepairWindow
 	Challenge_Challenge2_RepairWeapon = "修理武器",
 	-- WeaponUpWindow
-	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场上午九点开始营业。 <LINE> <LINE> 准备好迎接尸潮...",
-	Challenge_WinterIsComingInfoBox = " <CENTRE> 三天后凛冬将至。 <LINE> <LINE> 别忘了把自己包裹得暖和一点...",
-	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 24小时后你在诺克斯县的旅途将成为可怕的地狱...",
-	Challenge_AStormIsComingInfoBox = " <CENTRE> 无尽的恶劣天气到达之前...",
-	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越看不清楚了...",
+	Challenge_OpeningHoursInfoBox = " <CENTRE> 商场在上午九点开门。 <LINE> <LINE> 准备好迎接人群...",
+	Challenge_WinterIsComingInfoBox = " <CENTRE> 再过三天无尽的冬天就开始了。 <LINE> <LINE> 穿暖和点...",
+	Challenge_YouHaveOneDayInfoBox = " <CENTRE> 再过24小时你回诺克斯县的旅程就会变成人间地狱…",
+	Challenge_AStormIsComingInfoBox = " <CENTRE> 前方是无穷无尽的恶劣天气…",
+	Challenge_TheDescendingFogInfoBox = " <CENTRE> 越来越朦胧了…",
 }
