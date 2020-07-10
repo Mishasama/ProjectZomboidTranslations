@@ -673,14 +673,14 @@ Moveables_CN = {
     Zippee_Wall_Shelves = "Zippee Wall Shelves",
 
     -- ISMoveableSpriteProps names
-    Moveable_object = "Moveable Object",
+    Moveable_object = "可移动的物件",
     Scrapable_object = "Scrapable Object",
     
     -- Thumpables without CustomName sprite properties, taken from IsoObject:getName()
     Lamp_on_Pillar = "Lamp on Pillar",
-    Metal_Crate = "Metal Crate",
+    Metal_Crate = "金属箱",
     Stone_Pile = "Cairn",
     Wooden_Picket = "Wooden Picket",
-    Wooden_Stairs = "Wooden Stairs",
+    Wooden_Stairs = "木制楼梯",
 
 }
