@@ -4,7 +4,9 @@
 	version = 3
 	guid = b73aa63e-6286-4c32-9e48-3b0024c22b51
 	language = CN
-	translator = HenryFishYu    Jeff
+	translator = HenryFishYu
+	translator = Jeff
+	translator = Misha （紗紗）
 [/Info]
 
 [Translations]
@@ -3251,10 +3253,10 @@
 	77071459-4179-46e9-ab3a-8c3ec898e34e = 这条消息已经得到共和党的认可。
 
 	//1080. ORIGINAL [#FF00B050]: [img=music] We'll meet you at the... Cross Roads! [img=music]
-	dd448a4e-43e8-49c2-ab06-1cde5b19a321 = [音乐]我们将在...十字路口与您见面！[音乐]
+	dd448a4e-43e8-49c2-ab06-1cde5b19a321 = [img=music]我们将在...十字路口与您见面！[img=music]
 
 	//1081. ORIGINAL [#FF00B050]: [img=music] We'll see you at the... Cross Roads! [img=music]
-	c1fd3d09-5098-44db-9017-c10b1f66e4f7 = [音乐]十字路口期待你的到来！[音乐]
+	c1fd3d09-5098-44db-9017-c10b1f66e4f7 = [img=music]十字路口期待你的到来！[img=music]
 
 	//1082. ORIGINAL [#FF8080FF]: The Cross Roads Mall!
 	72cb8b2d-26ad-42c1-8f54-906be4a1b843 = 就在十字路口购物中心！
@@ -5048,82 +5050,82 @@
 	ff6eb786-0ab0-4693-a60a-cf56676a57f7 = Knox Hitz！您的风格，您的音乐！
 
 	//1679. ORIGINAL [#FFFFC000]: [img=music] We talked the night, till the sun came up. [img=music]
-	197350c4-bf29-4aea-aa0c-a8379d0c1bb1 = [歌词]We talked the night, till the sun came up. [歌词]
+	197350c4-bf29-4aea-aa0c-a8379d0c1bb1 = 
 
 	//1680. ORIGINAL [#FFFFC000]: [img=music] You said it was over. It can't be over.?[img=music]
-	098cca28-d367-40a3-8590-92b09e5e4a7e = [歌词]You said it was over. It can't be over.?[歌词]
+	098cca28-d367-40a3-8590-92b09e5e4a7e = 
 
 	//1681. ORIGINAL [#FFFFC000]: [img=music] You looked at me like a stranger. [img=music]
-	e2e66c0b-eace-4600-95cf-4f9c4da6ae3a = [歌词]You looked at me like a stranger. [歌词]
+	e2e66c0b-eace-4600-95cf-4f9c4da6ae3a = 
 
 	//1682. ORIGINAL [#FFFFC000]: [img=music] How can we be over? [img=music]
-	82232a1e-b538-4f55-af5b-72cd12c4ecb7 = [歌词]How can we be over? [歌词]
+	82232a1e-b538-4f55-af5b-72cd12c4ecb7 = 
 
 	//1683. ORIGINAL [#FFFFC000]: [img=music] How can we be over??[img=music]
-	86c8ba27-d409-4556-b4fe-0c8a028d476a = [歌词]How can we be over??[歌词]
+	86c8ba27-d409-4556-b4fe-0c8a028d476a = 
 
 	//1684. ORIGINAL [#FFFFC000]: [img=music] I skated downtown, saw lovers having fun. [img=music]
-	b1a2fc51-0d5b-42e4-9e4c-d44a21c40d8d = [歌词]I skated downtown, saw lovers having fun. [歌词]
+	b1a2fc51-0d5b-42e4-9e4c-d44a21c40d8d = 
 
 	//1685. ORIGINAL [#FFFFC000]: [img=music] I thought of you, and what you'd done. [img=music]
-	b3c5e79e-e7d0-4168-bd97-ce3b399d6cbc = [歌词]I thought of you, and what you'd done. [歌词]
+	b3c5e79e-e7d0-4168-bd97-ce3b399d6cbc = 
 
 	//1686. ORIGINAL [#FFFFC000]: [img=music] You haven't broken me! [img=music]
-	d0fc27bc-d6cf-4013-b77c-c3bd165af452 = [歌词]You haven't broken me! [歌词]
+	d0fc27bc-d6cf-4013-b77c-c3bd165af452 = 
 
 	//1687. ORIGINAL [#FFFFC000]: [img=music] You've made me who I am! [img=music]
-	b4667f45-d2f0-441b-ac33-e95a59c08d5f = [歌词]You've made me who I am! [歌词]
+	b4667f45-d2f0-441b-ac33-e95a59c08d5f = 
 
 	//1688. ORIGINAL [#FFFFC000]: [img=music] I've seen the sun. [img=music]
-	d9bb373e-7463-4596-baa5-90427a75fb7a = [歌词]I've seen the sun. [歌词]
+	d9bb373e-7463-4596-baa5-90427a75fb7a = 
 
 	//1689. ORIGINAL [#FFFFC000]: [img=music] Cos' now I'm number one!?[img=music]
-	6c862314-07aa-4f4b-88ff-3555d86195ba = [歌词]Cos' now I'm number one!?[歌词]
+	6c862314-07aa-4f4b-88ff-3555d86195ba = 
 
 	//1690. ORIGINAL [#FFFFC000]: [img=music] You're yesterday. An old fairytale.?[img=music]
-	ddc67083-31e1-4d73-a70b-b11d20bb05c2 = [歌词]You're yesterday. An old fairytale.?[歌词]
+	ddc67083-31e1-4d73-a70b-b11d20bb05c2 = 
 
 	//1691. ORIGINAL [#FFFFC000]: [img=music] Now it's come to me. It's over. [img=music]
-	def326d4-0bd4-411e-96b8-05d383616441 = [歌词]Now it's come to me. It's over. [歌词]
+	def326d4-0bd4-411e-96b8-05d383616441 = 
 
 	//1692. ORIGINAL [#FFFFC000]: [img=music] My eyes are open. [img=music]
-	11052a2d-3988-4d42-b84b-cefdaaa53666 = [歌词]My eyes are open. [歌词]
+	11052a2d-3988-4d42-b84b-cefdaaa53666 = 
 
 	//1693. ORIGINAL [#FFFFC000]: We're over because...
 	a28733ab-cd9d-43dd-83b3-34e5264c8b11 = 我们走到了尽头...
 
 	//1694. ORIGINAL [#FFFFC000]: [img=music] I saw you sat at the stoplight. [img=music]
-	463a94d5-e10c-4dd5-900f-55038a611696 = [歌词]I saw you sat at the stoplight. [歌词]
+	463a94d5-e10c-4dd5-900f-55038a611696 = 
 
 	//1695. ORIGINAL [#FFFFC000]: [img=music] It felt like the world couldn't spin right.?[img=music]
-	2f4e712b-3021-4529-9787-235bf0a5c61a = [歌词]It felt like the world couldn't spin right.?[歌词]
+	2f4e712b-3021-4529-9787-235bf0a5c61a = 
 
 	//1696. ORIGINAL [#FFFFC000]: [img=music] I need to be with you. [img=music]
-	fdb8f6a8-3fed-4c6d-90e1-000063e4238c = [歌词]I need to be with you. [歌词]
+	fdb8f6a8-3fed-4c6d-90e1-000063e4238c = 
 
 	//1697. ORIGINAL [#FFFFC000]: [img=music] I need you to love me too. [img=music]
-	3783a9e9-0f14-493a-ba83-063fa688e526 = [歌词]I need you to love me too. [歌词]
+	3783a9e9-0f14-493a-ba83-063fa688e526 = 
 
 	//1698. ORIGINAL [#FFFFC000]: [img=music] I need more and more each day! [img=music]
-	609864b5-7b36-4843-bfaf-6c500910d048 = [歌词] I need more and more each day! [歌词]
+	609864b5-7b36-4843-bfaf-6c500910d048 = 
 
 	//1699. ORIGINAL [#FFFFC000]: [img=music] I'm a nobody. I'm hidden. [img=music]
-	52ecb499-3c7f-42a9-8827-50879ec4721b = [歌词] I'm a nobody. I'm hidden. [歌词]
+	52ecb499-3c7f-42a9-8827-50879ec4721b = 
 
 	//1700. ORIGINAL [#FFFFC000]: [img=music] I'm always out of vision. [img=music]
-	b07d5e54-efbb-4785-8737-b4f22f3b0eb3 = [歌词] I'm always out of vision. [歌词]
+	b07d5e54-efbb-4785-8737-b4f22f3b0eb3 = 
 
 	//1701. ORIGINAL [#FFFFC000]: [img=music] Why can't you notice me? [img=music]
-	99e5b50d-8d3c-4f68-a2fd-a63f4cf885e1 = [歌词] Why can't you notice me? [歌词]
+	99e5b50d-8d3c-4f68-a2fd-a63f4cf885e1 = 
 
 	//1702. ORIGINAL [#FFFFC000]: [img=music] Why can't you find a way? [img=music]
-	c6496c6e-cd3f-46c9-9cfc-568830b7cc7f = [歌词] Why can't you find a way? [歌词]
+	c6496c6e-cd3f-46c9-9cfc-568830b7cc7f = 
 
 	//1703. ORIGINAL [#FFFFC000]: [img=music] Can't you tell you are my world? [img=music]
-	baa10c10-735d-4eb1-a6bf-1202a61b0f42 = [歌词] Can't you tell you are my world? [歌词]
+	baa10c10-735d-4eb1-a6bf-1202a61b0f42 = 
 
 	//1704. ORIGINAL [#FFFFC000]: [img=music] You came along, I just unfurled! [img=music]
-	16318cc4-c6be-400c-9b93-664411bf91c5 = [歌词] You came along, I just unfurled! [歌词]
+	16318cc4-c6be-400c-9b93-664411bf91c5 = 
 
 	//1705. ORIGINAL [#FFFFC000]: It's morning. It's Knox Hits.
 	426cdb01-4ee8-4aad-83bc-1272c942e5b0 = 早上好，这里是Knox Hits电台。
@@ -5153,40 +5155,40 @@
 	a749bd1d-d825-44a7-8121-bb85bf7060a1 = 这就是你微笑的理由！
 
 	//1714. ORIGINAL [#FF00B050]: [img=music] I don't know if she loves me. [img=music]
-	6b5d8176-6647-438c-8e32-57b3ed56e921 = [歌词]I don't know if she loves me. [歌词]
+	6b5d8176-6647-438c-8e32-57b3ed56e921 = 
 
 	//1715. ORIGINAL [#FF00B050]: [img=music] If only she could see me. [img=music]
-	e5aa690b-7af3-442d-b0ef-3d098ddeec38 = [歌词]If only she could see me. [歌词]
+	e5aa690b-7af3-442d-b0ef-3d098ddeec38 = 
 
 	//1716. ORIGINAL [#FF00B050]: [img=music] Laughing and dancing in the sun. [img=music]
-	9079d126-2ca4-4543-9a53-cc580c6f5db4 = [歌词]Laughing and dancing in the sun. [歌词]
+	9079d126-2ca4-4543-9a53-cc580c6f5db4 = 
 
 	//1717. ORIGINAL [#FF00B050]: [img=music] Don't tell me she's not worth tryin' for! [img=music]
-	8163f83b-b283-4f58-a113-12ccfa50d367 = [歌词]Don't tell me she's not worth tryin' for! [歌词]
+	8163f83b-b283-4f58-a113-12ccfa50d367 = 
 
 	//1718. ORIGINAL [#FF00B050]: [img=music] Your smile. Your kiss. [img=music]
-	76b38433-6812-49bf-a0b1-ce348bd9a77a = [歌词]Your smile. Your kiss. [歌词]
+	76b38433-6812-49bf-a0b1-ce348bd9a77a = 
 
 	//1719. ORIGINAL [#FF00B050]: [img=music] I'd give it all - I'd sell my soul! [img=music]
-	00ea757f-0a3a-4657-9a96-ac29667777f9 = [歌词]I'd give it all - I'd sell my soul! [歌词]
+	00ea757f-0a3a-4657-9a96-ac29667777f9 = 
 
 	//1720. ORIGINAL [#FF00B050]: [img=music] To see the way your eyes glisten gold! [img=music]
-	0d34dd0b-592e-45d0-bd21-9ec061da0d5c = [歌词]To see the way your eyes glisten gold! [歌词]
+	0d34dd0b-592e-45d0-bd21-9ec061da0d5c = 
 
 	//1721. ORIGINAL [#FF00B050]: [img=music] Take me like I am. Take me whole! [img=music]
-	b4762ce6-94d6-4d40-bfb3-d30379509ac8 = [歌词]Take me like I am. Take me whole! [歌词]
+	b4762ce6-94d6-4d40-bfb3-d30379509ac8 = 
 
 	//1722. ORIGINAL [#FF00B050]: [img=music] Meal for two, and walkin' through the park. [img=music]
-	1158a872-ac6a-475d-88ac-d452a9da65fc = [歌词]Meal for two, and walkin' through the park. [歌词]
+	1158a872-ac6a-475d-88ac-d452a9da65fc = 
 
 	//1723. ORIGINAL [#FF00B050]: [img=music] Laughin', dreamin', jokin' till it's dark. [img=music]
-	54617e07-af3e-4e30-b740-f97c0fa18ed2 = [歌词]Laughin', dreamin', jokin' till it's dark. [歌词]
+	54617e07-af3e-4e30-b740-f97c0fa18ed2 = 
 
 	//1724. ORIGINAL [#FF00B050]: [img=music] Could it last more than just a day? [img=music]
-	fa480965-c6a6-4011-8481-f622fc049b7f = [歌词]Could it last more than just a day? [歌词]
+	fa480965-c6a6-4011-8481-f622fc049b7f = 
 
 	//1725. ORIGINAL [#FF00B050]: [img=music] C'mon baby will you stay? [img=music]
-	2a579bca-a4f5-4c63-99d9-b9b1af1e2456 = [歌词]C'mon baby will you stay? [歌词]
+	2a579bca-a4f5-4c63-99d9-b9b1af1e2456 = 
 
 	//1726. ORIGINAL [#FF8080FF]: Good afternoon Kentucky!
 	22b8139f-5085-4759-bc59-c5e98e57ddec = 下午好肯塔基州！
